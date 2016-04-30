@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "c7adefe9eb1c78c57ea90bf06e0eddf7", 
+    "description": "React + Flux backed by Rails API - Part 1 | Fancy Pixel", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://fancypixel.github.io/blog/2015/01/28/react-plus-flux-backed-by-rails-api/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2015-05-13T21:14:51Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "react", 
+        "flux", 
+        "rails", 
+        "javascript"
+    ]
+}
