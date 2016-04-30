@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "75bd0bd58f8d0d0e2cd6346dfda1ee19", 
+    "description": "Boost C Libraries", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.boost.org/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-02-16T08:52:39Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "c", 
+        "boost", 
+        "programming"
+    ]
+}
