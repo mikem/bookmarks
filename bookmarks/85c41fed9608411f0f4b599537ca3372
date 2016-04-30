@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "85c41fed9608411f0f4b599537ca3372", 
+    "description": "Programming Scala", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://programming-scala.labs.oreilly.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-09-24T01:16:30Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "scala", 
+        "book", 
+        "java"
+    ]
+}
