@@ -34,4 +34,10 @@
     "hash": "9cda5b7f57c6353d1252629676885589", 
     "uri": "http://www.ivarch.com/programs/pv.shtml", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "39813907054f2be1d1b3ab31c2e8b795", 
+    "uri": "http://blog.getspool.com/2011/11/29/fast-easy-realtime-metrics-using-redis-bitmaps/", 
+    "title": "[No Title]"
 }

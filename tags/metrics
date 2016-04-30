@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "delicious:mike@yeti", 
-    "hash": "ac67011f6f89682c26319a7d803d99a8", 
-    "uri": "http://nerds.airbnb.com/experiments-at-airbnb/", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "delicious:mike@yeti", 
     "hash": "39813907054f2be1d1b3ab31c2e8b795", 
     "uri": "http://blog.getspool.com/2011/11/29/fast-easy-realtime-metrics-using-redis-bitmaps/", 
     "title": "[No Title]"
