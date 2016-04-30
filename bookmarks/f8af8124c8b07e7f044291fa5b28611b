@@ -1,0 +1,17 @@
+{
+    "extended": "by Peter Seibel", 
+    "hash": "f8af8124c8b07e7f044291fa5b28611b", 
+    "description": "Practical Common Lisp", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.gigamonkeys.com/book/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-09-13T00:36:03Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "book", 
+        "lisp", 
+        "programming"
+    ]
+}
