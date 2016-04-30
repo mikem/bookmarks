@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "0508415d4a2c56412f016e256eec4d17", 
+    "description": "How to make urxvt look like gnome-terminal \u00ab SaltyCrane Blog", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.saltycrane.com/blog/2009/11/how-make-urxvt-look-gnome-terminal/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-11-06T04:13:10Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "urxvt", 
+        "terminal", 
+        "gnome"
+    ]
+}
