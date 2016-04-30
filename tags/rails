@@ -172,4 +172,10 @@
     "hash": "8650665b7e813c9cba54cf1db59dc2a6", 
     "uri": "http://toolmantim.com/article/2007/12/5/setting_up_a_new_rails_app_with_git", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "44b40f7853569f499499c896cf0fad1f", 
+    "uri": "http://scie.nti.st/2007/9/4/capistrano-2-0-with-git-shared-repository", 
+    "title": "[No Title]"
 }

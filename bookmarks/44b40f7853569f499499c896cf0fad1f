@@ -1,0 +1,19 @@
+{
+    "extended": "A plugin to use capistrano with git repositories.", 
+    "hash": "44b40f7853569f499499c896cf0fad1f", 
+    "description": "scie.nti.st \u00bb Capistrano 2.0 with Git shared repository", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://scie.nti.st/2007/9/4/capistrano-2-0-with-git-shared-repository", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-01-27T11:57:20Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "rails", 
+        "capistrano", 
+        "ruby", 
+        "deployment"
+    ]
+}
