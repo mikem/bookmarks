@@ -1,0 +1,24 @@
+{
+    "extended": "", 
+    "hash": "180c60c316224ea4cd4e8a2a4f29d864", 
+    "description": "The road to faster tests - (37signals)", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://37signals.com/svn/posts/2742-the-road-to-faster-tests", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-01-28T15:02:13Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ruby", 
+        "test", 
+        "performance", 
+        "tdd", 
+        "rails", 
+        "programming", 
+        "speed", 
+        "agile", 
+        "gc", 
+        "optimization"
+    ]
+}

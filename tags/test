@@ -64,4 +64,10 @@
     "hash": "b79b8791493bdf6c9ea3e93e4cfb2c50", 
     "uri": "http://martinfowler.com/articles/nonDeterminism.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "180c60c316224ea4cd4e8a2a4f29d864", 
+    "uri": "http://37signals.com/svn/posts/2742-the-road-to-faster-tests", 
+    "title": "[No Title]"
 }
