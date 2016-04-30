@@ -46,4 +46,10 @@
     "hash": "ea4593cbc1312fae9c904b02ccd31a39", 
     "uri": "http://blog.steveklabnik.com/posts/2011-09-06-the-secret-to-rails-oo-design", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "349c1fc9a8fafc83d6517c3be141e7d8", 
+    "uri": "http://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/", 
+    "title": "[No Title]"
 }

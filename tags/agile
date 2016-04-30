@@ -100,4 +100,10 @@
     "hash": "b79b8791493bdf6c9ea3e93e4cfb2c50", 
     "uri": "http://martinfowler.com/articles/nonDeterminism.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "349c1fc9a8fafc83d6517c3be141e7d8", 
+    "uri": "http://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/", 
+    "title": "[No Title]"
 }

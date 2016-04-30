@@ -28,4 +28,10 @@
     "hash": "67f406890465ae5f4ebcff64af6d0687", 
     "uri": "http://www.infoq.com/articles/webber-rest-workflow", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "349c1fc9a8fafc83d6517c3be141e7d8", 
+    "uri": "http://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/", 
+    "title": "[No Title]"
 }
