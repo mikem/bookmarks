@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "67f406890465ae5f4ebcff64af6d0687", 
+    "description": "InfoQ: How to GET a Cup of Coffee", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.infoq.com/articles/webber-rest-workflow", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-05-22T10:10:17Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rest", 
+        "web", 
+        "api", 
+        "architecture"
+    ]
+}
