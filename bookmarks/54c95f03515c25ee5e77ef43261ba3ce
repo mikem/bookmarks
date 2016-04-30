@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "54c95f03515c25ee5e77ef43261ba3ce", 
+    "description": "Mock - Mocking and Test Utilities", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.voidspace.org.uk/python/mock.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-03-21T12:30:32Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "mock", 
+        "test", 
+        "library", 
+        "programming"
+    ]
+}
