@@ -1,0 +1,17 @@
+{
+    "extended": "How to turn vim into a spectacular Python IDE", 
+    "hash": "c352463b93b8eadac6fd95350ee83827", 
+    "description": "sontek ( John M. Anderson ) \u00bb Python with a modular IDE (Vim)", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.sontek.net/2008/05/11/python-with-a-modular-ide-vim/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-05-12T09:36:26Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "vim", 
+        "ide"
+    ]
+}

@@ -160,4 +160,10 @@
     "hash": "4903166cc29ef57ac6e72d2d2c884116", 
     "uri": "http://weblog.jamisbuck.org/2008/10/10/coming-home-to-vim", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "c352463b93b8eadac6fd95350ee83827", 
+    "uri": "http://blog.sontek.net/2008/05/11/python-with-a-modular-ide-vim/", 
+    "title": "[No Title]"
 }
