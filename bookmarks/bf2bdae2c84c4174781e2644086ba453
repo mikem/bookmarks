@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "bf2bdae2c84c4174781e2644086ba453", 
+    "description": "How to format 3TB or 4TB drive in Debian", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://andrew-hood.com/debian/2013/08/21/how-to-format-3tb-or-4tb-drive-in-debian.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2014-04-27T14:42:51Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "linux", 
+        "debian", 
+        "sysadmin", 
+        "disk"
+    ]
+}
