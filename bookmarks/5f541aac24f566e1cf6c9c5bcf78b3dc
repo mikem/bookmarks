@@ -1,0 +1,22 @@
+{
+    "extended": "", 
+    "hash": "5f541aac24f566e1cf6c9c5bcf78b3dc", 
+    "description": "How to securely erase the hard disk before selling ones computer | All about Linux", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://linuxhelp.blogspot.com/2006/06/how-to-securely-erase-hard-disk-before.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-07-12T06:02:02Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "linux", 
+        "security", 
+        "privacy", 
+        "disk", 
+        "computer", 
+        "data", 
+        "wipe", 
+        "erase"
+    ]
+}
