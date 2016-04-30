@@ -46,4 +46,10 @@
     "hash": "83fc7c7626e24710fb91b1a15aededcd", 
     "uri": "http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "0a7ad6d324636433d87f3602a84e78c3", 
+    "uri": "http://benediktdeicke.com/2013/01/custom-rspec-example-groups/", 
+    "title": "[No Title]"
 }
