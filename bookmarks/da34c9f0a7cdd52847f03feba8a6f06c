@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "da34c9f0a7cdd52847f03feba8a6f06c", 
+    "description": "Solving the Expression Problem with Clojure 1.2", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://www.ibm.com/developerworks/library/j-clojure-protocols/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-07-16T23:47:54Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "expressionproblem", 
+        "polymorphism", 
+        "programming"
+    ]
+}
