@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "f6dd9aa5565dc07214fb05f8c873f098", 
+    "description": "Essential JavaScript Namespacing Patterns", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://addyosmani.com/blog/essential-js-namespacing/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-09-25T03:52:23Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "javascript", 
+        "patterns"
+    ]
+}

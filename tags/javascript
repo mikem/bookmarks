@@ -214,4 +214,10 @@
     "hash": "78ec9260024958517cce8b8fd4d89ba4", 
     "uri": "http://www.andismith.com/blog/2011/11/on-and-off/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "f6dd9aa5565dc07214fb05f8c873f098", 
+    "uri": "http://addyosmani.com/blog/essential-js-namespacing/", 
+    "title": "[No Title]"
 }
