@@ -574,4 +574,10 @@
     "hash": "d0b3e52963c84badfea867e9fc173df2", 
     "uri": "http://www.cs.chalmers.se/~rjmh/Papers/whyfp.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "a0fc48f0181400db46f32527d7eae114", 
+    "uri": "http://blog.james-carr.org/2006/11/03/tdd-anti-patterns/", 
+    "title": "[No Title]"
 }

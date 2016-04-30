@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "a0fc48f0181400db46f32527d7eae114", 
+    "description": "James Carr \u00bb Blog Archive \u00bb TDD Anti-Patterns", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.james-carr.org/2006/11/03/tdd-anti-patterns/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-06-11T01:34:05Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "tdd", 
+        "test", 
+        "programming", 
+        "patterns", 
+        "antipatterns", 
+        "agile"
+    ]
+}
