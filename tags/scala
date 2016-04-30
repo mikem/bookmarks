@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "delicious:mike@yeti", 
-    "hash": "6543a6e5591bc7acd36c982bbb66c3fe", 
-    "uri": "https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "delicious:mike@yeti", 
     "hash": "7976fc47bb0f69fcae237a3358ded2c7", 
     "uri": "https://lihaoyi.github.io/post/StrategicScalaStylePrincipleofLeastPower.html", 
     "title": "[No Title]"

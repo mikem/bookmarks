@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "7976fc47bb0f69fcae237a3358ded2c7", 
+    "description": "Strategic Scala Style: Principle of Least Power", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://lihaoyi.github.io/post/StrategicScalaStylePrincipleofLeastPower.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2016-02-17T14:18:08Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "scala", 
+        "patterns", 
+        "design", 
+        "architecture", 
+        "bestpractice"
+    ]
+}
