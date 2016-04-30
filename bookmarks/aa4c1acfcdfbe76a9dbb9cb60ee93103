@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "aa4c1acfcdfbe76a9dbb9cb60ee93103", 
+    "description": "Advanced Caching in Rails", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://broadcastingadam.com/2011/05/advanced_caching_in_rails", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-02-26T10:12:51Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rails", 
+        "cache"
+    ]
+}
