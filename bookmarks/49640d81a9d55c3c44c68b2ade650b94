@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "49640d81a9d55c3c44c68b2ade650b94", 
+    "description": "Clojure and Android with Emacs on Ubuntu", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://riddell.us/tutorial/clojure_android/clojure_android.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-10-15T12:47:30Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "android", 
+        "clojure", 
+        "lisp", 
+        "programming", 
+        "tutorial"
+    ]
+}
