@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "cfbdc918b503b1614b6e99c793293f80", 
+    "description": "nginx config trick to force specific return code for testing \u2014 Gist", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://gist.github.com/3189857", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-07-29T12:51:40Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "http", 
+        "nginx"
+    ]
+}
