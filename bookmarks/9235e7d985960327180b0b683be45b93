@@ -1,0 +1,17 @@
+{
+    "extended": "A program that reads lines from a file concurrently, then processes them for analysis. Uses Clojure's refs.", 
+    "hash": "9235e7d985960327180b0b683be45b93", 
+    "description": "ongoing \u00b7 Concur.next \u2014 References", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.tbray.org/ongoing/When/200x/2009/11/11/Clojure-References", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-11-13T03:01:43Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "lisp", 
+        "concurrency"
+    ]
+}
