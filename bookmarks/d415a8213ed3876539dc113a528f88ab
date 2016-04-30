@@ -1,0 +1,21 @@
+{
+    "extended": "", 
+    "hash": "d415a8213ed3876539dc113a528f88ab", 
+    "description": "daddz/sinatra-rspec-bundler-template", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/daddz/sinatra-rspec-bundler-template", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-22T09:45:36Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ruby", 
+        "code", 
+        "sinatra", 
+        "rspec", 
+        "bundler", 
+        "template", 
+        "github"
+    ]
+}

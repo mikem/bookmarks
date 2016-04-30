@@ -58,4 +58,10 @@
     "hash": "4732b92cea78f7ca38e9afe417eb2074", 
     "uri": "http://samsaffron.com/archive/2012/07/12/miniprofiler-ruby-edition", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "d415a8213ed3876539dc113a528f88ab", 
+    "uri": "https://github.com/daddz/sinatra-rspec-bundler-template", 
+    "title": "[No Title]"
 }
