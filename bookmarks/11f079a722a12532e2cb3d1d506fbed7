@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "11f079a722a12532e2cb3d1d506fbed7", 
+    "description": "Issues with position fixed & scrolling on iOS", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://remysharp.com/2012/05/24/issues-with-position-fixed-scrolling-on-ios/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-11-22T23:32:39Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "javascript", 
+        "ios", 
+        "webkit", 
+        "browser", 
+        "web", 
+        "css"
+    ]
+}
