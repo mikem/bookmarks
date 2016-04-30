@@ -1,0 +1,24 @@
+{
+    "extended": "", 
+    "hash": "436155b4cb692470da7cda45f2d6cc5b", 
+    "description": "ohpauleez/shoreleave", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/ohpauleez/shoreleave", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-09-04T23:07:19Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "clojurescript", 
+        "code", 
+        "library", 
+        "github", 
+        "shoreleave", 
+        "html", 
+        "html5", 
+        "browser", 
+        "javascript"
+    ]
+}
