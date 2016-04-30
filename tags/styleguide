@@ -28,4 +28,10 @@
     "hash": "8ccc7a3c55edb50e8d38209af310ddf9", 
     "uri": "https://github.com/Prismatic/eng-practices/blob/master/clojure/20130926-data-representation.md", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "b21bd80ca510d29fb07397b2156b0dae", 
+    "uri": "https://github.com/bbatsov/clojure-style-guide", 
+    "title": "[No Title]"
 }
