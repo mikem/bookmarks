@@ -1,0 +1,15 @@
+{
+    "extended": "", 
+    "hash": "ff2b55a81b036d196d74bcf86491dbac", 
+    "description": "jq", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://stedolan.github.io/jq/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2015-01-21T05:48:53Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "json"
+    ]
+}
