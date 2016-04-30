@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "3aa562b8e84d26327fd3fe9389abe44f", 
+    "description": "id3v2.3.0 - ID3.org", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.id3.org/id3v2.3.0", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-08-28T13:50:46Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "music", 
+        "audio", 
+        "mp3", 
+        "id3"
+    ]
+}
