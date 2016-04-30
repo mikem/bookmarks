@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "132d9381bc3abc19b62e72326675f95c", 
+    "description": "The Clojure Toolbox", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.clojure-toolbox.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-02-17T07:48:50Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "development", 
+        "library", 
+        "tools"
+    ]
+}

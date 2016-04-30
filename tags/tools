@@ -34,4 +34,10 @@
     "hash": "c9096b988f948ca0326bb22be766bb3f", 
     "uri": "http://clojurewerkz.org/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "132d9381bc3abc19b62e72326675f95c", 
+    "uri": "http://www.clojure-toolbox.com/", 
+    "title": "[No Title]"
 }
