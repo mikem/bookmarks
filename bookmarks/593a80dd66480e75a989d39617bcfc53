@@ -1,0 +1,21 @@
+{
+    "extended": "", 
+    "hash": "593a80dd66480e75a989d39617bcfc53", 
+    "description": "All you should really know about Autoconf and Automake | GNU Smalltalk", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://smalltalk.gnu.org/blog/bonzinip/all-you-should-really-know-about-autoconf-and-automake", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-11-02T23:25:12Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "autoconf", 
+        "automake", 
+        "autotools", 
+        "tutorial", 
+        "howto", 
+        "programming", 
+        "build"
+    ]
+}

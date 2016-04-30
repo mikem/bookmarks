@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "delicious:mike@yeti", 
-    "hash": "181404f8fa655ff2d5336a6f39e5c67a", 
-    "uri": "http://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "delicious:mike@yeti", 
     "hash": "593a80dd66480e75a989d39617bcfc53", 
     "uri": "http://smalltalk.gnu.org/blog/bonzinip/all-you-should-really-know-about-autoconf-and-automake", 
     "title": "[No Title]"
