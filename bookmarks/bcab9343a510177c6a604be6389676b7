@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "bcab9343a510177c6a604be6389676b7", 
+    "description": "ImperialViolet - Living with HTTPS", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.imperialviolet.org/2012/07/19/hope9talk.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-07-22T00:09:15Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "http", 
+        "https", 
+        "ssl", 
+        "security", 
+        "web", 
+        "browser"
+    ]
+}
