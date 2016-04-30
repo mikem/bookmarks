@@ -70,4 +70,10 @@
     "hash": "ccf5a34aedd2132b7c394cb6cfbe085d", 
     "uri": "http://macaulaylibrary.org/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "20f7775dba0db60a686f9b0cde873a38", 
+    "uri": "https://bitbucket.org/agriffis/ghettopt", 
+    "title": "[No Title]"
 }
