@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "d15eb8f817f9a7bc691c0fb667716417", 
+    "description": "Dictionary of Algorithms and Data Structures", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.nist.gov/dads/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-03-24T23:28:57Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "programming", 
+        "algorithm", 
+        "reference", 
+        "datastructure"
+    ]
+}
