@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "2fb3dbbd6863ce00dca2ba91dc0edcd8", 
+    "description": "PyMock: An EasyMock like python mocking library", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://theblobshop.com/pymock/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-03-21T12:31:56Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "mock", 
+        "test", 
+        "library", 
+        "programming"
+    ]
+}
