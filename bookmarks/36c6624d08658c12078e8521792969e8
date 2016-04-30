@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "36c6624d08658c12078e8521792969e8", 
+    "description": "Building Large-Scale jQuery Applications", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://addyosmani.com/blog/large-scale-jquery/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-01-08T07:45:36Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "javascript", 
+        "jquery", 
+        "mvc"
+    ]
+}
