@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "1ee386643ed797f1b0f8f1449596e18c", 
+    "description": "Tech Notes: React, JSX, and CoffeeScript", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://neugierig.org/software/blog/2014/02/react-jsx-coffeescript.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2014-03-13T20:41:17Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "react", 
+        "coffeescript", 
+        "jsx", 
+        "javascript"
+    ]
+}
