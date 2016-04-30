@@ -1,0 +1,16 @@
+{
+    "extended": "This series means to teach you everything you need to know to implement any different caching level inside your Rails application. It assumes you know nothing at all about caching in any of its forms. It takes from zero to knowledge to an intermediate level in all areas. If you can't implement caching in your app after reading this then I've failed.", 
+    "hash": "b1f912cb43ff751236683b92b7924561", 
+    "description": "BroadcastingAdam - Advanced Caching in Rails: Revised", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.broadcastingadam.com/2012/07/advanced_caching_revised/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-08-26T06:26:53Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rails", 
+        "cache"
+    ]
+}
