@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "57fcd26ae68d494ceba75f459e564ef6", 
+    "description": "tpope/vim-foreplay", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/tpope/vim-foreplay", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-12-04T23:32:18Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "vim", 
+        "plugin", 
+        "tools", 
+        "github"
+    ]
+}

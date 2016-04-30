@@ -52,4 +52,10 @@
     "hash": "c3929435725626cf6352c46d8a6d8c3a", 
     "uri": "https://github.com/jonase/kibit", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "57fcd26ae68d494ceba75f459e564ef6", 
+    "uri": "https://github.com/tpope/vim-foreplay", 
+    "title": "[No Title]"
 }

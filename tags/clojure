@@ -100,4 +100,10 @@
     "hash": "15039681e70e3b0e4fca447616ff1fe7", 
     "uri": "http://www.brainonfire.net/files/seqs-and-colls/main.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "57fcd26ae68d494ceba75f459e564ef6", 
+    "uri": "https://github.com/tpope/vim-foreplay", 
+    "title": "[No Title]"
 }
