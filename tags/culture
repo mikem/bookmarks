@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "delicious:mike@yeti", 
-    "hash": "ed0b6076138ca3cc24ec1c3e12296122", 
-    "uri": "http://firstround.com/review/the-right-way-to-ship-software/", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "delicious:mike@yeti", 
     "hash": "af44de939f3e417d92b75791d111cc46", 
     "uri": "http://phinze.github.io/2013/12/08/pairing-vs-code-review.html", 
     "title": "[No Title]"

@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "af44de939f3e417d92b75791d111cc46", 
+    "description": "Pairing vs. Code Review: Comparing Developer Cultures", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://phinze.github.io/2013/12/08/pairing-vs-code-review.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2015-08-21T23:56:40Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "pairprogramming", 
+        "codereview", 
+        "process", 
+        "agile", 
+        "culture"
+    ]
+}
