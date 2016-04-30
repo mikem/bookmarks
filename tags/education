@@ -22,4 +22,10 @@
     "hash": "2e5d2264f524cbca30b126e697cc6d25", 
     "uri": "http://online.wsj.com/article/SB10001424052748704101604576247143383496656.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "c27df843dbce084c085bde7f5d568b6c", 
+    "uri": "http://norvig.com/21-days.html", 
+    "title": "[No Title]"
 }

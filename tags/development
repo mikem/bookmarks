@@ -112,4 +112,10 @@
     "hash": "56b773941b9a0686d52cc0782d939073", 
     "uri": "http://clojure.blip.tv/file/4457042/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "c27df843dbce084c085bde7f5d568b6c", 
+    "uri": "http://norvig.com/21-days.html", 
+    "title": "[No Title]"
 }

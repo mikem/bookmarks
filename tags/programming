@@ -190,4 +190,10 @@
     "hash": "361425a28fffb9e7a2edba1b1b85b4fd", 
     "uri": "http://blog.hirelite.com/what-developers-think-when-you-say-rock-star", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "c27df843dbce084c085bde7f5d568b6c", 
+    "uri": "http://norvig.com/21-days.html", 
+    "title": "[No Title]"
 }
