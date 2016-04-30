@@ -1,0 +1,17 @@
+{
+    "extended": "Rails plugins, namely foreign key associations and migrations", 
+    "hash": "2c98aaebee7c5ff032e4ea97ace50e4c", 
+    "description": "RedHill Consulting, Pty. Ltd. - Enterprise Ruby on Rails Plugins", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.redhillonrails.org/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-13T14:01:05Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rails", 
+        "ruby", 
+        "plugin"
+    ]
+}
