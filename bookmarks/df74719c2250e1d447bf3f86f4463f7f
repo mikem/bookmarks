@@ -1,0 +1,21 @@
+{
+    "extended": "", 
+    "hash": "df74719c2250e1d447bf3f86f4463f7f", 
+    "description": "lshift/cloverage \u00b7 GitHub", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/lshift/cloverage", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-01-27T06:23:49Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "clode", 
+        "github", 
+        "leiningen", 
+        "tools", 
+        "test", 
+        "coverage"
+    ]
+}
