@@ -1,0 +1,19 @@
+{
+    "extended": "No monadic headaches: multi-core concurrency is easy in Haskell", 
+    "hash": "d30970607a2d03f8f11f1802f50df2b4", 
+    "description": "Haskell hacking", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://cgi.cse.unsw.edu.au/~dons/blog/2007/11/26#no-headaches", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-02-24T12:04:58Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "programming", 
+        "haskell", 
+        "monads", 
+        "concurrency", 
+        "parallel"
+    ]
+}
