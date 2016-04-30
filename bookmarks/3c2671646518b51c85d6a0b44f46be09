@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "3c2671646518b51c85d6a0b44f46be09", 
+    "description": "Gert Goet: ENVied, or how I stopped worrying about Ruby's ENV", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.gertgoet.com/2014/10/14/envied-or-how-i-stopped-worrying-about-ruby-s-env.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2014-11-01T04:59:01Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ruby", 
+        "rails", 
+        "deployment", 
+        "devops", 
+        "environment"
+    ]
+}
