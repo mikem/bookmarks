@@ -1,0 +1,22 @@
+{
+    "extended": "", 
+    "hash": "2222bdceb3340b1f412e388ba9a6f384", 
+    "description": "Formance.js by Omar Shammas", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://omarshammas.github.io/formancejs", 
+    "private": false, 
+    "meta": "", 
+    "time": "2015-11-03T13:56:30Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "javascript", 
+        "code", 
+        "github", 
+        "library", 
+        "text", 
+        "input", 
+        "validation", 
+        "jquery"
+    ]
+}
