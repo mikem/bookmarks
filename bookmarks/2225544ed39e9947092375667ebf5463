@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "2225544ed39e9947092375667ebf5463", 
+    "description": "jService : 108k+ Trivia Questions", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://jservice.io/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2014-10-09T06:27:21Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "jeopardy", 
+        "api", 
+        "javascript"
+    ]
+}
