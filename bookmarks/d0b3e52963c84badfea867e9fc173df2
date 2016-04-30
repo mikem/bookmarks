@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "d0b3e52963c84badfea867e9fc173df2", 
+    "description": "Why Functional Programming Matters", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.cs.chalmers.se/~rjmh/Papers/whyfp.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-07-04T03:09:21Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "programming", 
+        "functional", 
+        "lisp", 
+        "paper"
+    ]
+}

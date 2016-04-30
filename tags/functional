@@ -76,4 +76,10 @@
     "hash": "5fcdf12084a4bb2ebdf8135b15e55914", 
     "uri": "http://java.ociweb.com/mark/clojure/article.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "d0b3e52963c84badfea867e9fc173df2", 
+    "uri": "http://www.cs.chalmers.se/~rjmh/Papers/whyfp.html", 
+    "title": "[No Title]"
 }

@@ -178,4 +178,10 @@
     "hash": "474f455b24e066d6a76d3b4a57f27d31", 
     "uri": "http://gnuvince.wordpress.com/2008/10/31/fetching-web-comics-with-clojure-part-1/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "d0b3e52963c84badfea867e9fc173df2", 
+    "uri": "http://www.cs.chalmers.se/~rjmh/Papers/whyfp.html", 
+    "title": "[No Title]"
 }
