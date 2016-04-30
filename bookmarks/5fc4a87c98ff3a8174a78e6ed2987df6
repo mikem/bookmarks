@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "5fc4a87c98ff3a8174a78e6ed2987df6", 
+    "description": "MOA Massive Online Analysis \u00ab Real Time Analytics for Data Streams", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://moa.cs.waikato.ac.nz/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-08-03T02:57:54Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "data", 
+        "analysis", 
+        "statistics", 
+        "java"
+    ]
+}
