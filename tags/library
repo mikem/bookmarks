@@ -64,4 +64,10 @@
     "hash": "132d9381bc3abc19b62e72326675f95c", 
     "uri": "http://www.clojure-toolbox.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "ccf5a34aedd2132b7c394cb6cfbe085d", 
+    "uri": "http://macaulaylibrary.org/", 
+    "title": "[No Title]"
 }
