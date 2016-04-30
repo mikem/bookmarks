@@ -1,0 +1,15 @@
+{
+    "extended": "Tutorial on git focusing on how to use it rather than how it works under the covers.", 
+    "hash": "56d79d114ab3bad2129b6a9155cb5804", 
+    "description": "Git Magic - Preface", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www-cs-students.stanford.edu/~blynn/gitmagic/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-08-09T14:04:16Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git"
+    ]
+}
