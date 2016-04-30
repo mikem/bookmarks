@@ -1,0 +1,18 @@
+{
+    "extended": "Use those extra cores and beat C today! (Parallel Haskell redux)", 
+    "hash": "07442202e2e66f863fb70a15ef699ecf", 
+    "description": "Haskell hacking", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://cgi.cse.unsw.edu.au/~dons/blog/2007/11/29#smoking-4core", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-02-24T12:04:30Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "programming", 
+        "haskell", 
+        "concurrency", 
+        "parallel"
+    ]
+}
