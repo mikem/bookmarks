@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "1f2b86bd8d744e82737498f04604aeae", 
+    "description": "In praise of git\u2019s index // plasmasturm.org", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://plasmasturm.org/log/gitidxpraise/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-01-26T12:04:01Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "scm", 
+        "software"
+    ]
+}
