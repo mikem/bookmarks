@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "8d51e2e20d3a79ca189152275e6bbece", 
+    "description": "REST-ful URI design | 2PartsMagic Blog", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.2partsmagic.com/restful-uri-design/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2016-03-30T11:21:08Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "web", 
+        "rest", 
+        "url", 
+        "design", 
+        "bestpractices", 
+        "api"
+    ]
+}
