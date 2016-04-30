@@ -1,0 +1,18 @@
+{
+    "extended": "Something to consider adding to my own blog.", 
+    "hash": "5aeca0931cb3db826ae27d6876394bed", 
+    "description": "MyBlogLog", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.mybloglog.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2006-12-14T14:24:37Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "blog", 
+        "tracking", 
+        "stats", 
+        "links"
+    ]
+}
