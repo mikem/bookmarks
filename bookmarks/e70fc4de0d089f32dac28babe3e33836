@@ -1,0 +1,21 @@
+{
+    "extended": "", 
+    "hash": "e70fc4de0d089f32dac28babe3e33836", 
+    "description": "zeromq: Fastest. Messaging. Ever.", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.zeromq.org/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-06-24T01:48:56Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "messaging", 
+        "programming", 
+        "zeromq", 
+        "0mq", 
+        "networking", 
+        "distributed", 
+        "queue"
+    ]
+}
