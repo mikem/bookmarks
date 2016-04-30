@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "bb7b0fb599e1f1eee2b236800985adcb", 
+    "description": "Asset Pipeline for Dummies - coderberry.me", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://coderberry.me/blog/2012/04/24/asset-pipeline-for-dummies/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-13T06:24:53Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rails", 
+        "assetpipeline"
+    ]
+}
