@@ -1,0 +1,24 @@
+{
+    "extended": "A general description of the popular sound layers available on Linux (and other platforms).", 
+    "hash": "4ab4fee36b07b3528250094f0092f6ed", 
+    "description": "Kaisergemuese", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://0pointer.de/blog/projects/guide-to-sound-apis", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-11-29T16:59:03Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "linux", 
+        "sound", 
+        "api", 
+        "pulseaudio", 
+        "alsa", 
+        "gstreamer", 
+        "phonon", 
+        "jack", 
+        "sdl", 
+        "libcanberra"
+    ]
+}
