@@ -1,0 +1,15 @@
+{
+    "extended": "Lots of cool things to do with GPG", 
+    "hash": "45d941b99b0f86359cb0c08ea0906691", 
+    "description": "GnuPG Hacks | Linux Journal", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.linuxjournal.com/article/8732", 
+    "private": false, 
+    "meta": "", 
+    "time": "2006-11-27T10:50:07Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "gpg"
+    ]
+}
