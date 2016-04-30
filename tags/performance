@@ -130,4 +130,10 @@
     "hash": "351043e1578dd5efa89832a26d332090", 
     "uri": "http://code.google.com/p/namebench/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "9c313425a185a2400ac7185fb47fa13c", 
+    "uri": "http://meshy.org/2009/12/13/widefinder-2-with-clojure.html", 
+    "title": "[No Title]"
 }

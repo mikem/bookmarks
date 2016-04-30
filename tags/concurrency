@@ -28,4 +28,10 @@
     "hash": "3830d44607686fc60ffc079c40f8bc99", 
     "uri": "http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "9c313425a185a2400ac7185fb47fa13c", 
+    "uri": "http://meshy.org/2009/12/13/widefinder-2-with-clojure.html", 
+    "title": "[No Title]"
 }

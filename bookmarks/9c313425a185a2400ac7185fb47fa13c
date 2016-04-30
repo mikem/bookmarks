@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "9c313425a185a2400ac7185fb47fa13c", 
+    "description": "Widefinder 2 with Clojure", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://meshy.org/2009/12/13/widefinder-2-with-clojure.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-12-28T13:08:45Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "performance", 
+        "programming", 
+        "concurrency", 
+        "java", 
+        "lisp"
+    ]
+}
