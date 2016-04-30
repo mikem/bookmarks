@@ -34,4 +34,10 @@
     "hash": "a53d3b4d0a9456000fa1694b10f95f51", 
     "uri": "http://www.cs.kent.ac.uk/projects/refactor-fp/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "7e55a713b825a6d3b9cb84fb224902af", 
+    "uri": "http://igstan.ro/posts/2011-05-02-understanding-monads-with-javascript.html", 
+    "title": "[No Title]"
 }

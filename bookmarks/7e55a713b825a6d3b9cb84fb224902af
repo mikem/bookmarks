@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "7e55a713b825a6d3b9cb84fb224902af", 
+    "description": "Understanding Monads With JavaScript", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://igstan.ro/posts/2011-05-02-understanding-monads-with-javascript.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-05-22T15:01:27Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "javascript", 
+        "monads", 
+        "programming", 
+        "functional"
+    ]
+}
