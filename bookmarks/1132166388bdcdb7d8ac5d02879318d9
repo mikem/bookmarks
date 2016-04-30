@@ -1,0 +1,17 @@
+{
+    "extended": "A collection of general purpose C   classes", 
+    "hash": "1132166388bdcdb7d8ac5d02879318d9", 
+    "description": "http://www.tntnet.org/cxxtools.hms", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.tntnet.org/cxxtools.hms", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-02-21T23:04:00Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "c", 
+        "code", 
+        "library"
+    ]
+}
