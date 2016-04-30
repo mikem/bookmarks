@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "de11fb5ffa843f1416d1d0f1b6000e8e", 
+    "description": "Mapping Objects to Relational Databases: O/R Mapping In Detail", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.agiledata.org/essays/mappingObjects.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-02-05T23:31:19Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "programming", 
+        "design", 
+        "database", 
+        "patterns", 
+        "orm"
+    ]
+}
