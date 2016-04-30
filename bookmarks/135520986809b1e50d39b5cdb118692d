@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "135520986809b1e50d39b5cdb118692d", 
+    "description": "I was being silly to fight Ember-Data on nested URLs, I think - Ember.JS", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://discuss.emberjs.com/t/i-was-being-silly-to-fight-ember-data-on-nested-urls-i-think/2082", 
+    "private": false, 
+    "meta": "", 
+    "time": "2014-10-09T05:35:28Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ember", 
+        "ember-data", 
+        "rails", 
+        "api"
+    ]
+}
