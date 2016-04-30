@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "daaa2747e3a8fc474f9efc997ed57418", 
+    "description": "Docker PostgreSQL Workflow | Snarly Sod Boxer's blog", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://davidamick.wordpress.com/2014/07/19/docker-postgresql-workflow/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2014-10-09T06:29:48Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "docker", 
+        "postgresql", 
+        "devops"
+    ]
+}
