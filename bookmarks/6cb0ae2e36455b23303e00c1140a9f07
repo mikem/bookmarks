@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "6cb0ae2e36455b23303e00c1140a9f07", 
+    "description": "reStructuredText", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://docutils.sourceforge.net/rst.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-04-22T22:47:02Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "restructuredtext", 
+        "markup", 
+        "documentation"
+    ]
+}
