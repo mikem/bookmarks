@@ -136,4 +136,10 @@
     "hash": "76b087eeb8dabf9263379b7289f0b032", 
     "uri": "https://github.com/calebphillips/cljs-todo", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "5073fe09a3fe9ebb0c727dad731c5e20", 
+    "uri": "https://github.com/weavejester/environ", 
+    "title": "[No Title]"
 }

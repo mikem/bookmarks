@@ -1,0 +1,20 @@
+{
+    "extended": "A Clojure library for managing environment settings from a number of different sources.", 
+    "hash": "5073fe09a3fe9ebb0c727dad731c5e20", 
+    "description": "weavejester/environ", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/weavejester/environ", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-20T09:34:17Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "code", 
+        "library", 
+        "github", 
+        "environment", 
+        "development"
+    ]
+}
