@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "79dc51ebde4cc70a7263d8b7614a2e65", 
+    "description": "Mark Volkmann's STM Page", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://java.ociweb.com/mark/stm/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-02-04T11:53:41Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "stm", 
+        "lisp"
+    ]
+}
