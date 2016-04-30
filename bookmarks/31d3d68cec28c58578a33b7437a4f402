@@ -1,0 +1,19 @@
+{
+    "extended": "A beta version of the Django book, freely available.", 
+    "hash": "31d3d68cec28c58578a33b7437a4f402", 
+    "description": "The Django Book", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.djangobook.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-25T14:53:12Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "django", 
+        "book", 
+        "python", 
+        "web", 
+        "framework"
+    ]
+}
