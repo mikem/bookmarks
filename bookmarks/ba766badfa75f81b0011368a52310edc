@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "ba766badfa75f81b0011368a52310edc", 
+    "description": "An Illustrated Guide to the Kaminsky DNS Vulnerability", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.unixwiz.net/techtips/iguide-kaminsky-dns-vuln.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-08-14T09:43:36Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "dns", 
+        "security"
+    ]
+}
