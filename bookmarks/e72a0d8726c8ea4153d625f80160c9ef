@@ -1,0 +1,16 @@
+{
+    "extended": "Interesting mashup, allowing people (traveling) to mark their location on a Google map by sending an SMS with the nearest town.", 
+    "hash": "e72a0d8726c8ea4153d625f80160c9ef", 
+    "description": "Jumpclaimer! - Digital postcards using text messages on mobile phones.", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.jumpclaimer.com/claim/info.jsp", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-02T11:50:04Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "mashup", 
+        "googlemaps"
+    ]
+}
