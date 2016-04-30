@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "d59eba101c275bccf25317ff91641270", 
+    "description": "Encrypting sensitive data in Puppet | Info | theguardian.com", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.theguardian.com/info/developer-blog/2014/feb/14/encrypting-sensitive-data-in-puppet", 
+    "private": false, 
+    "meta": "", 
+    "time": "2014-04-03T06:14:35Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "puppet", 
+        "devops", 
+        "security"
+    ]
+}
