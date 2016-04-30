@@ -1,0 +1,23 @@
+{
+    "extended": "", 
+    "hash": "7816e815ba59da6b66ad37d1e94dd080", 
+    "description": "Like Slime, for Vim \u00ab Jonathan\u2019s Techno-tales", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://technotales.wordpress.com/2007/10/03/like-slime-for-vim/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-10-20T03:19:28Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "vim", 
+        "screen", 
+        "slime", 
+        "programming", 
+        "lisp", 
+        "clojure", 
+        "ruby", 
+        "python", 
+        "shell"
+    ]
+}
