@@ -106,4 +106,10 @@
     "hash": "766894d3e08a890686afa04356e66dff", 
     "uri": "http://myronmars.to/n/dev-blog/2012/01/why-sinatras-halt-is-awesome", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "06e5ebb93b0d063fac2628ed1a97f6eb", 
+    "uri": "http://batsov.com/articles/2011/11/20/admin-interfaces-for-rails-apps-railsadmin-vs-activeadmin/", 
+    "title": "[No Title]"
 }

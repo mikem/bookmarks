@@ -100,4 +100,10 @@
     "hash": "51124e49bea8b1f18d677ecdeb21bd79", 
     "uri": "http://blog.plataformatec.com.br/2011/12/three-tips-to-improve-the-performance-of-your-test-suite/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "06e5ebb93b0d063fac2628ed1a97f6eb", 
+    "uri": "http://batsov.com/articles/2011/11/20/admin-interfaces-for-rails-apps-railsadmin-vs-activeadmin/", 
+    "title": "[No Title]"
 }
