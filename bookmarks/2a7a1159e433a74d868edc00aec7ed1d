@@ -1,0 +1,22 @@
+{
+    "extended": "", 
+    "hash": "2a7a1159e433a74d868edc00aec7ed1d", 
+    "description": "dribnet/strokes \u00b7 GitHub", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/dribnet/strokes", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-03-22T01:14:18Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "clojurescript", 
+        "code", 
+        "github", 
+        "library", 
+        "d3js", 
+        "data", 
+        "visualization"
+    ]
+}
