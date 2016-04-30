@@ -1,0 +1,22 @@
+{
+    "extended": "", 
+    "hash": "975c661e0277bba210ddb03f1e467ecc", 
+    "description": "How to change the hostname of a Linux system | MDLog:/sysadmin", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.ducea.com/2006/08/07/how-to-change-the-hostname-of-a-linux-system/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-05-05T06:34:53Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "linux", 
+        "hostname", 
+        "setup", 
+        "sysadmin", 
+        "debian", 
+        "redhat", 
+        "ubuntu", 
+        "networking"
+    ]
+}

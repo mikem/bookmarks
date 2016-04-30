@@ -4,4 +4,10 @@
     "hash": "dd602c63bdc55969fb11c7b8734ad867", 
     "uri": "http://fedoraproject.org/wiki/Packaging/NamingGuidelines#Renaming.2Freplacing_existing_packages", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "975c661e0277bba210ddb03f1e467ecc", 
+    "uri": "http://www.ducea.com/2006/08/07/how-to-change-the-hostname-of-a-linux-system/", 
+    "title": "[No Title]"
 }
