@@ -1,0 +1,19 @@
+{
+    "extended": "Book on random number generation", 
+    "hash": "623d1fdace749b15f5f43936417face5", 
+    "description": "Non-Uniform Random Variate Generation", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://cg.scs.carleton.ca/~luc/rnbookindex.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-12-31T08:47:12Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "statistics", 
+        "book", 
+        "math", 
+        "probability", 
+        "random"
+    ]
+}
