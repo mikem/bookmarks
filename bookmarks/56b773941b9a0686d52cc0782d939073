@@ -1,0 +1,21 @@
+{
+    "extended": "", 
+    "hash": "56b773941b9a0686d52cc0782d939073", 
+    "description": "Hammock-driven Development - Clojure - blip.tv", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://clojure.blip.tv/file/4457042/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-01-30T12:00:39Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "design", 
+        "development", 
+        "problemsolving", 
+        "richhickey", 
+        "clojure", 
+        "lisp", 
+        "agile"
+    ]
+}

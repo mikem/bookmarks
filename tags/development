@@ -106,4 +106,10 @@
     "hash": "73fec3d345992da54a914a86951e94e8", 
     "uri": "http://hewgill.com/~greg/stackoverflow/ebooks/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "56b773941b9a0686d52cc0782d939073", 
+    "uri": "http://clojure.blip.tv/file/4457042/", 
+    "title": "[No Title]"
 }
