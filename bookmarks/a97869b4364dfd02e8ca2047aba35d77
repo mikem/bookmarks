@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "a97869b4364dfd02e8ca2047aba35d77", 
+    "description": "Reconstructing a module from a Python bytecode cache file", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://lericson.blogg.se/http://lericson.blogg.se/code/2010/february/reconstructing-a-module-from-a-python-bytecod.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-02-19T00:01:22Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "programming"
+    ]
+}

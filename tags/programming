@@ -334,4 +334,10 @@
     "hash": "66379c7761a0ab75744fe901b592117b", 
     "uri": "http://www.artima.com/wbc/interprog.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "a97869b4364dfd02e8ca2047aba35d77", 
+    "uri": "http://lericson.blogg.se/http://lericson.blogg.se/code/2010/february/reconstructing-a-module-from-a-python-bytecod.html", 
+    "title": "[No Title]"
 }
