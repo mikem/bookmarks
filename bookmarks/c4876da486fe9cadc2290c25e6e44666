@@ -1,0 +1,17 @@
+{
+    "extended": "An article that mentions an open source model checking application, MoonWalker.", 
+    "hash": "c4876da486fe9cadc2290c25e6e44666", 
+    "description": "CodeProject: Optimizing a High-Performance Computing Tool. Free source code and programming help", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.codeproject.com/KB/showcase/Moonwalker.aspx", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-12-02T00:51:30Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "c#", 
+        "modelchecking", 
+        "moonwalker"
+    ]
+}
