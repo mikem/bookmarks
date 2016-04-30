@@ -1,0 +1,18 @@
+{
+    "extended": "All kinds of domain/IP tools", 
+    "hash": "b11eba6fe68e08ace4a17b55ef753881", 
+    "description": "Domain Tools: Whois Lookup and Domain Suggestions", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.domaintools.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2006-12-24T07:55:03Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "domain", 
+        "tools", 
+        "dns", 
+        "whois"
+    ]
+}
