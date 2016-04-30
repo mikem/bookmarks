@@ -1,0 +1,21 @@
+{
+    "extended": "Examples from Practical Common Lisp rewritten in Clojure.", 
+    "hash": "dd8168d0fd9d9c96f27c82c648e66cc4", 
+    "description": "Relevance Blog : PCL -> Clojure", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.thinkrelevance.com/2008/9/16/pcl-clojure", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-12-11T11:12:51Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "programming", 
+        "reference", 
+        "language", 
+        "tutorial", 
+        "clojure", 
+        "lisp", 
+        "jvm"
+    ]
+}

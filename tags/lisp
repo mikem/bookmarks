@@ -208,4 +208,10 @@
     "hash": "615f1f6121394832fe25f2cd5e194b2d", 
     "uri": "http://en.wikibooks.org/wiki/Clojure_Programming", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "dd8168d0fd9d9c96f27c82c648e66cc4", 
+    "uri": "http://blog.thinkrelevance.com/2008/9/16/pcl-clojure", 
+    "title": "[No Title]"
 }

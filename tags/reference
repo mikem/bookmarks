@@ -256,4 +256,10 @@
     "hash": "0f7bb0b2373731e8998e6e65e7e846a4", 
     "uri": "http://tldp.org/LDP/abs/html/index.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "dd8168d0fd9d9c96f27c82c648e66cc4", 
+    "uri": "http://blog.thinkrelevance.com/2008/9/16/pcl-clojure", 
+    "title": "[No Title]"
 }
