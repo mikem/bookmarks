@@ -1,0 +1,17 @@
+{
+    "extended": "A wiki with lots of Bash info/tips/tricks.", 
+    "hash": "eecdf6c926629df85cfa04149a05ba1a", 
+    "description": "BashGuide - Greg's Wiki", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://wooledge.org/mywiki/BashGuide", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-05T03:17:35Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "linux", 
+        "bash", 
+        "wiki"
+    ]
+}
