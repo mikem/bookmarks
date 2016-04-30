@@ -1,0 +1,17 @@
+{
+    "extended": "An online document editing tool which multiple people can edit simultaneously. It's cross platform.", 
+    "hash": "ab17833c03b92181cd3e7ad4fcccac5c", 
+    "description": "obby - Trac", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://gobby.0x539.de/trac/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-02-21T01:28:23Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "collaboration", 
+        "editor", 
+        "linux"
+    ]
+}
