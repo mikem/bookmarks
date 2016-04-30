@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "58c52f0c6e42c0a77112e2103e49e7eb", 
+    "description": "Monads in Pictures \u00bb Lost in Technopolis | Lost in Technopolis", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://newartisans.com/2012/08/monads-in-pictures/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-12-30T12:45:02Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "monads", 
+        "functional", 
+        "programming", 
+        "haskell"
+    ]
+}
