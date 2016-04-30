@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "9d7907922c49e985ec6a0c0b53d817f6", 
+    "description": "iPGMail", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://ipgmail.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-07-26T13:55:33Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ios", 
+        "pgp", 
+        "gpg", 
+        "email", 
+        "privacy"
+    ]
+}
