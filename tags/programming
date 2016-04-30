@@ -256,4 +256,10 @@
     "hash": "4a02f478f79fefb2a5fb586c3a293e14", 
     "uri": "http://www.nobugs.org/developer/parsingcpp/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "775164de1c25c2f9fff6715e1a4e0056", 
+    "uri": "http://blogs.codecommunity.org/mindbending/bending-gnome-keyring-with-python-part-3/", 
+    "title": "[No Title]"
 }
