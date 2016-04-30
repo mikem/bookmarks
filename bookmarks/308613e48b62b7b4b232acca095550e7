@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "308613e48b62b7b4b232acca095550e7", 
+    "description": "Android Tutorial #4.2: Passing custom attributes via XML resource files", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://whyandroid.com/android/94-android-tutorial-42-passing-custom-attributes-via-xml-resource-files.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-08-09T15:34:51Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "android", 
+        "view", 
+        "xml", 
+        "attributes"
+    ]
+}
