@@ -1,0 +1,18 @@
+{
+    "extended": "Writing Lisp which generates C", 
+    "hash": "21845d5b991039038770ea461b015ce4", 
+    "description": "voodoo slide: Amplifying C", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://voodoo-slide.blogspot.com/2010/01/amplifying-c.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-01-24T06:29:13Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "lisp", 
+        "c", 
+        "programming", 
+        "compiler"
+    ]
+}
