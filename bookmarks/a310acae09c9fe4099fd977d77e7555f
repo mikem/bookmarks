@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "a310acae09c9fe4099fd977d77e7555f", 
+    "description": "[Ruby Idioms] What is the splat/unary/asterisk operator useful for? \u00ab Silence is Foo", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://raflabs.com/blogs/silence-is-foo/2010/08/07/ruby-idioms-what-is-the-splatunary-operator-useful-for/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-03-21T11:34:04Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ruby", 
+        "programming", 
+        "reference", 
+        "splat"
+    ]
+}
