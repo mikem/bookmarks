@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "1cb0db95349927c62c7fa43c5a908cad", 
+    "description": "Fuubar: the instafailing RSpec progress bar formatter - Jeff Kreeftmeijer", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://jeffkreeftmeijer.com/2010/fuubar-the-instafailing-rspec-progress-bar-formatter/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-11-16T13:13:36Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rspec", 
+        "ruby"
+    ]
+}
