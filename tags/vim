@@ -52,4 +52,10 @@
     "hash": "386d8f1637dff330ffa87f44448a0307", 
     "uri": "http://i.imgur.com/yVzi9.png", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "339638797eb863404c0f745623cc4d4e", 
+    "uri": "https://github.com/mrmargolis/robot-vim", 
+    "title": "[No Title]"
 }

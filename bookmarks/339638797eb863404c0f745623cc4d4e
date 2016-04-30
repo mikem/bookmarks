@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "339638797eb863404c0f745623cc4d4e", 
+    "description": "RobotVim -- for TDD/BDD development of Vim plugins/scripts", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/mrmargolis/robot-vim", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-03-28T23:25:33Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "tdd", 
+        "bdd", 
+        "vim", 
+        "ruby"
+    ]
+}

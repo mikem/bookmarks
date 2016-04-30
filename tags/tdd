@@ -70,4 +70,10 @@
     "hash": "b79b8791493bdf6c9ea3e93e4cfb2c50", 
     "uri": "http://martinfowler.com/articles/nonDeterminism.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "339638797eb863404c0f745623cc4d4e", 
+    "uri": "https://github.com/mrmargolis/robot-vim", 
+    "title": "[No Title]"
 }
