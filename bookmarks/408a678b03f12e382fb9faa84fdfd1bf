@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "408a678b03f12e382fb9faa84fdfd1bf", 
+    "description": "Clojure - cheatsheet", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://clojure.org/cheatsheet", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-10-02T02:10:09Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "reference", 
+        "programming", 
+        "docs"
+    ]
+}

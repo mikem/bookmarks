@@ -460,4 +460,10 @@
     "hash": "5b416ddf56e9bbcf88ae49e775d25c87", 
     "uri": "http://neo4j.org/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "408a678b03f12e382fb9faa84fdfd1bf", 
+    "uri": "http://clojure.org/cheatsheet", 
+    "title": "[No Title]"
 }

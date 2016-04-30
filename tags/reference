@@ -196,4 +196,10 @@
     "hash": "8dbd76f8dfaed06f56a895730b5868fa", 
     "uri": "http://echo.rsmw.net/n00bfaq.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "408a678b03f12e382fb9faa84fdfd1bf", 
+    "uri": "http://clojure.org/cheatsheet", 
+    "title": "[No Title]"
 }
