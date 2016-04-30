@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "fe7789e850e020b60dae0188b8b8267d", 
+    "description": "You could have invented zippers : Inside 245s", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.ezyang.com/2010/04/you-could-have-invented-zippers/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-04-08T05:06:21Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "haskell", 
+        "zipper", 
+        "functional", 
+        "programming", 
+        "datastructure", 
+        "algorithm"
+    ]
+}
