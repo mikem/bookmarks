@@ -1,0 +1,18 @@
+{
+    "extended": "Ruby on Rails provides script.aculo.us scripts by default.", 
+    "hash": "21ab876e5855fbc29a003d339a41602e", 
+    "description": "script.aculo.us - web 2.0 javascript", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://script.aculo.us/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-09T08:53:37Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "javascript", 
+        "ajax", 
+        "framework", 
+        "rails"
+    ]
+}
