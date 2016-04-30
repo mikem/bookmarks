@@ -28,4 +28,10 @@
     "hash": "6a7a5d09a2ea08cd876b0965be6c0449", 
     "uri": "http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "7199ecaf2d36dc9f438524012331d667", 
+    "uri": "http://sr3d.github.com/GithubFinder/", 
+    "title": "[No Title]"
 }

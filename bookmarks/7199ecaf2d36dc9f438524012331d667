@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "7199ecaf2d36dc9f438524012331d667", 
+    "description": "Github File Finder", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://sr3d.github.com/GithubFinder/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-10-04T23:04:27Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "github", 
+        "browser", 
+        "javascript"
+    ]
+}
