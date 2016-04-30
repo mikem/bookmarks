@@ -1,0 +1,17 @@
+{
+    "extended": "RubyForge search results for 'ferret'. Ferret is a search engine implemented in Ruby based on (Java) Lucene.", 
+    "hash": "7223bad74eca54b02c352dba6c1ae052", 
+    "description": "RubyForge: Search", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://rubyforge.org/search/?type_of_search=soft&words=ferret", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-12T14:41:43Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rails", 
+        "ruby", 
+        "search"
+    ]
+}
