@@ -664,4 +664,10 @@
     "hash": "615f1f6121394832fe25f2cd5e194b2d", 
     "uri": "http://en.wikibooks.org/wiki/Clojure_Programming", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "839655ed4123f53f60dd80cb4f737490", 
+    "uri": "http://software.intel.com/en-us/articles/designing-the-framework-of-a-parallel-game-engine/", 
+    "title": "[No Title]"
 }

@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "839655ed4123f53f60dd80cb4f737490", 
+    "description": "Designing the Framework of a Parallel Game Engine - Intel\u00ae Software Network", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://software.intel.com/en-us/articles/designing-the-framework-of-a-parallel-game-engine/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-01-12T23:39:29Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "game", 
+        "programming", 
+        "multithreading", 
+        "multicore", 
+        "parallel"
+    ]
+}
