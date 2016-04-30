@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "26f580bd5ef6ab35d6c079a3d6bcd281", 
+    "description": "Can We REST For A Minute? 6 Lessons From The CRUD vs ...", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://hinchcliffe.org/archive/2009/08/06/17119.aspx", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-05-18T13:29:18Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rest", 
+        "web", 
+        "data", 
+        "design", 
+        "api"
+    ]
+}
