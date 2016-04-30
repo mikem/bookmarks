@@ -4,4 +4,10 @@
     "hash": "dd602c63bdc55969fb11c7b8734ad867", 
     "uri": "http://fedoraproject.org/wiki/Packaging/NamingGuidelines#Renaming.2Freplacing_existing_packages", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "e0c02ba3d19a5d1861e89d23ec9a721c", 
+    "uri": "http://www.rpm.org/max-rpm-snapshot/s1-rpm-depend-auto-depend.html", 
+    "title": "[No Title]"
 }

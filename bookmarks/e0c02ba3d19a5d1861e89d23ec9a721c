@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "e0c02ba3d19a5d1861e89d23ec9a721c", 
+    "description": "Automatic Dependencies", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.rpm.org/max-rpm-snapshot/s1-rpm-depend-auto-depend.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-08-03T02:21:48Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rpm", 
+        "linux"
+    ]
+}
