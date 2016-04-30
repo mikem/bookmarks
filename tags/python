@@ -238,4 +238,10 @@
     "hash": "911acc3c80030d050764d5c5bd137105", 
     "uri": "http://www.evilchuck.com/2008/01/noodling-with-eventlet-and-mulib.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "8d149ade9a99f0891c5fa3e499ae4acb", 
+    "uri": "http://blog.doughellmann.com/2007/07/pymotw-subprocess.html", 
+    "title": "[No Title]"
 }

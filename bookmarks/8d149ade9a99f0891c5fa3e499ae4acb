@@ -1,0 +1,17 @@
+{
+    "extended": "Python module of the week: subprocess", 
+    "hash": "8d149ade9a99f0891c5fa3e499ae4acb", 
+    "description": "Doug Hellmann: PyMOTW: subprocess", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.doughellmann.com/2007/07/pymotw-subprocess.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-11-26T03:49:48Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "subprocess", 
+        "signal"
+    ]
+}
