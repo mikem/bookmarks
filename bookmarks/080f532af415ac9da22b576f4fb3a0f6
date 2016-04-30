@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "080f532af415ac9da22b576f4fb3a0f6", 
+    "description": "Nvidia twinview and xrandr \u00ab Feeding the Penguins", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://morgancollett.wordpress.com/2008/11/25/nvidia-twinview-and-xrandr/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-07-29T01:12:39Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "xrandr", 
+        "nvidia", 
+        "x11", 
+        "linux"
+    ]
+}
