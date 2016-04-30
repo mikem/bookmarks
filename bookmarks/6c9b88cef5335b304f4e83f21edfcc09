@@ -1,0 +1,17 @@
+{
+    "extended": "An SQL wrapper for Clojure with queries as higher order functions.", 
+    "hash": "6c9b88cef5335b304f4e83f21edfcc09", 
+    "description": "Lau-of-DK's clojureql at master - GitHub", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://github.com/Lau-of-DK/clojureql/tree/master", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-01-15T11:53:21Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "database", 
+        "sql", 
+        "clojure"
+    ]
+}

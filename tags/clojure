@@ -472,4 +472,10 @@
     "hash": "615f1f6121394832fe25f2cd5e194b2d", 
     "uri": "http://en.wikibooks.org/wiki/Clojure_Programming", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "6c9b88cef5335b304f4e83f21edfcc09", 
+    "uri": "http://github.com/Lau-of-DK/clojureql/tree/master", 
+    "title": "[No Title]"
 }
