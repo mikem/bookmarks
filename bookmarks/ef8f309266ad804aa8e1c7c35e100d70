@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "ef8f309266ad804aa8e1c7c35e100d70", 
+    "description": "42: JavaScript best practices - Dev.Opera", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://dev.opera.com/articles/view/javascript-best-practices/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-03-12T06:10:31Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "javascript", 
+        "programming", 
+        "tips", 
+        "reference", 
+        "bestpractices", 
+        "optimization"
+    ]
+}
