@@ -226,4 +226,10 @@
     "hash": "2d2ed4b4721de42327c15c8e950d2961", 
     "uri": "http://www.fillerati.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "a535bcaa8d429e4a77fa79dbed181983", 
+    "uri": "http://css-tricks.com/css-sprites/", 
+    "title": "[No Title]"
 }
