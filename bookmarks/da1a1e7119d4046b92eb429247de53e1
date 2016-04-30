@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "da1a1e7119d4046b92eb429247de53e1", 
+    "description": "In search of the perfect URL validation regex", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://mathiasbynens.be/demo/url-regex", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-08-14T20:04:44Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "regex", 
+        "url"
+    ]
+}
