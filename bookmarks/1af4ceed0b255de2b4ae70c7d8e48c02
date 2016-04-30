@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "1af4ceed0b255de2b4ae70c7d8e48c02", 
+    "description": "Intel\u00ae Wireless WiFi Link drivers for Linux*", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://intellinuxwireless.org/?n=Info", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-03-27T04:11:36Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "linux", 
+        "wifi", 
+        "intel"
+    ]
+}
