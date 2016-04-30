@@ -1,0 +1,20 @@
+{
+    "extended": "Thoughts on Continuous and Promiscuous Integration by Martin Fowler.", 
+    "hash": "859c366118429c0ed90bb3dd04760b97", 
+    "description": "MF Bliki: FeatureBranch", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://martinfowler.com/bliki/FeatureBranch.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-09-11T09:46:12Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "branching", 
+        "scm", 
+        "git", 
+        "programming", 
+        "ci", 
+        "agile"
+    ]
+}
