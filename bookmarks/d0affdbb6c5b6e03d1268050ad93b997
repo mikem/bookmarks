@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "d0affdbb6c5b6e03d1268050ad93b997", 
+    "description": "Open Source HTML Parsers in Java", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://java-source.net/open-source/html-parsers", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-07-16T00:39:47Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "java", 
+        "htmlparser", 
+        "parser", 
+        "html", 
+        "opensource", 
+        "programming"
+    ]
+}
