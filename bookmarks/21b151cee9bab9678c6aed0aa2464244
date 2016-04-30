@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "21b151cee9bab9678c6aed0aa2464244", 
+    "description": "Help! My Stylesheets are a Mess! // Speaker Deck", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://speakerdeck.com/u/chriseppstein/p/help-my-stylesheets-are-a-mess", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-13T05:53:18Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "css", 
+        "refactoring", 
+        "styleguide", 
+        "webdesign"
+    ]
+}
