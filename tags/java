@@ -238,4 +238,10 @@
     "hash": "7b58d30b71cac7573dc01bf388b03535", 
     "uri": "http://www.javaranch.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "c51ba1c5fa3d2be791558f4a48a008cd", 
+    "uri": "http://java.sun.com/docs/books/tutorial/index.html", 
+    "title": "[No Title]"
 }

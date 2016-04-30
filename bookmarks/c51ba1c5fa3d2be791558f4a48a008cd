@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "c51ba1c5fa3d2be791558f4a48a008cd", 
+    "description": "The Java\u2122 Tutorials", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://java.sun.com/docs/books/tutorial/index.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-02-12T06:04:34Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "java", 
+        "tutorial", 
+        "sun"
+    ]
+}
