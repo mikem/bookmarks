@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "baa1cca2b235724c66336a042f6b1fe3", 
+    "description": "Dedalus: Datalog in Time and Space | EECS at UC Berkeley", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-173.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-03-18T12:58:05Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "datalog", 
+        "datomic", 
+        "database", 
+        "clojure"
+    ]
+}

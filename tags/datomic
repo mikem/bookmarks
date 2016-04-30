@@ -10,4 +10,10 @@
     "hash": "8230131842b6bab86e66c8bc6cb7e235", 
     "uri": "http://www.jayway.com/2012/06/27/finding-out-who-changed-what-with-datomic/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "baa1cca2b235724c66336a042f6b1fe3", 
+    "uri": "http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-173.html", 
+    "title": "[No Title]"
 }
