@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "delicious:mike@yeti", 
-    "hash": "3aa562b8e84d26327fd3fe9389abe44f", 
-    "uri": "http://www.id3.org/id3v2.3.0", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "delicious:mike@yeti", 
     "hash": "33cd1822bb01bcc0ca0710e2cd4663f9", 
     "uri": "https://wiki.archlinux.org/index.php/Convert_Flac_to_Mp3", 
     "title": "[No Title]"
