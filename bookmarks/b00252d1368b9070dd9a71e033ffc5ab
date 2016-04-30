@@ -1,0 +1,17 @@
+{
+    "extended": "Includes a guide on SQLAlchemy", 
+    "hash": "b00252d1368b9070dd9a71e033ffc5ab", 
+    "description": "Guides to Pylons for people in a hurry - Pylons Cookbook - PythonWeb", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://wiki.pylonshq.com/display/pylonscookbook/Guides+to+Pylons+for+people+in+a+hurry", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-17T08:32:30Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "sqlalchemy", 
+        "tutorial"
+    ]
+}
