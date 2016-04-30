@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "b7a30551b0775d25bd84f583cbc6d1f8", 
+    "description": "Learn You a Haskell for Great Good!", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://learnyouahaskell.com/chapters", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-10-18T01:15:45Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "haskell", 
+        "tutorial", 
+        "programming"
+    ]
+}

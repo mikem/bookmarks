@@ -118,4 +118,10 @@
     "hash": "56ed2c28d0c249fe510236b321056353", 
     "uri": "http://www.haskell.org/tutorial/index.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "b7a30551b0775d25bd84f583cbc6d1f8", 
+    "uri": "http://learnyouahaskell.com/chapters", 
+    "title": "[No Title]"
 }
