@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "d05de27ef4fc9ec167a568eab845b611", 
+    "description": "Android Development without Eclipse", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.miek.nl/blog/archives/2011/05/20/android_development_with_sane_tools/index.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-05-23T00:11:07Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "android", 
+        "development", 
+        "cli"
+    ]
+}
