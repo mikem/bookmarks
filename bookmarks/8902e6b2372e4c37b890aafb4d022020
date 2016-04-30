@@ -1,0 +1,17 @@
+{
+    "extended": "fdupes is a program [...] to scan directories for duplicate files", 
+    "hash": "8902e6b2372e4c37b890aafb4d022020", 
+    "description": "fdupes - Wikipedia, the free encyclopedia", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://en.wikipedia.org/wiki/Fdupes", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-07-08T14:09:11Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "unix", 
+        "cli", 
+        "tools"
+    ]
+}
