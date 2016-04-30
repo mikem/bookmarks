@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "b51c99d9d1eeaa17e4285bef15557327", 
+    "description": "Exherbo", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.exherbo.org/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-06-09T12:29:16Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "linux", 
+        "gentoo", 
+        "paludis"
+    ]
+}
