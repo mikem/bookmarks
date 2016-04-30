@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "0fb333286e496c1d38f1a3f1e331bdcb", 
+    "description": "Managing the Java classpath (UNIX and Mac OS X)", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.ibm.com/developerworks/java/library/j-classpath-unix/?ca=dgr-lnxw06clspth-Unix-MacX", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-12-12T08:04:34Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "java", 
+        "linux"
+    ]
+}
