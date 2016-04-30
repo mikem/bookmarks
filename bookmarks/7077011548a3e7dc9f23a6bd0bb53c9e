@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "7077011548a3e7dc9f23a6bd0bb53c9e", 
+    "description": "What every programmer should know about memory, Part 1 [LWN.net]", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://lwn.net/Articles/250967/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-11-27T10:24:59Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "memory", 
+        "linux"
+    ]
+}
