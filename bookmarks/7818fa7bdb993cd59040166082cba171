@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "7818fa7bdb993cd59040166082cba171", 
+    "description": "Kinokuniya BookWeb", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://bookweb.kinokuniya.co.jp/guest/cgi-bin/bookscohb.cgi?AREA=04", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-07-02T03:46:45Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "books", 
+        "kinokuniya"
+    ]
+}
