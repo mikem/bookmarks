@@ -1,0 +1,17 @@
+{
+    "extended": "LaTeX frontend", 
+    "hash": "b6234db3013b5259e443285470c30718", 
+    "description": "LyX - The Document Processor", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.lyx.org/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-04T03:10:32Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "latex", 
+        "gui", 
+        "lyx"
+    ]
+}
