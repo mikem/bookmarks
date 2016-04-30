@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "efe8e308aecf6b2a4b785a1c45eb6787", 
+    "description": "Comparison of different SQL implementations", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://troels.arvin.dk/db/rdbms/#select-limit", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-03-09T02:36:00Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "reference", 
+        "database", 
+        "sql", 
+        "comparison"
+    ]
+}
