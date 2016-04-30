@@ -1,0 +1,17 @@
+{
+    "extended": "A manual for RockBox running on my iPod.", 
+    "hash": "15d858c5b40afbfda2abb6761d7f3c24", 
+    "description": "http://download.rockbox.org/manual/rockbox-ipodnano/rockbox-build.html", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://download.rockbox.org/manual/rockbox-ipodnano/rockbox-build.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-10-14T12:57:21Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ipod", 
+        "rockbox", 
+        "manual"
+    ]
+}
