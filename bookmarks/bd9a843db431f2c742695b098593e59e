@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "bd9a843db431f2c742695b098593e59e", 
+    "description": "HUAWEI E220 HSDPA USB modem", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://cafim.sssup.it/~giulio/other/huawei-E1692.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-07-27T06:07:56Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "huawei", 
+        "3g", 
+        "modem", 
+        "linux", 
+        "howto"
+    ]
+}
