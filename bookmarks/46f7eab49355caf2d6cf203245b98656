@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "46f7eab49355caf2d6cf203245b98656", 
+    "description": "Python IAQ: Infrequently Answered Questions", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://norvig.com/python-iaq.html?a", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-04-22T03:58:26Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "programming", 
+        "tips", 
+        "faq", 
+        "norvig", 
+        "development"
+    ]
+}
