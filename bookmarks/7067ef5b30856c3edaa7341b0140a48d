@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "7067ef5b30856c3edaa7341b0140a48d", 
+    "description": "spootnik.org \u2013 Nice looking JQuery with Clojuresript", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://spootnik.org/entries/2012/11/22_nice-looking-jquery-with-clojuresript.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-11-24T05:29:43Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojurescript", 
+        "jquery", 
+        "jayq", 
+        "javascript"
+    ]
+}
