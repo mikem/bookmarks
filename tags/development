@@ -52,4 +52,10 @@
     "hash": "132d9381bc3abc19b62e72326675f95c", 
     "uri": "http://www.clojure-toolbox.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "8526a56787bbb8e241ba5ad8a73f6d6a", 
+    "uri": "https://github.com/cgrand/sjacket", 
+    "title": "[No Title]"
 }

@@ -1,0 +1,22 @@
+{
+    "extended": "Sjacket stated goal is to become a common backend for Clojure editors.", 
+    "hash": "8526a56787bbb8e241ba5ad8a73f6d6a", 
+    "description": "cgrand/sjacket", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/cgrand/sjacket", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-06-03T23:53:41Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "code", 
+        "library", 
+        "language", 
+        "development", 
+        "refactoring", 
+        "tdd", 
+        "github"
+    ]
+}
