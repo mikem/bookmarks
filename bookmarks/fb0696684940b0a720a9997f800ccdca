@@ -1,0 +1,19 @@
+{
+    "extended": "An easier interface to Zope3?", 
+    "hash": "fb0696684940b0a720a9997f800ccdca", 
+    "description": "What is Grok?", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://grok.zope.org/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-11-22T03:57:13Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "zope", 
+        "web", 
+        "framework", 
+        "grok"
+    ]
+}
