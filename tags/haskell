@@ -70,4 +70,10 @@
     "hash": "48e78d51e072e353a8affb54785e4511", 
     "uri": "http://projects.haskell.org/haskellmode-vim/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "1e3553af85d745656cb4af64f27a908f", 
+    "uri": "http://projects.haskell.org/language-python/", 
+    "title": "[No Title]"
 }

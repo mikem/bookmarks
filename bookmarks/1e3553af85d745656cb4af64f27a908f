@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "1e3553af85d745656cb4af64f27a908f", 
+    "description": "language-python package", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://projects.haskell.org/language-python/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-03-19T02:55:31Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "haskell", 
+        "parser"
+    ]
+}
