@@ -742,4 +742,10 @@
     "hash": "9a02f20c4a6ab4db5007be3d6c8b542c", 
     "uri": "http://blog.ianbicking.org/minimock.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "e2a1a51d0f02f50de754c7f02b7c19d7", 
+    "uri": "http://python-mock.sourceforge.net/", 
+    "title": "[No Title]"
 }

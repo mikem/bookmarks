@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "e2a1a51d0f02f50de754c7f02b7c19d7", 
+    "description": "The Python Mock Module", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://python-mock.sourceforge.net/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-03-21T12:32:23Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "mock", 
+        "test", 
+        "library", 
+        "programming"
+    ]
+}
