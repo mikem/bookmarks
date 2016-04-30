@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "e9106689a57525a2931e97870efdf52f", 
+    "description": "Shell Apps and Silver Bullets", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://sandofsky.com/blog/shell-apps.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-10T08:33:28Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "mobile", 
+        "native", 
+        "html5", 
+        "webview", 
+        "ios", 
+        "android"
+    ]
+}
