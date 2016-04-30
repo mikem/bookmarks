@@ -1,0 +1,16 @@
+{
+    "extended": "git Manual Page", 
+    "hash": "c4ea996ee69f062fc9b11831d365c3d1", 
+    "description": "git(7)", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.kernel.org/pub/software/scm/git/docs/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-14T01:56:51Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "docs"
+    ]
+}
