@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "83ec76874b1cafd9d91b1f9dd2045ef0", 
+    "description": "calavera/minitest-chef-handler", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/calavera/minitest-chef-handler", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-16T22:45:42Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "chef", 
+        "ruby", 
+        "devops", 
+        "test", 
+        "tdd"
+    ]
+}
