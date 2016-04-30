@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "f1f9c5790be02aede60f2713e1095333", 
+    "description": "Docker Misconceptions", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://devopsu.com/blog/docker-misconceptions/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2015-01-21T05:38:53Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "docker", 
+        "devops"
+    ]
+}
