@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "cade6ac5cd597dd0f0d4e0634fb32e2a", 
+    "description": "It's Not Just Standing Up: Patterns for Daily Standup Meetings", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://martinfowler.com/articles/itsNotJustStandingUp.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2015-07-13T00:33:55Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "agile", 
+        "standup", 
+        "bestpractice", 
+        "process"
+    ]
+}
