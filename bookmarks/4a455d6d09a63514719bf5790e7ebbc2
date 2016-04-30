@@ -1,0 +1,18 @@
+{
+    "extended": "Diagnose power consumption on your laptop and extend battery life.", 
+    "hash": "4a455d6d09a63514719bf5790e7ebbc2", 
+    "description": "Saving power with Linux on Intel hardware", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.linuxpowertop.org/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-04T03:13:08Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "linux", 
+        "laptop", 
+        "power", 
+        "battery"
+    ]
+}
