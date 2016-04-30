@@ -1,0 +1,20 @@
+{
+    "extended": "Rich Hickey's talk on Time, JVM Language Summit, November 12, 2009.", 
+    "hash": "3830d44607686fc60ffc079c40f8bc99", 
+    "description": "InfoQ: Are We There Yet?", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-04-06T12:11:28Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "programming", 
+        "concurrency", 
+        "functional", 
+        "java", 
+        "presentation"
+    ]
+}
