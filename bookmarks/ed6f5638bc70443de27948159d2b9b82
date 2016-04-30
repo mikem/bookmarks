@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "ed6f5638bc70443de27948159d2b9b82", 
+    "description": "A reading list for JVM-based developers - Prehensile Tail", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://prehensiletail.com/blog/2011/11/25/a-jvm-based-developers-reading-list/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-11-27T10:24:26Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "jvm", 
+        "java", 
+        "memory", 
+        "concurrency", 
+        "book"
+    ]
+}
