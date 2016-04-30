@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "6b6437f717d0e8494cb0100bbc5f6bc3", 
+    "description": "Zach's Journal - Making a small Lisp project with quickproject and Quicklisp", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://xach.livejournal.com/278047.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-11-29T12:48:36Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "lisp", 
+        "tutorial", 
+        "programming"
+    ]
+}
