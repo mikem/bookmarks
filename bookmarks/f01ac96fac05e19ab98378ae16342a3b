@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "f01ac96fac05e19ab98378ae16342a3b", 
+    "description": "Programming Clojure with Vim : Deep Blue Lambda", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.deepbluelambda.org/programming/clojure/programming-clojure-with-vim", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-04-21T09:27:45Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "vim", 
+        "development", 
+        "programming", 
+        "editor"
+    ]
+}

@@ -76,4 +76,10 @@
     "hash": "6a7a5d09a2ea08cd876b0965be6c0449", 
     "uri": "http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "f01ac96fac05e19ab98378ae16342a3b", 
+    "uri": "http://www.deepbluelambda.org/programming/clojure/programming-clojure-with-vim", 
+    "title": "[No Title]"
 }

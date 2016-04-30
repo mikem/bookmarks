@@ -142,4 +142,10 @@
     "hash": "46f7eab49355caf2d6cf203245b98656", 
     "uri": "http://norvig.com/python-iaq.html?a", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "f01ac96fac05e19ab98378ae16342a3b", 
+    "uri": "http://www.deepbluelambda.org/programming/clojure/programming-clojure-with-vim", 
+    "title": "[No Title]"
 }

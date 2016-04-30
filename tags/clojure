@@ -274,4 +274,10 @@
     "hash": "2491edbf9e35a9aa412ed1477e8c32cb", 
     "uri": "http://nakkaya.com/2010/06/15/clojure-io-cookbook/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "f01ac96fac05e19ab98378ae16342a3b", 
+    "uri": "http://www.deepbluelambda.org/programming/clojure/programming-clojure-with-vim", 
+    "title": "[No Title]"
 }
