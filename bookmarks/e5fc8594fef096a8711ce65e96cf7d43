@@ -1,0 +1,20 @@
+{
+    "extended": "A paper on font rendering on Linux, Mac, Windows... and more!", 
+    "hash": "e5fc8594fef096a8711ce65e96cf7d43", 
+    "description": "Anti-Grain Geometry - Texts Rasterization Exposures", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://antigrain.com/research/font_rasterization/index.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-25T06:16:47Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "text", 
+        "font", 
+        "rendering", 
+        "linux", 
+        "mac", 
+        "windows"
+    ]
+}
