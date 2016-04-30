@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "64b11ea1b61fbbdd73634587aa5b9180", 
+    "description": "af/JSnoX", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/af/JSnoX", 
+    "private": false, 
+    "meta": "", 
+    "time": "2014-12-19T16:43:40Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "javascript", 
+        "code", 
+        "library", 
+        "react", 
+        "jsx"
+    ]
+}
