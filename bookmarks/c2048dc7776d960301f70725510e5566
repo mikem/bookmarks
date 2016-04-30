@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "c2048dc7776d960301f70725510e5566", 
+    "description": "Using a raw disk as a VirtualBox drive in Windows 7 | Dan Fox", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://romaimperator.com/?p=29", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-01-31T04:51:05Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "virtualbox", 
+        "disk", 
+        "spinrite"
+    ]
+}
