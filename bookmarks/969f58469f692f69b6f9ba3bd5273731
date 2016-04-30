@@ -1,0 +1,21 @@
+{
+    "extended": "", 
+    "hash": "969f58469f692f69b6f9ba3bd5273731", 
+    "description": "noop - Project Hosting on Google Code", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://code.google.com/p/noop/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-09-21T10:54:54Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "noop", 
+        "programming", 
+        "google", 
+        "java", 
+        "jvm", 
+        "language", 
+        "development"
+    ]
+}
