@@ -70,4 +70,10 @@
     "hash": "c3929435725626cf6352c46d8a6d8c3a", 
     "uri": "https://github.com/jonase/kibit", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "97934fec79884849cc24715fa525a11b", 
+    "uri": "https://github.com/magomimmo/modern-cljs", 
+    "title": "[No Title]"
 }

@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "97934fec79884849cc24715fa525a11b", 
+    "description": "magomimmo/modern-cljs", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/magomimmo/modern-cljs", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-11-11T04:00:58Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojurescript", 
+        "clojure", 
+        "code", 
+        "github", 
+        "sample", 
+        "tutorial"
+    ]
+}
