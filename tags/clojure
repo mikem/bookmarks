@@ -208,4 +208,10 @@
     "hash": "9efc5825eb7f305f94aeccf98e0f70d9", 
     "uri": "http://blog.danieljanus.pl/how-to-call-a-private-function-in-clojure", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "3ec01fe2f3c5a82f245b5454a7f27588", 
+    "uri": "http://readmill.com/roman/reads/the-joy-of-clojure-thinking-the-clojure-way", 
+    "title": "[No Title]"
 }

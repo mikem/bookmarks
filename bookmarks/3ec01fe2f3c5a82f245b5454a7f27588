@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "3ec01fe2f3c5a82f245b5454a7f27588", 
+    "description": "Roman is reading The Joy of Clojure: Thinking the Clojure Way by Michael Fogus, Chris Houser - Readmill", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://readmill.com/roman/reads/the-joy-of-clojure-thinking-the-clojure-way", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-03-24T05:23:14Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "book"
+    ]
+}
