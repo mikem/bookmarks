@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "2da54f33aa1fdf7e6198643e95f8c0d2", 
+    "description": "CentOS5 \u306evim\u3067Ruby\u306e\u30aa\u30e0\u30cb\u88dc\u5b8c\u3092\u4f7f\u3046 - unnecessary words", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://d.hatena.ne.jp/hayori/20080607/1212832293", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-08-26T04:19:07Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ruby", 
+        "vim", 
+        "centos"
+    ]
+}
