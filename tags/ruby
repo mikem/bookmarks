@@ -124,4 +124,10 @@
     "hash": "f036b75210ce89e21f9e795eab4fecae", 
     "uri": "http://www.evanmiller.org/how-not-to-sort-by-average-rating.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "7e595ce023ee6b458cb35a6658018899", 
+    "uri": "http://yehudakatz.com/2010/01/10/activemodel-make-any-ruby-object-feel-like-activerecord/", 
+    "title": "[No Title]"
 }

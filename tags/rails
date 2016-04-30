@@ -106,4 +106,10 @@
     "hash": "06e5ebb93b0d063fac2628ed1a97f6eb", 
     "uri": "http://batsov.com/articles/2011/11/20/admin-interfaces-for-rails-apps-railsadmin-vs-activeadmin/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "7e595ce023ee6b458cb35a6658018899", 
+    "uri": "http://yehudakatz.com/2010/01/10/activemodel-make-any-ruby-object-feel-like-activerecord/", 
+    "title": "[No Title]"
 }
