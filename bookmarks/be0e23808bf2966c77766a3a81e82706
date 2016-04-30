@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "be0e23808bf2966c77766a3a81e82706", 
+    "description": "apenwarr/bup", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/apenwarr/bup", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-06-13T12:25:28Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "backup", 
+        "github"
+    ]
+}

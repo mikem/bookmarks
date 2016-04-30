@@ -10,4 +10,10 @@
     "hash": "6c4ffd6ab817bf96fabf5e850a2a8691", 
     "uri": "http://blog.eurocomp.info/2009/12/12/how-to-time-machine-and-file-vault-the-real-thing-also-works-with-snow-leopard/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "be0e23808bf2966c77766a3a81e82706", 
+    "uri": "https://github.com/apenwarr/bup", 
+    "title": "[No Title]"
 }
