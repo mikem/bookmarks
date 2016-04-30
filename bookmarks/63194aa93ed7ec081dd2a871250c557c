@@ -1,0 +1,22 @@
+{
+    "extended": "", 
+    "hash": "63194aa93ed7ec081dd2a871250c557c", 
+    "description": "Graph Your Inbox", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.graphyourinbox.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-09-14T11:34:19Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "data", 
+        "gmail", 
+        "statistics", 
+        "visualization", 
+        "email", 
+        "chrome", 
+        "google", 
+        "mail"
+    ]
+}
