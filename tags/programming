@@ -436,4 +436,10 @@
     "hash": "a5bdd841c06e11732fd41c97391b11b4", 
     "uri": "http://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "bc6128e5f9c06b953234785fac6ad0d8", 
+    "uri": "http://channel9.msdn.com/shows/Going_Deep/Expert-to-Expert-Rich-Hickey-and-Brian-Beckman-Inside-Clojure/", 
+    "title": "[No Title]"
 }
