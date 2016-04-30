@@ -142,4 +142,10 @@
     "hash": "bd5f0a78238f6c215da5b80a47790bbd", 
     "uri": "http://tottinge.blogsome.com/use-vim-like-a-pro/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "d09d46cf28f82e758d4be3206064cca8", 
+    "uri": "http://kotka.de/projects/clojure/vimclojure.html", 
+    "title": "[No Title]"
 }

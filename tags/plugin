@@ -16,4 +16,10 @@
     "hash": "ce061beafa13209429d8003e75fd570c", 
     "uri": "http://www.vim.org/scripts/script.php?script_id=2975", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "d09d46cf28f82e758d4be3206064cca8", 
+    "uri": "http://kotka.de/projects/clojure/vimclojure.html", 
+    "title": "[No Title]"
 }

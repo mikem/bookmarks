@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "d09d46cf28f82e758d4be3206064cca8", 
+    "description": "Kotka : Projects : Clojure : VimClojure", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://kotka.de/projects/clojure/vimclojure.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-01-17T09:57:57Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "vim", 
+        "plugin", 
+        "clojure"
+    ]
+}
