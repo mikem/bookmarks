@@ -208,4 +208,10 @@
     "hash": "7223bad74eca54b02c352dba6c1ae052", 
     "uri": "http://rubyforge.org/search/?type_of_search=soft&words=ferret", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "9ef7741ddf0f4ebd4f992959bfc8dc9a", 
+    "uri": "http://vote.railsrumble.com/", 
+    "title": "[No Title]"
 }
