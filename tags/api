@@ -28,4 +28,10 @@
     "hash": "dc0cd1903320f1b6545eec7631fba21b", 
     "uri": "http://microformats.org/wiki/existing-rel-values", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "5c8ae384057f138d1dd48020580a677c", 
+    "uri": "https://www.iana.org/assignments/link-relations/link-relations.xml", 
+    "title": "[No Title]"
 }

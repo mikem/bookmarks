@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "5c8ae384057f138d1dd48020580a677c", 
+    "description": "https://www.iana.org/assignments/link-relations/link-relations.xml", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://www.iana.org/assignments/link-relations/link-relations.xml", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-31T13:48:10Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "hypermedia", 
+        "api", 
+        "rel", 
+        "reference"
+    ]
+}
