@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "4b92c767b442021b9c7eea48ed8c1f03", 
+    "description": "Full text search in milliseconds with PostgreSQL - Lateral", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2015-06-13T22:46:36Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "postgresql", 
+        "search"
+    ]
+}
