@@ -1,0 +1,21 @@
+{
+    "extended": "Lots of RSpec goodies in this presentation", 
+    "hash": "37bdaad9c3a0a47be5540e2c17599567", 
+    "description": "RSpec", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://kerryb.github.com/iprug-rspec-presentation", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-01-12T11:14:17Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rspec", 
+        "ruby", 
+        "presentation", 
+        "rails", 
+        "tutorial", 
+        "bdd", 
+        "slides"
+    ]
+}
