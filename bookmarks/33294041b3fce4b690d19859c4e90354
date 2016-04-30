@@ -1,0 +1,21 @@
+{
+    "extended": "watch -n 1 'echo \"obase=2", 
+    "hash": "33294041b3fce4b690d19859c4e90354", 
+    "description": "25 Even More \u2013 Sick Linux Commands", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.urfix.com/25-%E2%80%93-sick-linux-commands/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-12-11T08:22:28Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "linux", 
+        "bash", 
+        "cli", 
+        "shell", 
+        "commands", 
+        "scripting", 
+        "unix"
+    ]
+}
