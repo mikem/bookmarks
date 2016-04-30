@@ -1,0 +1,23 @@
+{
+    "extended": "", 
+    "hash": "9d2610c7722b8dd8d475f881c3222056", 
+    "description": "Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure | Going Deep | Channel 9", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://channel9.msdn.com/shows/Going+Deep/Expert-to-Expert-Rich-Hickey-and-Brian-Beckman-Inside-Clojure/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-10-08T11:09:31Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "video", 
+        "clojure", 
+        "microsoft", 
+        "channel9", 
+        "programming", 
+        "interview", 
+        "lecture", 
+        "presentation", 
+        "lisp"
+    ]
+}
