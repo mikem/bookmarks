@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "3a5ea2ed9744172c32677716439a4ad5", 
+    "description": "What Second Life can teach your datacenter about scaling Web apps", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://arstechnica.com/business/data-centers/2010/02/what-second-life-can-teach-all-companies-about-scaling-web-apps.ars/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-02-06T09:39:55Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "secondlife", 
+        "scalability", 
+        "database"
+    ]
+}
