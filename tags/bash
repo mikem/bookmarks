@@ -64,4 +64,10 @@
     "hash": "2cf0c0805a066341d52e3007a3bc11cd", 
     "uri": "http://bash-hackers.org/wiki/doku.php/snipplets/ssh_local_var", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "b8537277a6cddb7588475c9e09d7aa94", 
+    "uri": "http://aymanh.com/how-debug-bash-scripts", 
+    "title": "[No Title]"
 }

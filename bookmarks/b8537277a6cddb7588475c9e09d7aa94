@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "b8537277a6cddb7588475c9e09d7aa94", 
+    "description": "How to Debug Bash Scripts | Ayman Hourieh's Blog", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://aymanh.com/how-debug-bash-scripts", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-08-25T23:25:16Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "bash", 
+        "shell", 
+        "linux", 
+        "debug", 
+        "scripting"
+    ]
+}
