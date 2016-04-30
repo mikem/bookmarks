@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "766894d3e08a890686afa04356e66dff", 
+    "description": "Myron Marston \u00bb Why Sinatra's Halt is Awesome", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://myronmars.to/n/dev-blog/2012/01/why-sinatras-halt-is-awesome", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-01-10T12:30:53Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "sinatra", 
+        "ruby", 
+        "halt"
+    ]
+}

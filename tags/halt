@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "delicious:mike@yeti", 
-    "hash": "d415a8213ed3876539dc113a528f88ab", 
-    "uri": "https://github.com/daddz/sinatra-rspec-bundler-template", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "delicious:mike@yeti", 
     "hash": "766894d3e08a890686afa04356e66dff", 
     "uri": "http://myronmars.to/n/dev-blog/2012/01/why-sinatras-halt-is-awesome", 
     "title": "[No Title]"
