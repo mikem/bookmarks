@@ -1,0 +1,21 @@
+{
+    "extended": "", 
+    "hash": "b94fdf5caa2b5a6b7a33c207956a8157", 
+    "description": "How to configure the TrackPoint - ThinkWiki", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.thinkwiki.org/wiki/How_to_configure_the_TrackPoint", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-04-29T11:40:55Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ultranav", 
+        "thinkpad", 
+        "linux", 
+        "ubuntu", 
+        "configuration", 
+        "trackpoint", 
+        "hardware"
+    ]
+}
