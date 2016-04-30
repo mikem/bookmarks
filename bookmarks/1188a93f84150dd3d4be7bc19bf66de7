@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "1188a93f84150dd3d4be7bc19bf66de7", 
+    "description": "Nagios Monitoring Performance - (37signals)", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://37signals.com/svn/posts/3178-nagios-monitoring-performance", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-08-22T23:36:36Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "monitoring", 
+        "sysadmin", 
+        "performance", 
+        "nagios"
+    ]
+}

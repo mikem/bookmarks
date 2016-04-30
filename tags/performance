@@ -34,4 +34,10 @@
     "hash": "905a226dc606cf27e7f2f29a1546ba8e", 
     "uri": "http://www.dissoc.net/blog/2012/09/06/a-look-at-clojure-performance-tuning/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "1188a93f84150dd3d4be7bc19bf66de7", 
+    "uri": "https://37signals.com/svn/posts/3178-nagios-monitoring-performance", 
+    "title": "[No Title]"
 }
