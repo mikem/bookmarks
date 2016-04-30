@@ -1,0 +1,20 @@
+{
+    "extended": "Tips for creating a good web API.", 
+    "hash": "bac07bbd62386718b1c365fa81b68969", 
+    "description": "Get Your API Right \u00ab Trek", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://wonderfullyflawed.com/2009/07/02/get-your-api-right/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-07-04T03:42:03Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "api", 
+        "rest", 
+        "web", 
+        "programming", 
+        "design", 
+        "http"
+    ]
+}
