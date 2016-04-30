@@ -484,4 +484,10 @@
     "hash": "9320c90584d24348bbd6225a09d0db07", 
     "uri": "http://clojure.blip.tv/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "d029bb6cebe17b7f62dccf94f2ad33d8", 
+    "uri": "http://kotka.de/projects/clojure/gorilla.html", 
+    "title": "[No Title]"
 }

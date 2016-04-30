@@ -1,0 +1,16 @@
+{
+    "extended": "Clojure mode for VIm.", 
+    "hash": "d029bb6cebe17b7f62dccf94f2ad33d8", 
+    "description": "Kotka : Projects : Clojure : Gorilla", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://kotka.de/projects/clojure/gorilla.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-12-12T01:04:56Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "vim", 
+        "clojure"
+    ]
+}

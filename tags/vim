@@ -148,4 +148,10 @@
     "hash": "d09d46cf28f82e758d4be3206064cca8", 
     "uri": "http://kotka.de/projects/clojure/vimclojure.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "d029bb6cebe17b7f62dccf94f2ad33d8", 
+    "uri": "http://kotka.de/projects/clojure/gorilla.html", 
+    "title": "[No Title]"
 }
