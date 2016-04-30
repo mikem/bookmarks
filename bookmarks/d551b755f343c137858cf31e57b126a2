@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "d551b755f343c137858cf31e57b126a2", 
+    "description": "Understanding Git Conceptually", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.eecs.harvard.edu/~cduan/technical/git/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-03-27T05:16:58Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "tutorial"
+    ]
+}
