@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "db5ef6509c4a889c3c055d419c4c5872", 
+    "description": "HowTo: Profile Memory in a Linux System", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://mail.nl.linux.org/linux-mm/2003-03/msg00077.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-10-22T02:30:17Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "linux", 
+        "tuning", 
+        "profiling", 
+        "memory"
+    ]
+}
