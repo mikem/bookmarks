@@ -1,0 +1,21 @@
+{
+    "extended": "", 
+    "hash": "492594225aba3f149bd8e0f649612c5f", 
+    "description": "Specerator", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://specerator.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2015-10-27T08:39:39Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "project-management", 
+        "userstory", 
+        "product-development", 
+        "specification", 
+        "tools", 
+        "pivotal", 
+        "tracker"
+    ]
+}
