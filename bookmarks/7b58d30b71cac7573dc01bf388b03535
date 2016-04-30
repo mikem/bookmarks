@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "7b58d30b71cac7573dc01bf388b03535", 
+    "description": "JavaRanch - A Friendly Place for Java Greenhorns", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.javaranch.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-02-12T06:05:01Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "java", 
+        "community", 
+        "forum", 
+        "tutorial"
+    ]
+}
