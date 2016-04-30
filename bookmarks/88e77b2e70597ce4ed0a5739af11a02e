@@ -1,0 +1,20 @@
+{
+    "extended": "Also check out the github page: https://github.com/petewarden/dstk", 
+    "hash": "88e77b2e70597ce4ed0a5739af11a02e", 
+    "description": "Data Science Toolkit", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.datasciencetoolkit.org/about", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-03-26T02:36:07Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "data", 
+        "datamining", 
+        "linux", 
+        "vm", 
+        "science", 
+        "python"
+    ]
+}
