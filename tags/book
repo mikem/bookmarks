@@ -202,4 +202,10 @@
     "hash": "8b89b2289044dd7370984912ed671bb2", 
     "uri": "http://manybooks.net/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "bbd5642650047c236173f645d8de25af", 
+    "uri": "http://mitpress.mit.edu/sicp/", 
+    "title": "[No Title]"
 }

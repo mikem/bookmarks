@@ -688,4 +688,10 @@
     "hash": "ae50860acb501b493f07dd20932137a8", 
     "uri": "http://www.haskell.org/all_about_monads/html/index.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "bbd5642650047c236173f645d8de25af", 
+    "uri": "http://mitpress.mit.edu/sicp/", 
+    "title": "[No Title]"
 }

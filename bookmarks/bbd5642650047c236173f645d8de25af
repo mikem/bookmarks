@@ -1,0 +1,20 @@
+{
+    "extended": "Structure and Interpretation of Computer Programs", 
+    "hash": "bbd5642650047c236173f645d8de25af", 
+    "description": "Welcome to the SICP Web Site", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://mitpress.mit.edu/sicp/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-10-30T05:43:03Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "book", 
+        "software", 
+        "programming", 
+        "lisp", 
+        "sicp", 
+        "scheme"
+    ]
+}
