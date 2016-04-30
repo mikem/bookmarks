@@ -1,0 +1,22 @@
+{
+    "extended": "", 
+    "hash": "faef10b5102ce4299254041f05cf701e", 
+    "description": "Journal of Eivind Uggedal: VPS Performance Comparison", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://journal.uggedal.com/vps-performance-comparison", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-07-07T04:42:04Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "hosting", 
+        "benchmark", 
+        "comparison", 
+        "performance", 
+        "cloud", 
+        "amazon", 
+        "linux", 
+        "server"
+    ]
+}
