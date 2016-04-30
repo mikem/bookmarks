@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "5452f13083df379eecabdb6dc77cb4eb", 
+    "description": "Vic Ramon's Ember Tutorial", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://ember.vicramon.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2014-07-29T03:40:26Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ember", 
+        "rails", 
+        "tutorial", 
+        "javascript", 
+        "coffeescript"
+    ]
+}
