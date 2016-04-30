@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "140dd8a1ef55750d858eab3084146dd0", 
+    "description": "Learning JavaScript Design Patterns", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://addyosmani.com/resources/essentialjsdesignpatterns/book/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-15T03:15:58Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "javascript", 
+        "book", 
+        "design", 
+        "patterns"
+    ]
+}
