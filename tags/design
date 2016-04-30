@@ -232,4 +232,10 @@
     "hash": "c514c9f9c9d76e3e711f99c1a4092b50", 
     "uri": "http://searchengineland.com/meet-the-new-google-41286", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "405920a0632f4904fea24612ddfff9e2", 
+    "uri": "http://semver.org/", 
+    "title": "[No Title]"
 }

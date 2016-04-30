@@ -1,0 +1,23 @@
+{
+    "extended": "", 
+    "hash": "405920a0632f4904fea24612ddfff9e2", 
+    "description": "Semantic Versioning", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://semver.org/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-04-16T03:02:46Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "software", 
+        "versioning", 
+        "api", 
+        "documentation", 
+        "design", 
+        "programming", 
+        "scm", 
+        "specification", 
+        "rfc"
+    ]
+}

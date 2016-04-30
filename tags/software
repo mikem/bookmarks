@@ -82,4 +82,10 @@
     "hash": "0bd6602fae31d350fd854387f49c827d", 
     "uri": "http://www.usenix.org/events/hotos03/tech/full_papers/vonbehren/vonbehren_html/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "405920a0632f4904fea24612ddfff9e2", 
+    "uri": "http://semver.org/", 
+    "title": "[No Title]"
 }
