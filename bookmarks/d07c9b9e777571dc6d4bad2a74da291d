@@ -1,0 +1,20 @@
+{
+    "extended": "RabbitMQ is an implementation of AMQP, the emerging standard for high performance enterprise messaging.", 
+    "hash": "d07c9b9e777571dc6d4bad2a74da291d", 
+    "description": "RabbitMQ - Open Source Enterprise Messaging", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.rabbitmq.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-13T00:38:26Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "amqp", 
+        "messaging", 
+        "communication", 
+        "im", 
+        "java", 
+        "erlang"
+    ]
+}

@@ -256,4 +256,10 @@
     "hash": "0cd14db83adc15c0c76edd162e41f4c3", 
     "uri": "http://www.theserverside.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "d07c9b9e777571dc6d4bad2a74da291d", 
+    "uri": "http://www.rabbitmq.com/", 
+    "title": "[No Title]"
 }
