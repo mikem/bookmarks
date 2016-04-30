@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "0be7d19fedf6113b31903a5245ffa4e4", 
+    "description": "Attachments.Me - Tips from a Production MongoDB Deployment", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://attachmentsme.tumblr.com/post/5168114317/tips-from-a-production-mongodb-deployment", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-05-04T13:50:24Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "mongodb", 
+        "database", 
+        "scalability", 
+        "amazon", 
+        "s3", 
+        "aws"
+    ]
+}

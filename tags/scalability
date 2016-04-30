@@ -16,4 +16,10 @@
     "hash": "ca00e7cfae88355c2f74482da39a080b", 
     "uri": "http://highscalability.com/blog/2012/2/13/tumblr-architecture-15-billion-page-views-a-month-and-harder.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "0be7d19fedf6113b31903a5245ffa4e4", 
+    "uri": "http://attachmentsme.tumblr.com/post/5168114317/tips-from-a-production-mongodb-deployment", 
+    "title": "[No Title]"
 }
