@@ -58,4 +58,10 @@
     "hash": "339638797eb863404c0f745623cc4d4e", 
     "uri": "https://github.com/mrmargolis/robot-vim", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "6f489c84deccb1bcd471b6bc7a3a33f3", 
+    "uri": "http://www.belchak.com/2011/01/31/code-completion-for-python-and-django-in-vim/", 
+    "title": "[No Title]"
 }

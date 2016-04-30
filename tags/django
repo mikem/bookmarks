@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "delicious:mike@yeti", 
-    "hash": "88e77b2e70597ce4ed0a5739af11a02e", 
-    "uri": "http://www.datasciencetoolkit.org/about", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "delicious:mike@yeti", 
     "hash": "6f489c84deccb1bcd471b6bc7a3a33f3", 
     "uri": "http://www.belchak.com/2011/01/31/code-completion-for-python-and-django-in-vim/", 
     "title": "[No Title]"

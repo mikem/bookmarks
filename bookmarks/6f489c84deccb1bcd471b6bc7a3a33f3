@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "6f489c84deccb1bcd471b6bc7a3a33f3", 
+    "description": "Code Completion for Django/Python in VIM | Belchak.com", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.belchak.com/2011/01/31/code-completion-for-python-and-django-in-vim/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-02-24T23:17:22Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "vim", 
+        "python", 
+        "django"
+    ]
+}
