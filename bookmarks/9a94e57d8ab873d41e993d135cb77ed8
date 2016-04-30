@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "9a94e57d8ab873d41e993d135cb77ed8", 
+    "description": "Sharding /dev/null", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://gar1t.com/blog/2012/06/10/solving-embarrassingly-obvious-problems-in-erlang/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-07-01T11:54:29Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "refactoring", 
+        "erlang", 
+        "tdd"
+    ]
+}
