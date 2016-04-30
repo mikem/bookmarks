@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "7062b46fd6d262691f04a8d0b3eb773b", 
+    "description": "Chrome Developer Tools \u2013 monitorEvents || Brian Grinstead", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.briangrinstead.com/blog/chrome-developer-tools-monitorevents", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-04-18T23:32:57Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "webdesign", 
+        "chrome", 
+        "firefox", 
+        "debug", 
+        "javascript", 
+        "events"
+    ]
+}
