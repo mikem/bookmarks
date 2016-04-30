@@ -46,4 +46,10 @@
     "hash": "442cce52895294c662145ac175d89f49", 
     "uri": "http://www.innovato.com/splunk/RefCard.pdf", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "de33be68a06fa8d1a94d24ec340690bb", 
+    "uri": "https://code.google.com/p/jslibs/wiki/JavascriptTips#language_advanced_Tips_", 
+    "title": "[No Title]"
 }
