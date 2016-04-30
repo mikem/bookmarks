@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "bf5a9ffdca9dbb189416ed242828aed0", 
+    "description": "A Lesson In Timing Attacks (or, Don\u2019t use MessageDigest.isEquals) | codahale.com", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://codahale.com/a-lesson-in-timing-attacks/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2015-06-15T23:47:51Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "security", 
+        "algorithm"
+    ]
+}
