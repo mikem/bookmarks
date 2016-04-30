@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "60d467e940d4c5d04088b52735914c68", 
+    "description": "Music Networking with XMMS2, Icecast2 and Last.fm \u00ab Gerrit\u2019s work in progress", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.wessendorf.org/uncategorized/music-networking-with-xmms2-icecast2-and-lastfm/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-06-17T01:28:44Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "xmms2", 
+        "icecast", 
+        "music", 
+        "setup", 
+        "tutorial"
+    ]
+}
