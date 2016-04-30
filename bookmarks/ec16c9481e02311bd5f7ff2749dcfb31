@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "ec16c9481e02311bd5f7ff2749dcfb31", 
+    "description": "Higher-Order \u00bb Blog Archive \u00bb Clojure circuit breaker", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.higher-order.net/2009/11/23/clojure-circuit-breaker/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-11-24T02:25:16Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "lisp", 
+        "protocol", 
+        "circuit-breaker", 
+        "patterns"
+    ]
+}
