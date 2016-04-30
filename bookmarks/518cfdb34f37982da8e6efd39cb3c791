@@ -1,0 +1,18 @@
+{
+    "extended": "From the webpage: \"Ruby-on-Rest is a simple, minimalistic framework written in Ruby that provides a RESTful access to your existing custom domain service and model.\"", 
+    "hash": "518cfdb34f37982da8e6efd39cb3c791", 
+    "description": "RubyForge: Ruby-On-Rest: Project Info", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://rubyforge.org/projects/rubyrest", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-02T11:16:59Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rails", 
+        "ruby", 
+        "rest", 
+        "framework"
+    ]
+}
