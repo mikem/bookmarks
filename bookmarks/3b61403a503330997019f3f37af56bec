@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "3b61403a503330997019f3f37af56bec", 
+    "description": "Bash Pitfalls", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://mywiki.wooledge.org/BashPitfalls", 
+    "private": false, 
+    "meta": "", 
+    "time": "2014-04-03T06:12:26Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "bash", 
+        "tips"
+    ]
+}
