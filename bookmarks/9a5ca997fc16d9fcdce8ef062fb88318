@@ -1,0 +1,17 @@
+{
+    "extended": "CodeInvestigator runs your program once, then allows you to inspect your program's run, checking variable contents, loop iterations, etc", 
+    "hash": "9a5ca997fc16d9fcdce8ef062fb88318", 
+    "description": "SourceForge.net: CodeInvestigator", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://sourceforge.net/projects/cde-investigatr/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-03-03T22:45:11Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "analysis", 
+        "test"
+    ]
+}
