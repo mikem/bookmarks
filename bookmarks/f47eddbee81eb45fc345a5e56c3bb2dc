@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "f47eddbee81eb45fc345a5e56c3bb2dc", 
+    "description": "Explanations to common Java exceptions", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://rymden.nu/exceptions.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-04-10T02:04:06Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "java", 
+        "exception", 
+        "humor"
+    ]
+}
