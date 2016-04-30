@@ -1,0 +1,21 @@
+{
+    "extended": "", 
+    "hash": "6f5f58e1b04b2e91913101b8f2c364ca", 
+    "description": "Test Driven iPhone Development with Cedar, Part II - Pivotal Labs", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://pivotallabs.com/test-driven-iphone-development-with-cedar-part-ii/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-08-15T15:48:39Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ios", 
+        "tutorial", 
+        "tdd", 
+        "bdd", 
+        "iphone", 
+        "programming", 
+        "pivotal"
+    ]
+}
