@@ -1,0 +1,21 @@
+{
+    "extended": "Console-based email client", 
+    "hash": "07bcb3ca16ba0fe73e7f35b3bfe7789a", 
+    "description": "Sup", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://sup.rubyforge.org/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-02-06T05:26:53Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "linux", 
+        "mutt", 
+        "cli", 
+        "software", 
+        "ruby", 
+        "gmail", 
+        "email"
+    ]
+}
