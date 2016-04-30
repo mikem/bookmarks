@@ -772,4 +772,10 @@
     "hash": "75bd0bd58f8d0d0e2cd6346dfda1ee19", 
     "uri": "http://www.boost.org/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "c5660e723270d1d4641b8babbbda453d", 
+    "uri": "http://www.parashift.com/c__-faq-lite/index.html", 
+    "title": "[No Title]"
 }

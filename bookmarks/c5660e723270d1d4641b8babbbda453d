@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "c5660e723270d1d4641b8babbbda453d", 
+    "description": "C FAQ LITE", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.parashift.com/c__-faq-lite/index.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-02-11T00:10:51Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "c", 
+        "programming", 
+        "faq"
+    ]
+}
