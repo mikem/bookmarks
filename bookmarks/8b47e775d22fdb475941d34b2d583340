@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "8b47e775d22fdb475941d34b2d583340", 
+    "description": "Learn You Some Erlang for Great Good!", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://learnyousomeerlang.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-09-14T01:10:35Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "erlang", 
+        "tutorial", 
+        "programming"
+    ]
+}
