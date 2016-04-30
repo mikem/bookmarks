@@ -1,0 +1,19 @@
+{
+    "extended": "OpenVPN howtos", 
+    "hash": "790ce694f75ecaf29d83620f2caa4207", 
+    "description": "HOWTO", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.openvpn.net/index.php/open-source/documentation/howto.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-06-13T12:45:07Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "openvpn", 
+        "howto", 
+        "linux", 
+        "security", 
+        "networking"
+    ]
+}
