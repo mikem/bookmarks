@@ -1,0 +1,16 @@
+{
+    "extended": "Composition and abstraction are the downforce and acceleration of coding.", 
+    "hash": "a0f7d2ae7c63255a0c6d0ad387240cbd", 
+    "description": "Data all the Query: Composition and Abstraction of Datomic Queries \u00ab boss-level.com", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://boss-level.com/?p=185", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-04-13T01:54:47Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "datomic", 
+        "clojure"
+    ]
+}
