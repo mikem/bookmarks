@@ -70,4 +70,10 @@
     "hash": "0f7bb0b2373731e8998e6e65e7e846a4", 
     "uri": "http://tldp.org/LDP/abs/html/index.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "b998aa525f64876531a37fc9503f4fc1", 
+    "uri": "http://reductivelabs.com/trac/puppet", 
+    "title": "[No Title]"
 }

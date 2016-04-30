@@ -1,0 +1,18 @@
+{
+    "extended": "A system/configuration management tool.", 
+    "hash": "b998aa525f64876531a37fc9503f4fc1", 
+    "description": "puppet - Trac", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://reductivelabs.com/trac/puppet", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-02-18T09:21:02Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "puppet", 
+        "sysadmin", 
+        "linux", 
+        "configuration"
+    ]
+}
