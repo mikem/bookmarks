@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "5a97b8b9f4ee11da5904df9964c673b3", 
+    "description": "Perf Audits for Blink & DevTools, CNet, Wikipedia, Time", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://docs.google.com/document/d/1K-mKOqiUiSjgZTEscBLjtjd6E67oiK8H2ztOiq5tigk/pub", 
+    "private": false, 
+    "meta": "", 
+    "time": "2015-08-06T06:57:58Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "performance", 
+        "webdev", 
+        "javascript", 
+        "browser", 
+        "googlechrome", 
+        "devtools"
+    ]
+}
