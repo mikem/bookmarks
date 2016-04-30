@@ -1,0 +1,17 @@
+{
+    "extended": "A Python API for campfire.", 
+    "hash": "3865814ebd7f560344aa039d56ca2365", 
+    "description": "Pinder | The Pit | oluyede.org", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://dev.oluyede.org/pinder/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-04-25T02:45:27Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "campfire", 
+        "api"
+    ]
+}
