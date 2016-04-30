@@ -220,4 +220,10 @@
     "hash": "baa1cca2b235724c66336a042f6b1fe3", 
     "uri": "http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-173.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "c3e392b38ee673b35372641c0903438a", 
+    "uri": "http://www.sauria.com/blog/2011/11/15/clojure-conj-2011/", 
+    "title": "[No Title]"
 }
