@@ -1,0 +1,18 @@
+{
+    "extended": "Best Practices for Scripting With Python", 
+    "hash": "582ead12ec889405c29142090c1505e9", 
+    "description": "OSCON Scripting with Python Handout [panela.blog-city.com]", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://panela.blog-city.com/oscon_scripting_with_python_handout.htm", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-10-07T12:42:33Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "scripting", 
+        "slides", 
+        "cheatsheet"
+    ]
+}
