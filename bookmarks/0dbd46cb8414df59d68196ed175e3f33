@@ -1,0 +1,23 @@
+{
+    "extended": "An article about Project Darkstar from Sun.", 
+    "hash": "0dbd46cb8414df59d68196ed175e3f33", 
+    "description": "Scaling in Games", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://queue.acm.org/detail.cfm?id=1483105", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-01-20T00:45:14Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "game", 
+        "programming", 
+        "java", 
+        "sun", 
+        "virtualworld", 
+        "concurrency", 
+        "darkstar", 
+        "distributed", 
+        "acm"
+    ]
+}
