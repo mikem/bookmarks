@@ -1,0 +1,18 @@
+{
+    "extended": "Collection of links to test-driven development information", 
+    "hash": "a2dbee42001e70631ea576515a0ae73e", 
+    "description": "My Uber-Test-Driven Development (\"TDD\") Links Listing - ScottD's Musings", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://weblogs.asp.net/scottdockendorf/archive/2004/10/06/238811.aspx", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-27T01:39:28Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "tdd", 
+        "test", 
+        "programming", 
+        "agile"
+    ]
+}
