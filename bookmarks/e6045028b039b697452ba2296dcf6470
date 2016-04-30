@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "e6045028b039b697452ba2296dcf6470", 
+    "description": "Nikto", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.cirt.net/code/nikto.shtml", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-01-23T12:25:23Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "apache", 
+        "security", 
+        "oss"
+    ]
+}
