@@ -298,4 +298,10 @@
     "hash": "6759211870f0096a51a019bf707ff7da", 
     "uri": "http://nakkaya.com/2010/03/27/pretty-printing-xml-with-clojure/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "e5cc7897493e384436d09357617ff1fb", 
+    "uri": "http://muckandbrass.com/web/display/~cemerick/2010/03/25/Why_using_Maven_for_Clojure_builds_is_a_no-brainer", 
+    "title": "[No Title]"
 }
