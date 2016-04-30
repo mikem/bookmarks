@@ -112,4 +112,10 @@
     "hash": "c9de6dfaed6b0aea9504506334e25811", 
     "uri": "http://entropy.dns-oarc.net/test/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "c127a35954fb42ed47a85e079ffcb364", 
+    "uri": "http://www.secdev.org/projects/scapy/", 
+    "title": "[No Title]"
 }

@@ -52,4 +52,10 @@
     "hash": "cb2754950aacb5ea7782124a4083e15c", 
     "uri": "http://www.uic.rsu.ru/doc/inet/tcp_stevens/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "c127a35954fb42ed47a85e079ffcb364", 
+    "uri": "http://www.secdev.org/projects/scapy/", 
+    "title": "[No Title]"
 }

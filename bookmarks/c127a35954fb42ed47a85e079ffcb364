@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "c127a35954fb42ed47a85e079ffcb364", 
+    "description": "Scapy", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.secdev.org/projects/scapy/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-06-10T01:10:57Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "packet", 
+        "networking", 
+        "security", 
+        "tools"
+    ]
+}
