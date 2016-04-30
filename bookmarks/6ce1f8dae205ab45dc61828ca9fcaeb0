@@ -1,0 +1,21 @@
+{
+    "extended": "Blog post: ZeroMQ is a messaging library, which allows you to design a complex communication system without much effort.", 
+    "hash": "6ce1f8dae205ab45dc61828ca9fcaeb0", 
+    "description": "Nicholas Pi\u00ebl \u00bb ZeroMQ an introduction", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://nichol.as/zeromq-an-introduction", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-06-24T01:47:53Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "messaging", 
+        "programming", 
+        "zeromq", 
+        "0mq", 
+        "networking", 
+        "distributed", 
+        "queue"
+    ]
+}
