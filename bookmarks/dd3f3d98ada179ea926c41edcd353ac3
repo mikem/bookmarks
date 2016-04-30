@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "dd3f3d98ada179ea926c41edcd353ac3", 
+    "description": "Why using Maven for Clojure builds is a no-brainer - Chas Emerick - Muck and Brass", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://muckandbrass.com/web/display/~cemerick/2010/03/25/Why+using+Maven+for+Clojure+builds+is+a+no-brainer", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-03-26T01:01:09Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "maven", 
+        "java"
+    ]
+}
