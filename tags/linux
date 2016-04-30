@@ -142,4 +142,10 @@
     "hash": "0fb333286e496c1d38f1a3f1e331bdcb", 
     "uri": "http://www.ibm.com/developerworks/java/library/j-classpath-unix/?ca=dgr-lnxw06clspth-Unix-MacX", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "2cf0c0805a066341d52e3007a3bc11cd", 
+    "uri": "http://bash-hackers.org/wiki/doku.php/snipplets/ssh_local_var", 
+    "title": "[No Title]"
 }

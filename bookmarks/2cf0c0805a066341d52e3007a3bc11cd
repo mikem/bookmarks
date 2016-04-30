@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "2cf0c0805a066341d52e3007a3bc11cd", 
+    "description": "Run some bash commands with SSH remotely using local variables [Bash Hackers Wiki]", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://bash-hackers.org/wiki/doku.php/snipplets/ssh_local_var", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-12-06T04:55:03Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ssh", 
+        "bash", 
+        "linux"
+    ]
+}
