@@ -10,4 +10,10 @@
     "hash": "cbc6fea919bff8627a23fc3df21ed31c", 
     "uri": "http://svn.secondlife.com/trac/linden", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "25d30722bd42d9216d9fe30b76dc9ac6", 
+    "uri": "http://utsl.gen.nz/talks/git-svn/intro.html", 
+    "title": "[No Title]"
 }

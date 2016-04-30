@@ -1,0 +1,17 @@
+{
+    "extended": "Pretty lengthy, got some good details.", 
+    "hash": "25d30722bd42d9216d9fe30b76dc9ac6", 
+    "description": "An introduction to git-svn for Subversion/SVK users and deserters", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://utsl.gen.nz/talks/git-svn/intro.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-03-19T12:21:06Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "svn", 
+        "svk"
+    ]
+}
