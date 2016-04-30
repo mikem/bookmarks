@@ -1,0 +1,18 @@
+{
+    "extended": "TDD home at c2.com", 
+    "hash": "046eddbd837082213bf3ad8d3844fff0", 
+    "description": "Test Driven Development", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://c2.com/cgi/wiki?TestDrivenDevelopment", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-27T01:46:25Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "tdd", 
+        "test", 
+        "programming", 
+        "agile"
+    ]
+}
