@@ -1,0 +1,20 @@
+{
+    "extended": "A free book by Maarten van Steen", 
+    "hash": "507af091c20427b742fc4ed11d5088d1", 
+    "description": "Graph Theory and Complex Networks", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.distributed-systems.net/gtcn/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-07-01T02:10:10Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "book", 
+        "graph", 
+        "programming", 
+        "visualization", 
+        "graphtheory", 
+        "networks"
+    ]
+}
