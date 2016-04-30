@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "e26bf45888cde1eac4a2034eaadb00ac", 
+    "description": "Natural Language Processing for the Working Programmer", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://nlpwp.org/book/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-12-01T23:51:46Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "book", 
+        "nlp", 
+        "haskell", 
+        "data", 
+        "datamining"
+    ]
+}
