@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "b7b6bfb5bb1115d54d2dfd5c440feaac", 
+    "description": "The Architecture of Open Source Applications", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.aosabook.org/en/index.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-05-29T23:16:19Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "opensource", 
+        "architecture", 
+        "programming", 
+        "book"
+    ]
+}
