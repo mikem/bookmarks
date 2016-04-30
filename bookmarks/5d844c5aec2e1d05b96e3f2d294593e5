@@ -1,0 +1,20 @@
+{
+    "extended": "C->Haskell is an interface generator that simplifies the development of Haskell bindings to C libraries.", 
+    "hash": "5d844c5aec2e1d05b96e3f2d294593e5", 
+    "description": "Manuel M T Chakravarty - C->Haskell", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.cse.unsw.edu.au/~chak/haskell/c2hs/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-02-16T05:46:17Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "programming", 
+        "library", 
+        "haskell", 
+        "c", 
+        "interface", 
+        "binding"
+    ]
+}
