@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "a79ab4452749fbf3d3ebb6aef2834d25", 
+    "description": "Patrick Wendell | Avoiding Java Classpath Hell", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.eecs.berkeley.edu/~pwendell/2012/08/27/avoiding-java-classpath-hell.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-08-31T02:00:19Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "java", 
+        "classpath"
+    ]
+}

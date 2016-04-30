@@ -28,4 +28,10 @@
     "hash": "65e057175a26393385caeba65cb2fa52", 
     "uri": "https://github.com/hikage/jenv", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "a79ab4452749fbf3d3ebb6aef2834d25", 
+    "uri": "http://www.eecs.berkeley.edu/~pwendell/2012/08/27/avoiding-java-classpath-hell.html", 
+    "title": "[No Title]"
 }
