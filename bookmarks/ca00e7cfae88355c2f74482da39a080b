@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "ca00e7cfae88355c2f74482da39a080b", 
+    "description": "High Scalability - High Scalability - Tumblr Architecture - 15 Billion Page Views a Month and Harder to Scale than Twitter", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://highscalability.com/blog/2012/2/13/tumblr-architecture-15-billion-page-views-a-month-and-harder.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-02-25T09:56:52Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "scalability", 
+        "performance", 
+        "scala", 
+        "redis", 
+        "memcache"
+    ]
+}
