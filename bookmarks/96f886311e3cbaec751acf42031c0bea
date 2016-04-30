@@ -1,0 +1,20 @@
+{
+    "extended": "On EC2", 
+    "hash": "96f886311e3cbaec751acf42031c0bea", 
+    "description": "Deploying Rails 3 on Ruby 1.9.2", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://xaop.com/blog/2010/08/04/deploying-rails-3-on-ruby-1-9-2/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-12-16T01:15:51Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rails", 
+        "ec2", 
+        "amazon", 
+        "deployment", 
+        "capistrano", 
+        "ruby"
+    ]
+}
