@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "395e166b4a02bdaa74dd26c4dc0064f5", 
+    "description": "Immutant | Introducing Immutant", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://immutant.org/news/2011/11/01/announcing/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-11-15T13:31:34Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "deployment", 
+        "java", 
+        "ruby"
+    ]
+}
