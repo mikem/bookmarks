@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "911acc3c80030d050764d5c5bd137105", 
+    "description": "EvilChuck: Noodling With Eventlet and Mulib", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.evilchuck.com/2008/01/noodling-with-eventlet-and-mulib.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-02-16T08:04:16Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "networking"
+    ]
+}

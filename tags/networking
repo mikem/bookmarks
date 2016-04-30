@@ -58,4 +58,10 @@
     "hash": "c127a35954fb42ed47a85e079ffcb364", 
     "uri": "http://www.secdev.org/projects/scapy/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "911acc3c80030d050764d5c5bd137105", 
+    "uri": "http://www.evilchuck.com/2008/01/noodling-with-eventlet-and-mulib.html", 
+    "title": "[No Title]"
 }
