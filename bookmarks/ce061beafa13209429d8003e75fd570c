@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "ce061beafa13209429d8003e75fd570c", 
+    "description": "fugitive.vim - A Git wrapper so awesome, it should be illegal : vim online", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.vim.org/scripts/script.php?script_id=2975", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-02-16T05:28:48Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "vim", 
+        "git", 
+        "plugin"
+    ]
+}

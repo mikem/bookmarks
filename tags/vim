@@ -88,4 +88,10 @@
     "hash": "6e937cc14a6ebf7c3877901527f1d6f7", 
     "uri": "http://rayninfo.co.uk/vimtips.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "ce061beafa13209429d8003e75fd570c", 
+    "uri": "http://www.vim.org/scripts/script.php?script_id=2975", 
+    "title": "[No Title]"
 }
