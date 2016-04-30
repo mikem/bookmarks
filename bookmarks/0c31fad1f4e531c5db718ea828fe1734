@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "0c31fad1f4e531c5db718ea828fe1734", 
+    "description": "UNIX / Linux Bourne / Bash Shell Scripting Tutorial [ steve-parker.org ]", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://steve-parker.org/sh/sh.shtml", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-10-28T13:47:00Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "bash", 
+        "shell", 
+        "tutorial", 
+        "reference"
+    ]
+}
