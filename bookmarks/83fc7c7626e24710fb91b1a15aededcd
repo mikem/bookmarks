@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "83fc7c7626e24710fb91b1a15aededcd", 
+    "description": "7 Patterns to Refactor Fat ActiveRecord Models - Code Climate Blog", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-03-03T15:40:48Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ruby", 
+        "rails", 
+        "oop", 
+        "refactoring", 
+        "design"
+    ]
+}

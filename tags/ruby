@@ -34,4 +34,10 @@
     "hash": "60b55652ccf76059dd372dc22d8e4044", 
     "uri": "https://github.com/natritmeyer/site_prism", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "83fc7c7626e24710fb91b1a15aededcd", 
+    "uri": "http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/", 
+    "title": "[No Title]"
 }
