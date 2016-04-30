@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "30bac4362477fcadd0a049d3493b3f52", 
+    "description": "Secure browsing on iOS (iPhone/iPad) using OpenVPN and the Raspberry Pi \u00ab Remi Bergsma's blog", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.remibergsma.com/2013/03/13/secure-browsing-on-ios-iphoneipad-using-openvpn-and-the-raspberry-pi/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-05-02T13:25:07Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ios", 
+        "openvpn"
+    ]
+}
