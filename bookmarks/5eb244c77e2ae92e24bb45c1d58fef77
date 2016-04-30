@@ -1,0 +1,23 @@
+{
+    "extended": "A guide for the solo programmer  I have created a planning and organization process for developing software. The process works for me. I need to organize my work ahead of time or I get stuck working on unimportant details.", 
+    "hash": "5eb244c77e2ae92e24bb45c1d58fef77", 
+    "description": "How to write software | LispCast", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.lispcast.com/software-engineering/how-to-write-software/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-06-02T09:35:56Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "software", 
+        "programming", 
+        "development", 
+        "process", 
+        "productivity", 
+        "blog", 
+        "craftsmanship", 
+        "lisp", 
+        "design"
+    ]
+}
