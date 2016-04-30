@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "442cce52895294c662145ac175d89f49", 
+    "description": "Splunk Quick Reference Guide", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.innovato.com/splunk/RefCard.pdf", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-12-14T22:45:01Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "documentation", 
+        "reference", 
+        "cheatsheet", 
+        "splunk"
+    ]
+}
