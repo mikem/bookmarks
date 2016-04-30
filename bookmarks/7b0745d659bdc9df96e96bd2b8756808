@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "7b0745d659bdc9df96e96bd2b8756808", 
+    "description": "Installing Passenger 3 with RVM and Nginx on OSX | Shape Shed", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://shapeshed.com/journal/installing-passenger-3-with-rvm-and-nginx-on-osx/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-12-28T09:18:13Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "osx", 
+        "rvm", 
+        "rails", 
+        "passenger", 
+        "nginx"
+    ]
+}
