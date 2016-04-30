@@ -88,4 +88,10 @@
     "hash": "bf5f15fee7ecd7f54e2d1bf432e1cca9", 
     "uri": "http://code.google.com/p/robotframework/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "ceed030fd9c4118806cce30f494d6391", 
+    "uri": "http://sphinx.pocoo.org/ext/autodoc.html", 
+    "title": "[No Title]"
 }
