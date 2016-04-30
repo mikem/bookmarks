@@ -1,0 +1,17 @@
+{
+    "extended": "A pathological HTTP daemon for testing and torturing client software", 
+    "hash": "48493afb2f08eb92f73ba8992d236368", 
+    "description": "pathod", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://cortesi.github.com/pathod/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-02T21:40:23Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "http", 
+        "server", 
+        "test"
+    ]
+}
