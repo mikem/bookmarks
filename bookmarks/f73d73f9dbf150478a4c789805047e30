@@ -1,0 +1,21 @@
+{
+    "extended": "On CentOS", 
+    "hash": "f73d73f9dbf150478a4c789805047e30", 
+    "description": "Notes: Installing gitosis", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.simplicidade.org/notes/archives/2008/09/installing_gito.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-05-19T02:52:33Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "gitosis", 
+        "howto", 
+        "sysadmin", 
+        "python", 
+        "share", 
+        "host"
+    ]
+}
