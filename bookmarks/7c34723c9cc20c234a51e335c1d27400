@@ -1,0 +1,22 @@
+{
+    "extended": "The most complete list of -XX options for Java 6 JVM", 
+    "hash": "7c34723c9cc20c234a51e335c1d27400", 
+    "description": "http://www.md.pp.ru/~eu/jdk6options.html", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.md.pp.ru/~eu/jdk6options.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-03-12T06:43:19Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "java", 
+        "jvm", 
+        "reference", 
+        "performance", 
+        "tuning", 
+        "documentation", 
+        "options", 
+        "jdk"
+    ]
+}
