@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "2b4415d2871a3c6f03b9a0524f90a1eb", 
+    "description": "Hg Init: a Mercurial tutorial by Joel Spolsky", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://hginit.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-02-25T02:40:48Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "scm", 
+        "mercurial", 
+        "tutorial"
+    ]
+}
