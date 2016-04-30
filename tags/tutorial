@@ -238,4 +238,10 @@
     "hash": "fb2902689819f8ca9f49014c0848e396", 
     "uri": "http://java.sun.com/javaee/5/docs/tutorial/doc/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "71b9d4846ff45cf291edaa3105bf970f", 
+    "uri": "http://wiki.pylonshq.com/display/pylonscookbook/Guides_to_Pylons_for_people_in_a_hurry", 
+    "title": "[No Title]"
 }
