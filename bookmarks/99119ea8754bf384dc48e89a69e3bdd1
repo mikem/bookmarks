@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "99119ea8754bf384dc48e89a69e3bdd1", 
+    "description": "The Little MongoDB Book", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://openmymind.net/2011/3/28/The-Little-MongoDB-Book", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-03-29T13:13:37Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "nosql", 
+        "mongodb", 
+        "book"
+    ]
+}
