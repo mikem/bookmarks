@@ -1,0 +1,16 @@
+{
+    "extended": "How to restrict actions by key.", 
+    "hash": "d611439141f72a16dd3e12199a3619a3", 
+    "description": "SSH Frequently Asked Questions", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.snailbook.com/faq/restricted-scp.auto.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-01-17T09:39:16Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "sysadmin", 
+        "ssh"
+    ]
+}
