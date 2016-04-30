@@ -1,0 +1,17 @@
+{
+    "extended": "Free Book, Programming in CoffeeScript", 
+    "hash": "722c4d86e975a6d7b32bf70587015efe", 
+    "description": "Smooth CoffeeScript", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://autotelicum.github.com/Smooth-CoffeeScript/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-09-07T04:04:02Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "coffeescript", 
+        "javascript", 
+        "book"
+    ]
+}
