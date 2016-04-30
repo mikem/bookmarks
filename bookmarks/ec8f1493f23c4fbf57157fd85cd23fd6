@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "ec8f1493f23c4fbf57157fd85cd23fd6", 
+    "description": "ICSI Netalyzr", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://netalyzr.icsi.berkeley.edu/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-03-24T12:14:27Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "networks", 
+        "diagnostics", 
+        "internet"
+    ]
+}
