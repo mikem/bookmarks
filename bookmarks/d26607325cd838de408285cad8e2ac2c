@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "d26607325cd838de408285cad8e2ac2c", 
+    "description": "Moserware: A Stick Figure Guide to the Advanced Encryption Standard (AES)", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-09-30T01:41:08Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "security", 
+        "crypto", 
+        "aes", 
+        "encryption", 
+        "comic"
+    ]
+}
