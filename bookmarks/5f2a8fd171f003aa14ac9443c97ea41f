@@ -1,0 +1,19 @@
+{
+    "extended": "For Python programmers, I've got some suggestions on how to write a main() function that's easy to invoke in other contexts, e.g. from the interactive Python prompt when you feel like experimenting.", 
+    "hash": "5f2a8fd171f003aa14ac9443c97ea41f", 
+    "description": "Python main() functions", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.artima.com/weblogs/viewpost.jsp?thread=4829", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-10-07T10:13:49Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "main", 
+        "programming", 
+        "tips", 
+        "reference"
+    ]
+}
