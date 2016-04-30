@@ -268,4 +268,10 @@
     "hash": "d26fc774c7e6eba43201594151110748", 
     "uri": "http://www.dalnefre.com/wp/2010/06/actors-in-clojure-why-not/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "2491edbf9e35a9aa412ed1477e8c32cb", 
+    "uri": "http://nakkaya.com/2010/06/15/clojure-io-cookbook/", 
+    "title": "[No Title]"
 }

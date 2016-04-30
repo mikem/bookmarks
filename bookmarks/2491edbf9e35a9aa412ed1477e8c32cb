@@ -1,0 +1,17 @@
+{
+    "extended": "Various methods of I/O with Clojure", 
+    "hash": "2491edbf9e35a9aa412ed1477e8c32cb", 
+    "description": "Clojure I/O Cookbook", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://nakkaya.com/2010/06/15/clojure-io-cookbook/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-06-16T03:32:02Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "programming", 
+        "tips"
+    ]
+}

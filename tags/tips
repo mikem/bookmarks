@@ -88,4 +88,10 @@
     "hash": "e8f3268a3e8c4903ac4760c46da680c5", 
     "uri": "http://martinfowler.com/bliki/TeamRoom.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "2491edbf9e35a9aa412ed1477e8c32cb", 
+    "uri": "http://nakkaya.com/2010/06/15/clojure-io-cookbook/", 
+    "title": "[No Title]"
 }
