@@ -1,0 +1,20 @@
+{
+    "extended": "from MIT press", 
+    "hash": "b15eec5fa0717963641a79b31de490b3", 
+    "description": "How to Design Programs", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://htdp.org/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-09-12T04:18:24Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "book", 
+        "scheme", 
+        "programming", 
+        "design", 
+        "lisp", 
+        "software"
+    ]
+}
