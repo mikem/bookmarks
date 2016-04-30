@@ -46,4 +46,10 @@
     "hash": "83ec76874b1cafd9d91b1f9dd2045ef0", 
     "uri": "https://github.com/calavera/minitest-chef-handler", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "0a01c3abc7564b49afa5acc820c13d8e", 
+    "uri": "https://github.com/acrmp/chefspec", 
+    "title": "[No Title]"
 }

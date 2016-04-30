@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "0a01c3abc7564b49afa5acc820c13d8e", 
+    "description": "acrmp/chefspec", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/acrmp/chefspec", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-16T22:45:30Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "chef", 
+        "ruby", 
+        "devops", 
+        "test", 
+        "tdd"
+    ]
+}
