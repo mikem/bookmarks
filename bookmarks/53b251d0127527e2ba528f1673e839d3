@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "53b251d0127527e2ba528f1673e839d3", 
+    "description": "Message Queue Evaluation Notes - Second Life Wiki", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://wiki.secondlife.com/wiki/Message_Queue_Evaluation_Notes", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-06-24T02:32:14Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "messaging", 
+        "queue", 
+        "scalability", 
+        "amqp", 
+        "distributed", 
+        "performance"
+    ]
+}
