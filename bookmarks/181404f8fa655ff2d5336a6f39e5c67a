@@ -1,0 +1,22 @@
+{
+    "extended": "", 
+    "hash": "181404f8fa655ff2d5336a6f39e5c67a", 
+    "description": "Maven - Introduction to the Build Lifecycle", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-03-26T12:23:59Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "maven", 
+        "java", 
+        "build", 
+        "documentation", 
+        "apache", 
+        "programming", 
+        "development", 
+        "reference"
+    ]
+}
