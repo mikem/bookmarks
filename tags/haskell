@@ -112,4 +112,10 @@
     "hash": "ae50860acb501b493f07dd20932137a8", 
     "uri": "http://www.haskell.org/all_about_monads/html/index.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "56ed2c28d0c249fe510236b321056353", 
+    "uri": "http://www.haskell.org/tutorial/index.html", 
+    "title": "[No Title]"
 }

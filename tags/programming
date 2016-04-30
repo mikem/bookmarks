@@ -694,4 +694,10 @@
     "hash": "bbd5642650047c236173f645d8de25af", 
     "uri": "http://mitpress.mit.edu/sicp/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "56ed2c28d0c249fe510236b321056353", 
+    "uri": "http://www.haskell.org/tutorial/index.html", 
+    "title": "[No Title]"
 }

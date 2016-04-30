@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "56ed2c28d0c249fe510236b321056353", 
+    "description": "A Gentle Introduction to Haskell, Version 98", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.haskell.org/tutorial/index.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-10-27T12:31:00Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "haskell", 
+        "tutorial", 
+        "reference", 
+        "programming"
+    ]
+}
