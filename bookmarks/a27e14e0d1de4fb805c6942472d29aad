@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "a27e14e0d1de4fb805c6942472d29aad", 
+    "description": "Rajiv's blog - Scaling lessons learned at Dropbox, part 1", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-08-15T13:09:18Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "scalability", 
+        "cloud", 
+        "dropbox"
+    ]
+}
