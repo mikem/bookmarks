@@ -22,4 +22,10 @@
     "hash": "dd9781a688e58d60932fad4b1bd063c7", 
     "uri": "http://engineering.lonelyplanet.com/2014/05/18/a-maintainable-styleguide.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "8ccc7a3c55edb50e8d38209af310ddf9", 
+    "uri": "https://github.com/Prismatic/eng-practices/blob/master/clojure/20130926-data-representation.md", 
+    "title": "[No Title]"
 }

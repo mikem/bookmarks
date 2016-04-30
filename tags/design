@@ -22,4 +22,10 @@
     "hash": "35d0e644defbd94f48ba33d8d094994a", 
     "uri": "http://www.landingfolio.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "8ccc7a3c55edb50e8d38209af310ddf9", 
+    "uri": "https://github.com/Prismatic/eng-practices/blob/master/clojure/20130926-data-representation.md", 
+    "title": "[No Title]"
 }

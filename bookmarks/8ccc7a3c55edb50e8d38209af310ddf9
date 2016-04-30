@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "8ccc7a3c55edb50e8d38209af310ddf9", 
+    "description": "\"Objects\" in Clojure: design choices for data and (polymorphic) operations", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/Prismatic/eng-practices/blob/master/clojure/20130926-data-representation.md", 
+    "private": false, 
+    "meta": "", 
+    "time": "2014-04-03T06:09:51Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "styleguide", 
+        "datatypes", 
+        "polymorphism", 
+        "design", 
+        "performance"
+    ]
+}
