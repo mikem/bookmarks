@@ -1,0 +1,22 @@
+{
+    "extended": "A collection of all kinds of interesting things...", 
+    "hash": "50e297665d0488dad4ced202ba015f79", 
+    "description": "This FTP site", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://okmij.org/ftp/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-11-13T04:40:10Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "programming", 
+        "scheme", 
+        "algorithm", 
+        "reference", 
+        "haskell", 
+        "functional", 
+        "lisp", 
+        "code"
+    ]
+}
