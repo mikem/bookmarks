@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "9320c90584d24348bbd6225a09d0db07", 
+    "description": "Clojure on blip.tv", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://clojure.blip.tv/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-01-12T23:37:50Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "screencast"
+    ]
+}
