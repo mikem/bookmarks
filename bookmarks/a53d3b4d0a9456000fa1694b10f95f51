@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "a53d3b4d0a9456000fa1694b10f95f51", 
+    "description": "Refactoring Functional Programs", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.cs.kent.ac.uk/projects/refactor-fp/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-02-26T14:18:51Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "refactoring", 
+        "functional", 
+        "haskell"
+    ]
+}
