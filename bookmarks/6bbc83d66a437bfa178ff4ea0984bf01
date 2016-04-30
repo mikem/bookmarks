@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "6bbc83d66a437bfa178ff4ea0984bf01", 
+    "description": "Write Reliable, Asynchronous Integration Tests With Capybara", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://robots.thoughtbot.com/write-reliable-asynchronous-integration-tests-with-capybara", 
+    "private": false, 
+    "meta": "", 
+    "time": "2014-10-09T06:24:24Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "capybara", 
+        "async", 
+        "javascript", 
+        "test"
+    ]
+}
