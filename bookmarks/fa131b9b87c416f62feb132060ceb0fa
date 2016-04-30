@@ -1,0 +1,15 @@
+{
+    "extended": "", 
+    "hash": "fa131b9b87c416f62feb132060ceb0fa", 
+    "description": "Battery information from Battery University", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://batteryuniversity.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-12-28T09:17:49Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "battery"
+    ]
+}
