@@ -1,0 +1,16 @@
+{
+    "extended": "As of April 2016", 
+    "hash": "4a7414c6dbf750b5f409b304a2f38578", 
+    "description": "The State of Clojure Web Development", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://yogthos.net/posts/2016-04-17-state-of-web-clj-dev.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2016-04-19T01:35:37Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "webdev"
+    ]
+}
