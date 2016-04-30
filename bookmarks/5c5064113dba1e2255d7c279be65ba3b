@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "5c5064113dba1e2255d7c279be65ba3b", 
+    "description": "Haml Sucks for Content", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://chriseppstein.github.com/blog/2010/02/08/haml-sucks-for-content/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-02-09T12:27:01Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "haml", 
+        "rails", 
+        "ruby", 
+        "html", 
+        "markdown"
+    ]
+}
