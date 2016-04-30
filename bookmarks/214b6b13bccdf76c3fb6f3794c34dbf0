@@ -1,0 +1,19 @@
+{
+    "extended": "A clojure library to generate CSS code using an embedded domain-specific language (EDSL). In plain words: generate CSS files by writing clojure code.", 
+    "hash": "214b6b13bccdf76c3fb6f3794c34dbf0", 
+    "description": "paraseba/cssgen", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/paraseba/cssgen", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-20T09:32:20Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "code", 
+        "library", 
+        "github", 
+        "css"
+    ]
+}
