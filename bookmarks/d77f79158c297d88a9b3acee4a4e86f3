@@ -1,0 +1,21 @@
+{
+    "extended": "", 
+    "hash": "d77f79158c297d88a9b3acee4a4e86f3", 
+    "description": "Bit Twiddling Hacks", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://graphics.stanford.edu/~seander/bithacks.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-08-24T06:22:32Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "programming", 
+        "c", 
+        "algorithm", 
+        "bit", 
+        "hacks", 
+        "reference", 
+        "code"
+    ]
+}
