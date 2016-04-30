@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "aa6c8dd490b9e80ff0a12e25552c64b2", 
+    "description": "The Integrated Ruby Hacker's Guide", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://edwinmeyer.com/Integrated_RHG.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-07-13T05:45:51Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ruby", 
+        "documentation", 
+        "book"
+    ]
+}
