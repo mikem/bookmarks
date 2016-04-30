@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "89c0d938f49d2e8af1973bbda3b943c0", 
+    "description": "Paver: Build, Distribute and Deploy Python Projects \u2014 Paver Documentation", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.blueskyonmars.com/projects/paver/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-04-25T03:37:07Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "build", 
+        "programming", 
+        "tools", 
+        "make", 
+        "paver"
+    ]
+}
