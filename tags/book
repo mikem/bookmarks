@@ -172,4 +172,10 @@
     "hash": "05cadac8f8797c57089bf92fdb9e0756", 
     "uri": "http://commonsware.com/Android/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "8519dc6233d34a314bee2e117015510b", 
+    "uri": "http://progit.org/", 
+    "title": "[No Title]"
 }
