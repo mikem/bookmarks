@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "32b9199a69560e16f27695cc0503ed65", 
+    "description": "Cloning a Git SVN Clone", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://subtlegradient.com/articles/2008/04/22/cloning-a-git-svn-clone", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-06-02T06:23:06Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "svn", 
+        "clone", 
+        "howto"
+    ]
+}

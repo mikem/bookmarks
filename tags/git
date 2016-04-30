@@ -82,4 +82,10 @@
     "hash": "8519dc6233d34a314bee2e117015510b", 
     "uri": "http://progit.org/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "32b9199a69560e16f27695cc0503ed65", 
+    "uri": "http://subtlegradient.com/articles/2008/04/22/cloning-a-git-svn-clone", 
+    "title": "[No Title]"
 }
