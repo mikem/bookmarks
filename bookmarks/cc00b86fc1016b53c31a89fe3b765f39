@@ -1,0 +1,17 @@
+{
+    "extended": "Adding users to any trac instance", 
+    "hash": "cc00b86fc1016b53c31a89fe3b765f39", 
+    "description": "pacopablo/blog/set-assign-to-drop-down \u2013 Casa de Pacopablo", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://pacopablo.com/wiki/pacopablo/blog/set-assign-to-drop-down", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-11-21T08:49:03Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "trac", 
+        "user", 
+        "database"
+    ]
+}
