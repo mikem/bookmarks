@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "eb9707cb4c54d73fc0db81d02ab96167", 
+    "description": "Validating Spring REST controllers\u2019 beans using the Bean Validation API\u2026 and writing the tests for it!", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.codesandnotes.be/2014/12/18/validating-spring-rest-controllers-beans-using-the-bean-validation-api-and-writing-the-tests-for-it/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2016-03-23T06:16:52Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "java", 
+        "spring"
+    ]
+}

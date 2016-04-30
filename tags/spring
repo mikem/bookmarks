@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "delicious:mike@yeti", 
-    "hash": "677c294f66a956aecb6c28f0ef4e16b4", 
-    "uri": "http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "delicious:mike@yeti", 
     "hash": "eb9707cb4c54d73fc0db81d02ab96167", 
     "uri": "http://www.codesandnotes.be/2014/12/18/validating-spring-rest-controllers-beans-using-the-bean-validation-api-and-writing-the-tests-for-it/", 
     "title": "[No Title]"
