@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "23a938720d34091fc933eb036f522998", 
+    "description": "pedestal/app-tutorial", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/pedestal/app-tutorial", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-08-14T13:00:55Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "pedestal", 
+        "tutorial", 
+        "github"
+    ]
+}
