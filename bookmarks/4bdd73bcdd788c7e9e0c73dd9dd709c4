@@ -1,0 +1,16 @@
+{
+    "extended": "Check out yet another version control system", 
+    "hash": "4bdd73bcdd788c7e9e0c73dd9dd709c4", 
+    "description": "Welcome - Bazaar Version Control", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://bazaar-vcs.org/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-02-25T08:30:14Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "programming", 
+        "versioning"
+    ]
+}

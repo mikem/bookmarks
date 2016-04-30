@@ -10,4 +10,10 @@
     "hash": "405920a0632f4904fea24612ddfff9e2", 
     "uri": "http://semver.org/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "4bdd73bcdd788c7e9e0c73dd9dd709c4", 
+    "uri": "http://bazaar-vcs.org/", 
+    "title": "[No Title]"
 }
