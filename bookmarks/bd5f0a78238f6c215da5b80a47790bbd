@@ -1,0 +1,21 @@
+{
+    "extended": "", 
+    "hash": "bd5f0a78238f6c215da5b80a47790bbd", 
+    "description": "Blogging Ottinger (tim) :: Use VIM Like a Pro", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://tottinge.blogsome.com/use-vim-like-a-pro/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-05-26T01:38:44Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "vim", 
+        "tutorial", 
+        "reference", 
+        "linux", 
+        "unix", 
+        "editor", 
+        "tips"
+    ]
+}

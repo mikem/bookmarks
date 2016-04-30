@@ -226,4 +226,10 @@
     "hash": "db4e6216ffddd624bd4221f22b43b64f", 
     "uri": "http://imgur.com/rwhdj.jpg", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "bd5f0a78238f6c215da5b80a47790bbd", 
+    "uri": "http://tottinge.blogsome.com/use-vim-like-a-pro/", 
+    "title": "[No Title]"
 }
