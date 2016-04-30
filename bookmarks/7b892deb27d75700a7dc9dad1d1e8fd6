@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "7b892deb27d75700a7dc9dad1d1e8fd6", 
+    "description": "Monads in Clojure", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.intensivesystems.net/tutorials/monads_101.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-12-30T12:45:56Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "monads", 
+        "functional", 
+        "programming", 
+        "clojure"
+    ]
+}
