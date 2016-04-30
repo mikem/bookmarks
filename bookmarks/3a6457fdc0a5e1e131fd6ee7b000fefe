@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "3a6457fdc0a5e1e131fd6ee7b000fefe", 
+    "description": "NixOS Linu", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://nixos.org/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2015-08-22T23:30:05Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "linux", 
+        "functional", 
+        "devops", 
+        "nixos", 
+        "nix"
+    ]
+}
