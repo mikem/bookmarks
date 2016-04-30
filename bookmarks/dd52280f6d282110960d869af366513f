@@ -1,0 +1,18 @@
+{
+    "extended": "Using git for Rails projects, as well as a little blurb about svn", 
+    "hash": "dd52280f6d282110960d869af366513f", 
+    "description": "Bamboo Blog - Talk @ 2: Using GIT for Rails Development", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.nbwd.co.uk/2007/8/16/using-git-for-rails-development", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-04T06:37:43Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "rails", 
+        "ruby", 
+        "svn"
+    ]
+}
