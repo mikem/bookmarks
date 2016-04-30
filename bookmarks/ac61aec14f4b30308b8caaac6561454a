@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "ac61aec14f4b30308b8caaac6561454a", 
+    "description": "Immutant | Runtime Isolation In Immutant", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://immutant.org/news/2012/05/18/runtime-isolation/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-20T08:35:00Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "immutant", 
+        "server"
+    ]
+}
