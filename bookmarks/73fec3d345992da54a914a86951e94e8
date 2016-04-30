@@ -1,0 +1,21 @@
+{
+    "extended": "Ebooks generated from StackOverflow questions", 
+    "hash": "73fec3d345992da54a914a86951e94e8", 
+    "description": "Index of /~greg/stackoverflow/ebooks", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://hewgill.com/~greg/stackoverflow/ebooks/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-02-08T13:12:13Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "programming", 
+        "book", 
+        "free", 
+        "reference", 
+        "development", 
+        "questions", 
+        "stackoverflow"
+    ]
+}
