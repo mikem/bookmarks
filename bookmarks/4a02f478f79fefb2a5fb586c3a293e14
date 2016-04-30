@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "4a02f478f79fefb2a5fb586c3a293e14", 
+    "description": "Parsing C at nobugs.org", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.nobugs.org/developer/parsingcpp/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-05-02T23:33:33Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "c", 
+        "parser", 
+        "compiler", 
+        "programming"
+    ]
+}
