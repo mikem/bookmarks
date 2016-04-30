@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "c9096b988f948ca0326bb22be766bb3f", 
+    "description": "Clojure libraries for MongoDB, Riak, RabbitMQ, validations, Neo4J, ElasticSearch, Memcached, Apache Cassandra, Kestrel and more", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://clojurewerkz.org/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-02-17T07:49:47Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "development", 
+        "library", 
+        "tools", 
+        "programming"
+    ]
+}

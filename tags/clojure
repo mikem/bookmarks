@@ -52,4 +52,10 @@
     "hash": "2a7a1159e433a74d868edc00aec7ed1d", 
     "uri": "https://github.com/dribnet/strokes", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "c9096b988f948ca0326bb22be766bb3f", 
+    "uri": "http://clojurewerkz.org/", 
+    "title": "[No Title]"
 }
