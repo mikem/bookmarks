@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "21eb15ee44a33820e64a24e5ed64ddf4", 
+    "description": "Fandle Technology Blog: Using s-expressions instead of XML", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.fandle.com/2010/02/using-s-expressions-instead-of-xml.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-02-24T07:17:05Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "lisp", 
+        "xml", 
+        "sxml"
+    ]
+}

@@ -46,4 +46,10 @@
     "hash": "4c2c65415d60854bf476ae19602615e1", 
     "uri": "http://www.simple-talk.com/opinion/geek-of-the-week/rich-hickey-geek-of-the-week/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "21eb15ee44a33820e64a24e5ed64ddf4", 
+    "uri": "http://blog.fandle.com/2010/02/using-s-expressions-instead-of-xml.html", 
+    "title": "[No Title]"
 }

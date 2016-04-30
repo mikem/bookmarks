@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "delicious:mike@yeti", 
-    "hash": "6759211870f0096a51a019bf707ff7da", 
-    "uri": "http://nakkaya.com/2010/03/27/pretty-printing-xml-with-clojure/", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "delicious:mike@yeti", 
     "hash": "21eb15ee44a33820e64a24e5ed64ddf4", 
     "uri": "http://blog.fandle.com/2010/02/using-s-expressions-instead-of-xml.html", 
     "title": "[No Title]"
