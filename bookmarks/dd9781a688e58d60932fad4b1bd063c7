@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "dd9781a688e58d60932fad4b1bd063c7", 
+    "description": "A Maintainable Style Guide", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://engineering.lonelyplanet.com/2014/05/18/a-maintainable-styleguide.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2015-07-12T07:08:33Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "styleguide", 
+        "components", 
+        "css", 
+        "frontend"
+    ]
+}
