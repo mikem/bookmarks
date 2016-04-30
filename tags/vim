@@ -70,4 +70,10 @@
     "hash": "2eca5cc31fff1d3d38fc31ff3199f118", 
     "uri": "http://vimregex.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "6a7a5d09a2ea08cd876b0965be6c0449", 
+    "uri": "http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/", 
+    "title": "[No Title]"
 }

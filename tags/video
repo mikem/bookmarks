@@ -34,4 +34,10 @@
     "hash": "23ff6790bca396613b0f16f0fd6d7dfd", 
     "uri": "http://vimeo.com/11126782", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "6a7a5d09a2ea08cd876b0965be6c0449", 
+    "uri": "http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/", 
+    "title": "[No Title]"
 }

@@ -22,4 +22,10 @@
     "hash": "349c1fc9a8fafc83d6517c3be141e7d8", 
     "uri": "http://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "6a7a5d09a2ea08cd876b0965be6c0449", 
+    "uri": "http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/", 
+    "title": "[No Title]"
 }

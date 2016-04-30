@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "6a7a5d09a2ea08cd876b0965be6c0449", 
+    "description": "Synchronizing plugins with git submodules and pathogen", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-10-13T23:33:02Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "vim", 
+        "git", 
+        "video"
+    ]
+}
