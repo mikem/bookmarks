@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "2b4464c073098490aac48db3208ad892", 
+    "description": "The Trello Tech Stack - Fog Creek Blog", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.fogcreek.com/the-trello-tech-stack/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-01-19T23:04:28Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "trello", 
+        "mongodb", 
+        "javascript", 
+        "coffeescript", 
+        "node.js"
+    ]
+}
