@@ -274,4 +274,10 @@
     "hash": "f01ac96fac05e19ab98378ae16342a3b", 
     "uri": "http://www.deepbluelambda.org/programming/clojure/programming-clojure-with-vim", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "0bd6602fae31d350fd854387f49c827d", 
+    "uri": "http://www.usenix.org/events/hotos03/tech/full_papers/vonbehren/vonbehren_html/", 
+    "title": "[No Title]"
 }

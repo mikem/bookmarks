@@ -76,4 +76,10 @@
     "hash": "5eb244c77e2ae92e24bb45c1d58fef77", 
     "uri": "http://www.lispcast.com/software-engineering/how-to-write-software/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "0bd6602fae31d350fd854387f49c827d", 
+    "uri": "http://www.usenix.org/events/hotos03/tech/full_papers/vonbehren/vonbehren_html/", 
+    "title": "[No Title]"
 }

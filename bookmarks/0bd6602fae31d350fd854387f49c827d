@@ -1,0 +1,22 @@
+{
+    "extended": "Ultimately, our experience led us to conclude that event-based programming is the wrong choice for highly concurrent systems. We believe that (1) threads provide a more natural abstraction for high-concurrency servers, and that (2) small improvements to compilers and thread runtime systems can eliminate the historical reasons to use events. Additionally, threads are more amenable to compiler-based enhancements", 
+    "hash": "0bd6602fae31d350fd854387f49c827d", 
+    "description": "HotOS IX \u2014 Paper", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.usenix.org/events/hotos03/tech/full_papers/vonbehren/vonbehren_html/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-04-16T04:07:10Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "concurrency", 
+        "programming", 
+        "events", 
+        "performance", 
+        "architecture", 
+        "scalability", 
+        "server", 
+        "software"
+    ]
+}
