@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "f100795d5f57e00c5f79d1990d64a714", 
+    "description": "Advanced Performance Audits with DevTools - Paul Irish", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2015-08-06T06:55:19Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "performance", 
+        "webdev", 
+        "javascript", 
+        "browser", 
+        "googlechrome", 
+        "devtools"
+    ]
+}
