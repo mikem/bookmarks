@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "1392dcbd52e62bd127966c3f8fccf04d", 
+    "description": "FAQ \u00b7 matburt/mobileorg-android Wiki", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/matburt/mobileorg-android/wiki/FAQ#wiki-I_dont_want_all_this_syncing_stuff_I_just_want_to_edit_files", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-07-08T13:50:57Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "org-mode", 
+        "emacs", 
+        "mobile", 
+        "faq"
+    ]
+}
