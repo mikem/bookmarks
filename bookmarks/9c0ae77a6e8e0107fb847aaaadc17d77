@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "9c0ae77a6e8e0107fb847aaaadc17d77", 
+    "description": "Interactive Data Visualization for the Web - OFPS - O'Reilly Media", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://ofps.oreilly.com/titles/9781449339739/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-02-12T13:22:59Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "book", 
+        "d3js", 
+        "javascript", 
+        "visualization"
+    ]
+}
