@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "7322c1b05ad1f51b62fdff860ffd9841", 
+    "description": "git multiple remotes - dereenigne.org", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://dereenigne.org/git/git-multiple-remotes", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-09-11T23:48:05Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "tips", 
+        "remote"
+    ]
+}
