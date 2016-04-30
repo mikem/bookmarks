@@ -1,0 +1,22 @@
+{
+    "extended": "", 
+    "hash": "6d9dafb785647ea721f6f3e7f5006a5a", 
+    "description": "Telnet - SMTP Commands (sending mail using telnet)", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.yuki-onna.co.uk/email/smtp.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-10-15T23:13:31Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "telnet", 
+        "linux", 
+        "smtp", 
+        "email", 
+        "reference", 
+        "mail", 
+        "sysadmin", 
+        "networking"
+    ]
+}
