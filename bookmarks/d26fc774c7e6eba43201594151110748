@@ -1,0 +1,18 @@
+{
+    "extended": "A good analysis of how actors are not necessarily bad for shared-memory concurrent systems", 
+    "hash": "d26fc774c7e6eba43201594151110748", 
+    "description": "Actors in Clojure \u2014 Why Not?", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.dalnefre.com/wp/2010/06/actors-in-clojure-why-not/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-06-19T14:32:33Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "erlang", 
+        "actor-model", 
+        "concurrency"
+    ]
+}
