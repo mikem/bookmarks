@@ -1,0 +1,22 @@
+{
+    "extended": "", 
+    "hash": "2bf8fa9ab30adf48be168328fd26a1ff", 
+    "description": "DVCSAnalysis - support - Analysis of Git and Mercurial - Project Hosting on Google Code", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://code.google.com/p/support/wiki/DVCSAnalysis", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-01-24T06:10:52Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "mercurial", 
+        "comparison", 
+        "google", 
+        "scm", 
+        "analysis", 
+        "programming", 
+        "python"
+    ]
+}
