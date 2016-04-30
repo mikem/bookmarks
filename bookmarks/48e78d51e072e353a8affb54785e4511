@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "48e78d51e072e353a8affb54785e4511", 
+    "description": "Haskell mode for Vim", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://projects.haskell.org/haskellmode-vim/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-07-30T00:49:34Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "vim", 
+        "haskell"
+    ]
+}

@@ -64,4 +64,10 @@
     "hash": "bf546bc4302ea3e5b4225c3f2c46f75f", 
     "uri": "http://apfelmus.nfshost.com/fun-with-morse-code.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "48e78d51e072e353a8affb54785e4511", 
+    "uri": "http://projects.haskell.org/haskellmode-vim/", 
+    "title": "[No Title]"
 }

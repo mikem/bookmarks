@@ -130,4 +130,10 @@
     "hash": "0e8a8497750c4939599d5863b46f18a7", 
     "uri": "http://blog.infinitered.com/entries/show/8", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "48e78d51e072e353a8affb54785e4511", 
+    "uri": "http://projects.haskell.org/haskellmode-vim/", 
+    "title": "[No Title]"
 }
