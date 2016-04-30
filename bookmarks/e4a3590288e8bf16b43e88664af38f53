@@ -1,0 +1,18 @@
+{
+    "extended": "Ruby client to the Facebook API", 
+    "hash": "e4a3590288e8bf16b43e88664af38f53", 
+    "description": "RubyForge: rfacebook: Project Info", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://rubyforge.org/projects/rfacebook", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-02T11:27:00Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ruby", 
+        "rails", 
+        "facebook", 
+        "api"
+    ]
+}
