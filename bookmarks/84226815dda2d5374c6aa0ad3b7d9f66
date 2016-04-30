@@ -1,0 +1,17 @@
+{
+    "extended": "QEMU virtualization software", 
+    "hash": "84226815dda2d5374c6aa0ad3b7d9f66", 
+    "description": "QEMU", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://fabrice.bellard.free.fr/qemu/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-02-22T09:21:22Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "vm", 
+        "qemu", 
+        "kvm"
+    ]
+}
