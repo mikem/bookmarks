@@ -1,0 +1,17 @@
+{
+    "extended": "Rephrase is a specialized passphrase recovery tool for GnuPG.", 
+    "hash": "5488f4e1f4ce6a4c67d05b9959059a70", 
+    "description": "Rephrase - browse source - README", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.roguedaemon.net/rephrase/README.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-07-08T13:52:18Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "pgp", 
+        "gpg", 
+        "passphrase"
+    ]
+}
