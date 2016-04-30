@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "a47156b46ccd42eb3c03e6d522f1e134", 
+    "description": "Making a command line utility with gems and thor | Blank Page Tech", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://willschenk.com/making-a-command-line-utility-with-gems-and-thor/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2015-02-10T17:27:02Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "thor", 
+        "ruby", 
+        "cli"
+    ]
+}
