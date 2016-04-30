@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "ecd1353204ae0c3b6a5f46f02e546f8d", 
+    "description": "levand/immuconf", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/levand/immuconf", 
+    "private": false, 
+    "meta": "", 
+    "time": "2015-07-01T05:27:10Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "code", 
+        "library", 
+        "github", 
+        "configuration"
+    ]
+}
