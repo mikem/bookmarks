@@ -1,0 +1,22 @@
+{
+    "extended": "", 
+    "hash": "c12d9ec2f1e3e0d00f202378d284ab24", 
+    "description": "How to Write a Spelling Corrector", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://norvig.com/spell-correct.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-01-14T09:59:16Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "programming", 
+        "algorithm", 
+        "spelling", 
+        "probability", 
+        "statistics", 
+        "google", 
+        "code"
+    ]
+}
