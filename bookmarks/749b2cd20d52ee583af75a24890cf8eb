@@ -1,0 +1,19 @@
+{
+    "extended": "The Test Mercenaries were a team of engineers within Google dedicated to helping development teams improve their testing practices and code quality from late 2006 until early 2009.", 
+    "hash": "749b2cd20d52ee583af75a24890cf8eb", 
+    "description": "Test Mercenaries", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://mike-bland.com/2012/07/10/test-mercenaries.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-09-03T22:53:50Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "google", 
+        "history", 
+        "tdd", 
+        "test", 
+        "culture"
+    ]
+}
