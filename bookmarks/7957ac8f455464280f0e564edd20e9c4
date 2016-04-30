@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "7957ac8f455464280f0e564edd20e9c4", 
+    "description": "Tutorial \u2013 Ruby on Rails hosted on Amazon cloud", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.golygon.com/2010/11/tutorial-ruby-on-rails-hosted-on-amazon-cloud/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-12-16T01:48:26Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rails", 
+        "ec2", 
+        "amazon", 
+        "deployment"
+    ]
+}
