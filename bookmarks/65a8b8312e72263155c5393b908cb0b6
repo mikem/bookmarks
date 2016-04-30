@@ -1,0 +1,18 @@
+{
+    "extended": "Quick script to reduce the size of a PDF.", 
+    "hash": "65a8b8312e72263155c5393b908cb0b6", 
+    "description": "Shrinkpdf", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.alfredklomp.com/programming/shrinkpdf/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-07-23T05:20:13Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "pdf", 
+        "linux", 
+        "shell", 
+        "tools"
+    ]
+}
