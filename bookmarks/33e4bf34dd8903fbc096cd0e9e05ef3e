@@ -1,0 +1,17 @@
+{
+    "extended": "A wiki REST reference.", 
+    "hash": "33e4bf34dd8903fbc096cd0e9e05ef3e", 
+    "description": "REST - MindTouch OpenGarden", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://wiki.opengarden.org/REST", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-09T08:48:32Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rest", 
+        "wiki", 
+        "framework"
+    ]
+}
