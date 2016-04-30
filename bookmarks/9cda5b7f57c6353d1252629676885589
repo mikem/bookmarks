@@ -1,0 +1,17 @@
+{
+    "extended": "a terminal-based tool for monitoring the progress of data through a pipeline", 
+    "hash": "9cda5b7f57c6353d1252629676885589", 
+    "description": "ivarch.com: Pipe Viewer", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.ivarch.com/programs/pv.shtml", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-24T23:17:42Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "cli", 
+        "pipeviewer", 
+        "data"
+    ]
+}
