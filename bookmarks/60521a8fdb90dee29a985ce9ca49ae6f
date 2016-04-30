@@ -1,0 +1,17 @@
+{
+    "extended": "A mashup of Craigslit and Google Maps", 
+    "hash": "60521a8fdb90dee29a985ce9ca49ae6f", 
+    "description": "HousingMaps", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.housingmaps.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-01T08:37:14Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "mashup", 
+        "cragislist", 
+        "housing"
+    ]
+}
