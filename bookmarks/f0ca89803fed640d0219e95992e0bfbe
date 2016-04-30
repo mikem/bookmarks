@@ -1,0 +1,17 @@
+{
+    "extended": "TheDeadline", 
+    "hash": "f0ca89803fed640d0219e95992e0bfbe", 
+    "description": "hackers-with-attitude: How a Clojure pet project turned into a full-blown cloud-computing web-app", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.hackers-with-attitude.com/2010/02/how-clojure-pet-project-turned-into.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-02-18T12:46:26Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "lisp", 
+        "presentation"
+    ]
+}

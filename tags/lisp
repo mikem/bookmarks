@@ -52,4 +52,10 @@
     "hash": "21eb15ee44a33820e64a24e5ed64ddf4", 
     "uri": "http://blog.fandle.com/2010/02/using-s-expressions-instead-of-xml.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "f0ca89803fed640d0219e95992e0bfbe", 
+    "uri": "http://www.hackers-with-attitude.com/2010/02/how-clojure-pet-project-turned-into.html", 
+    "title": "[No Title]"
 }

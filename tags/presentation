@@ -40,4 +40,10 @@
     "hash": "3830d44607686fc60ffc079c40f8bc99", 
     "uri": "http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "f0ca89803fed640d0219e95992e0bfbe", 
+    "uri": "http://www.hackers-with-attitude.com/2010/02/how-clojure-pet-project-turned-into.html", 
+    "title": "[No Title]"
 }

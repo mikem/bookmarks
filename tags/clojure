@@ -322,4 +322,10 @@
     "hash": "4c2c65415d60854bf476ae19602615e1", 
     "uri": "http://www.simple-talk.com/opinion/geek-of-the-week/rich-hickey-geek-of-the-week/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "f0ca89803fed640d0219e95992e0bfbe", 
+    "uri": "http://www.hackers-with-attitude.com/2010/02/how-clojure-pet-project-turned-into.html", 
+    "title": "[No Title]"
 }
