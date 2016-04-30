@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "028f78171914ea722027469e741f30e5", 
+    "description": "$ cheat git", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://cheat.errtheblog.com/s/git/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-10-04T00:04:44Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "ruby", 
+        "rails", 
+        "gem"
+    ]
+}
