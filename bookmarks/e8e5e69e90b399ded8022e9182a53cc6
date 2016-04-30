@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "e8e5e69e90b399ded8022e9182a53cc6", 
+    "description": "nvie.com \u00bb Blog Archive \u00bb A successful Git branching model", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://nvie.com/archives/323", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-02-09T01:57:17Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "branching", 
+        "development", 
+        "scm", 
+        "tips"
+    ]
+}

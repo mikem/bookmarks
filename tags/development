@@ -154,4 +154,10 @@
     "hash": "181404f8fa655ff2d5336a6f39e5c67a", 
     "uri": "http://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "e8e5e69e90b399ded8022e9182a53cc6", 
+    "uri": "http://nvie.com/archives/323", 
+    "title": "[No Title]"
 }
