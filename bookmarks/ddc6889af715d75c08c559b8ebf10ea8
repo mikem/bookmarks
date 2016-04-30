@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "ddc6889af715d75c08c559b8ebf10ea8", 
+    "description": "let-caribou-in - Powered By Caribou", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://let-caribou.in/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2014-04-03T06:11:49Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "library", 
+        "web", 
+        "development"
+    ]
+}
