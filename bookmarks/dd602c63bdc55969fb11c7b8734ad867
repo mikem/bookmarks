@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "dd602c63bdc55969fb11c7b8734ad867", 
+    "description": "Packaging:NamingGuidelines - FedoraProject", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://fedoraproject.org/wiki/Packaging/NamingGuidelines#Renaming.2Freplacing_existing_packages", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-09-09T04:32:59Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "fedora", 
+        "redhat", 
+        "rhel", 
+        "mock", 
+        "rpm", 
+        "packaging"
+    ]
+}
