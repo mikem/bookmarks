@@ -1,0 +1,17 @@
+{
+    "extended": "PGP information, namely a listing of public keyservers.", 
+    "hash": "73fda07623bbf2a12a1ab2e8afb51ab2", 
+    "description": "David Ross -- PGP Public Key Servers", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.rossde.com/PGP/pgp_keyserv.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-01-20T05:33:43Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "pgp", 
+        "gnupg", 
+        "keyserver"
+    ]
+}
