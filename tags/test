@@ -58,4 +58,10 @@
     "hash": "51124e49bea8b1f18d677ecdeb21bd79", 
     "uri": "http://blog.plataformatec.com.br/2011/12/three-tips-to-improve-the-performance-of-your-test-suite/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "b79b8791493bdf6c9ea3e93e4cfb2c50", 
+    "uri": "http://martinfowler.com/articles/nonDeterminism.html", 
+    "title": "[No Title]"
 }

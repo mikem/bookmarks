@@ -130,4 +130,10 @@
     "hash": "b11cbb678d10ca65ba3f34ab953bc136", 
     "uri": "http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "b79b8791493bdf6c9ea3e93e4cfb2c50", 
+    "uri": "http://martinfowler.com/articles/nonDeterminism.html", 
+    "title": "[No Title]"
 }

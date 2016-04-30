@@ -76,4 +76,10 @@
     "hash": "e8f8fb06279e66b32d60b413f8285da2", 
     "uri": "http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "b79b8791493bdf6c9ea3e93e4cfb2c50", 
+    "uri": "http://martinfowler.com/articles/nonDeterminism.html", 
+    "title": "[No Title]"
 }

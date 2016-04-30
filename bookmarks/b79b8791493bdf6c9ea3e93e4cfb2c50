@@ -1,0 +1,21 @@
+{
+    "extended": "", 
+    "hash": "b79b8791493bdf6c9ea3e93e4cfb2c50", 
+    "description": "Eradicating Non-Determinism in Tests", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://martinfowler.com/articles/nonDeterminism.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-06-02T13:43:32Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "test", 
+        "tdd", 
+        "software", 
+        "design", 
+        "agile", 
+        "development", 
+        "programming"
+    ]
+}
