@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "delicious:mike@yeti", 
-    "hash": "79dc51ebde4cc70a7263d8b7614a2e65", 
-    "uri": "http://java.ociweb.com/mark/stm/", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "delicious:mike@yeti", 
     "hash": "a5bdd841c06e11732fd41c97391b11b4", 
     "uri": "http://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey", 
     "title": "[No Title]"

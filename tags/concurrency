@@ -52,4 +52,10 @@
     "hash": "82688bf887e50aa99102c02cadf71724", 
     "uri": "http://muckandbrass.com/web/display/~cemerick/2009/11/03/Be+mindful+of+Clojure's+binding", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "a5bdd841c06e11732fd41c97391b11b4", 
+    "uri": "http://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey", 
+    "title": "[No Title]"
 }

@@ -46,4 +46,10 @@
     "hash": "f0ca89803fed640d0219e95992e0bfbe", 
     "uri": "http://www.hackers-with-attitude.com/2010/02/how-clojure-pet-project-turned-into.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "a5bdd841c06e11732fd41c97391b11b4", 
+    "uri": "http://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey", 
+    "title": "[No Title]"
 }

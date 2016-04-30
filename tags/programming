@@ -430,4 +430,10 @@
     "hash": "e90dc122b2c0f8960834a007e7a198ae", 
     "uri": "http://blog.wekeroad.com/smackdown/200-page-manual-on-inversion-of-control-plus-or-minus-199/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "a5bdd841c06e11732fd41c97391b11b4", 
+    "uri": "http://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey", 
+    "title": "[No Title]"
 }

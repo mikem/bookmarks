@@ -1,0 +1,23 @@
+{
+    "extended": "", 
+    "hash": "a5bdd841c06e11732fd41c97391b11b4", 
+    "description": "InfoQ: Persistent Data Structures and Managed References", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-10-08T12:25:00Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "video", 
+        "programming", 
+        "concurrency", 
+        "stm", 
+        "mvcc", 
+        "functional", 
+        "presentation", 
+        "lisp"
+    ]
+}
