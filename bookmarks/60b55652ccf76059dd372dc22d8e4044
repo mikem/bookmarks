@@ -1,0 +1,21 @@
+{
+    "extended": "", 
+    "hash": "60b55652ccf76059dd372dc22d8e4044", 
+    "description": "natritmeyer/site_prism", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/natritmeyer/site_prism", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-03-18T05:29:19Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ruby", 
+        "code", 
+        "test", 
+        "tdd", 
+        "gem", 
+        "capybara", 
+        "integration"
+    ]
+}
