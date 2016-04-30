@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "0f093db3521444f987dd706ca04196bc", 
+    "description": "Animated Sorting Algorithms", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://vision.bc.edu/~dmartin/teaching/sorting/anim-html/all.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-10-25T13:44:22Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "algorithm", 
+        "programming", 
+        "visualization", 
+        "sort", 
+        "software"
+    ]
+}

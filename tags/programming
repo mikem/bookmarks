@@ -700,4 +700,10 @@
     "hash": "56ed2c28d0c249fe510236b321056353", 
     "uri": "http://www.haskell.org/tutorial/index.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "0f093db3521444f987dd706ca04196bc", 
+    "uri": "http://vision.bc.edu/~dmartin/teaching/sorting/anim-html/all.html", 
+    "title": "[No Title]"
 }
