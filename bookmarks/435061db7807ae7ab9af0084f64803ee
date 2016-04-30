@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "435061db7807ae7ab9af0084f64803ee", 
+    "description": "JavaScript BDD, with Jasmine, without a browser | Agile Zone", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://agile.dzone.com/news/javascript-bdd-jasmine-without", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-12-28T09:17:49Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "javascript", 
+        "test", 
+        "jasmine"
+    ]
+}
