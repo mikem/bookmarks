@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "1b11f74e9bcc88790a8cade11e110bf9", 
+    "description": "C++ FAQ LITE", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.parashift.com/c++-faq-lite/index.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-02-11T00:10:51Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "c++", 
+        "programming", 
+        "faq"
+    ]
+}
