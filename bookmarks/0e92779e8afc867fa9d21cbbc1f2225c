@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "0e92779e8afc867fa9d21cbbc1f2225c", 
+    "description": "Factual", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.factual.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-06-03T04:05:04Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "data", 
+        "statistics", 
+        "database", 
+        "datasets"
+    ]
+}
