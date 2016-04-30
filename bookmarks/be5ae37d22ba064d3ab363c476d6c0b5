@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "be5ae37d22ba064d3ab363c476d6c0b5", 
+    "description": "index at XUnitPatterns.com", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://xunitpatterns.com/index.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-03-10T00:30:13Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "test", 
+        "book", 
+        "patterns", 
+        "xunit"
+    ]
+}
