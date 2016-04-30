@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "1443df1b27e1af6a2ebb9bc008d8987d", 
+    "description": "HTTP Archive - Interesting Stats", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://httparchive.org/interesting.php", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-11-20T13:53:48Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "web", 
+        "http", 
+        "data", 
+        "statistics", 
+        "archive"
+    ]
+}
