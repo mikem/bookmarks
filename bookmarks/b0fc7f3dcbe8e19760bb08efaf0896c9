@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "b0fc7f3dcbe8e19760bb08efaf0896c9", 
+    "description": "Web Dev .NET: Differences Between jQuery .bind() vs .live() vs .delegate() vs .on()", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.elijahmanor.com/2012/02/differences-between-jquery-bind-vs-live.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-02-11T01:01:42Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "javascript", 
+        "events"
+    ]
+}
