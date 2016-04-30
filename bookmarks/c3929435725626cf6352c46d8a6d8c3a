@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "c3929435725626cf6352c46d8a6d8c3a", 
+    "description": "jonase/kibit \u00b7 GitHub", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/jonase/kibit", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-01-25T15:20:38Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "code", 
+        "github", 
+        "leiningen", 
+        "refactoring", 
+        "tools"
+    ]
+}
