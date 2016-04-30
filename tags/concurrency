@@ -82,4 +82,10 @@
     "hash": "294baacb9a7723eeac16b38b904d3b44", 
     "uri": "http://software.intel.com/en-us/blogs/2008/12/02/timing-locks-in-c/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "90dd027306d604a79d592eeb850a2136", 
+    "uri": "http://www.boyet.com/articles/lockfreestack.html", 
+    "title": "[No Title]"
 }

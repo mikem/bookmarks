@@ -1,0 +1,22 @@
+{
+    "extended": "", 
+    "hash": "90dd027306d604a79d592eeb850a2136", 
+    "description": "julian m bucknall >> Lock-free data structures: the stack", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.boyet.com/articles/lockfreestack.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-12-02T01:30:13Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "lockfree", 
+        "datastructure", 
+        "programming", 
+        "performance", 
+        "algorithm", 
+        "concurrency", 
+        "c#", 
+        "multithreading"
+    ]
+}
