@@ -268,4 +268,10 @@
     "hash": "9ef7741ddf0f4ebd4f992959bfc8dc9a", 
     "uri": "http://vote.railsrumble.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "b5f5c3db9ebfc28ff9f56f38a9f02cc9", 
+    "uri": "http://wiki.rubyonrails.org/rails/pages/HowtoUseRailsWithSubversion", 
+    "title": "[No Title]"
 }

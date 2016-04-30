@@ -1,0 +1,17 @@
+{
+    "extended": "Which files to skip, which files to ignore, how to automatically add files created with script/generate commands...", 
+    "hash": "b5f5c3db9ebfc28ff9f56f38a9f02cc9", 
+    "description": "HowtoUseRailsWithSubversion in Ruby on Rails", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://wiki.rubyonrails.org/rails/pages/HowtoUseRailsWithSubversion", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-10T12:35:53Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rails", 
+        "ruby", 
+        "svn"
+    ]
+}
