@@ -28,4 +28,10 @@
     "hash": "bcb876a89a711c14a2f8b61aa443c93c", 
     "uri": "http://blog.pamelafox.org/2013/06/improving-backbone-app-performance.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "905a226dc606cf27e7f2f29a1546ba8e", 
+    "uri": "http://www.dissoc.net/blog/2012/09/06/a-look-at-clojure-performance-tuning/", 
+    "title": "[No Title]"
 }

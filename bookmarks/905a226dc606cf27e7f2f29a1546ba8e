@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "905a226dc606cf27e7f2f29a1546ba8e", 
+    "description": "A Look at Clojure Performance Tuning - dissoc/assoc", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.dissoc.net/blog/2012/09/06/a-look-at-clojure-performance-tuning/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-09-09T02:13:28Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "performance"
+    ]
+}
