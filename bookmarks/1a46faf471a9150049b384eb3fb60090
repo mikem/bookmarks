@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "1a46faf471a9150049b384eb3fb60090", 
+    "description": "MapReduce Patterns, Algorithms, and Use Cases \u00ab Highly Scalable", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-02-16T13:18:25Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "hadoop", 
+        "patterns", 
+        "mapreduce", 
+        "algorithm"
+    ]
+}
