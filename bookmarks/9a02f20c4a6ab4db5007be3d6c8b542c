@@ -1,0 +1,19 @@
+{
+    "extended": "For doctest", 
+    "hash": "9a02f20c4a6ab4db5007be3d6c8b542c", 
+    "description": "minimock", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.ianbicking.org/minimock.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-03-21T12:40:52Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "mock", 
+        "test", 
+        "library", 
+        "programming"
+    ]
+}

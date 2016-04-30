@@ -736,4 +736,10 @@
     "hash": "d15eb8f817f9a7bc691c0fb667716417", 
     "uri": "http://www.nist.gov/dads/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "9a02f20c4a6ab4db5007be3d6c8b542c", 
+    "uri": "http://blog.ianbicking.org/minimock.html", 
+    "title": "[No Title]"
 }
