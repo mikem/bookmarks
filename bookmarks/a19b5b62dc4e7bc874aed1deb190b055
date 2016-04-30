@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "a19b5b62dc4e7bc874aed1deb190b055", 
+    "description": "Riak Handbook - Hands-on Book for Riak", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://riakhandbook.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-06-26T00:08:22Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "riak", 
+        "book"
+    ]
+}
