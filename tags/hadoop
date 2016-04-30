@@ -10,4 +10,10 @@
     "hash": "1a46faf471a9150049b384eb3fb60090", 
     "uri": "https://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "95333c61e9f2451df430fd9122f0c27a", 
+    "uri": "http://blog.lars-francke.de/2010/07/22/processing-openstreetmap-data-with-hive/", 
+    "title": "[No Title]"
 }

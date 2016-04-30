@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "95333c61e9f2451df430fd9122f0c27a", 
+    "description": "Processing OpenStreetMap data with Hive : new Put(\"lars\".toBytes(\"UTF-8\"))", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.lars-francke.de/2010/07/22/processing-openstreetmap-data-with-hive/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-08-03T03:35:12Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "hadoop", 
+        "map", 
+        "openstreetmap", 
+        "hive"
+    ]
+}
