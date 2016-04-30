@@ -1,0 +1,20 @@
+{
+    "extended": "Sessions in Compojure", 
+    "hash": "b240b1cba58d00d71bc3a32fde198360", 
+    "description": "http://intensivesystems.net/tutorials/web_sessions.html", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://intensivesystems.net/tutorials/web_sessions.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-11-26T01:08:10Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "compojure", 
+        "session", 
+        "web", 
+        "programming", 
+        "lisp"
+    ]
+}
