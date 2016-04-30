@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "ca72a010b70dab3d77b7b19331c18ba7", 
+    "description": "Ned Batchelder: Python code complexity micro-tool", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://nedbatchelder.com/blog/200803/python_code_complexity_microtool.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-03-19T02:48:12Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "complexity"
+    ]
+}

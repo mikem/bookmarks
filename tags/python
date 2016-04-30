@@ -214,4 +214,10 @@
     "hash": "54c95f03515c25ee5e77ef43261ba3ce", 
     "uri": "http://www.voidspace.org.uk/python/mock.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "ca72a010b70dab3d77b7b19331c18ba7", 
+    "uri": "http://nedbatchelder.com/blog/200803/python_code_complexity_microtool.html", 
+    "title": "[No Title]"
 }
