@@ -1,0 +1,16 @@
+{
+    "extended": "VirtualBox virtualization software", 
+    "hash": "8b2cbf48eaa66f46f0b452c7a9a97337", 
+    "description": "VirtualBox", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.virtualbox.org/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-02-22T09:21:00Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "vm", 
+        "virtualbox"
+    ]
+}
