@@ -556,4 +556,10 @@
     "hash": "474f455b24e066d6a76d3b4a57f27d31", 
     "uri": "http://gnuvince.wordpress.com/2008/10/31/fetching-web-comics-with-clojure-part-1/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "9ad49911700335d9112c1fde5e1e7f82", 
+    "uri": "http://www.slideshare.net/billkarwin/sql-antipatterns-strike-back?src=embed", 
+    "title": "[No Title]"
 }
