@@ -1,0 +1,21 @@
+{
+    "extended": "A fully-featured Leiningen plugin to run a VimClojure server for Leiningen projects.", 
+    "hash": "f1a470504a4b109812a9e271c6daa5dc", 
+    "description": "sattvik/lein-tarsier", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/sattvik/lein-tarsier", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-29T12:19:51Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "code", 
+        "tools", 
+        "leiningen", 
+        "vimclojure", 
+        "vim", 
+        "github"
+    ]
+}

@@ -64,4 +64,10 @@
     "hash": "686f52d7a8afb304511351ff368f4cc4", 
     "uri": "https://github.com/sunitparekh/data-anonymization/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "f1a470504a4b109812a9e271c6daa5dc", 
+    "uri": "https://github.com/sattvik/lein-tarsier", 
+    "title": "[No Title]"
 }
