@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "42e007cdbfed00a8184e3e6389e9dc87", 
+    "description": "Python Mocker - Labix", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://labix.org/mocker", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-03-21T12:32:12Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "mock", 
+        "test", 
+        "library", 
+        "programming"
+    ]
+}

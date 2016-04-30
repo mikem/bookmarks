@@ -142,4 +142,10 @@
     "hash": "e2a1a51d0f02f50de754c7f02b7c19d7", 
     "uri": "http://python-mock.sourceforge.net/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "42e007cdbfed00a8184e3e6389e9dc87", 
+    "uri": "http://labix.org/mocker", 
+    "title": "[No Title]"
 }
