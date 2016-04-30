@@ -10,4 +10,10 @@
     "hash": "57fcd26ae68d494ceba75f459e564ef6", 
     "uri": "https://github.com/tpope/vim-foreplay", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "d0aa64fd3501878235294d05a956cc63", 
+    "uri": "http://clojure-doc.org/articles/tutorials/vim.html", 
+    "title": "[No Title]"
 }

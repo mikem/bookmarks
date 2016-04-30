@@ -112,4 +112,10 @@
     "hash": "97934fec79884849cc24715fa525a11b", 
     "uri": "https://github.com/magomimmo/modern-cljs", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "d0aa64fd3501878235294d05a956cc63", 
+    "uri": "http://clojure-doc.org/articles/tutorials/vim.html", 
+    "title": "[No Title]"
 }

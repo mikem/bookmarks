@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "d0aa64fd3501878235294d05a956cc63", 
+    "description": "Clojure Documentation: Clojure with Vim and VimClojure", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://clojure-doc.org/articles/tutorials/vim.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-11-04T08:11:12Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "vim", 
+        "clojure", 
+        "vimclojure"
+    ]
+}
