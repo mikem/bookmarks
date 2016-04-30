@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "176498324c3435d4cc6189e98a56777a", 
+    "description": "briancarper.net (\u03bb) - Vim regexes are awesome", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://briancarper.net/blog/448/vim-regexes-are-awesome", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-02-26T09:22:58Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "vim", 
+        "regex", 
+        "tips"
+    ]
+}

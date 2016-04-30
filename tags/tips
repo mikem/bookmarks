@@ -40,4 +40,10 @@
     "hash": "6c8f8ae67a92d46d22c7e7444fe3cb69", 
     "uri": "http://www.cyberciti.biz/tips/handling-filenames-with-spaces-in-bash.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "176498324c3435d4cc6189e98a56777a", 
+    "uri": "http://briancarper.net/blog/448/vim-regexes-are-awesome", 
+    "title": "[No Title]"
 }
