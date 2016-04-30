@@ -166,4 +166,10 @@
     "hash": "9abae30859488139b2973d2dc9bbf4cb", 
     "uri": "http://blog.8thlight.com/colin-jones/2012/05/22/quoting-without-confusion.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "8c5d0a2b4034a521817b351fa908b002", 
+    "uri": "https://github.com/marick/Midje", 
+    "title": "[No Title]"
 }

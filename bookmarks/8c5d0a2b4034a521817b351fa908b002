@@ -1,0 +1,22 @@
+{
+    "extended": "Midje is a test framework for Clojure.", 
+    "hash": "8c5d0a2b4034a521817b351fa908b002", 
+    "description": "marick/Midje", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/marick/Midje", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-20T09:36:19Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "test", 
+        "tdd", 
+        "midje", 
+        "code", 
+        "library", 
+        "github", 
+        "framework"
+    ]
+}
