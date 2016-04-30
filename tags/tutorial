@@ -136,4 +136,10 @@
     "hash": "5fcdf12084a4bb2ebdf8135b15e55914", 
     "uri": "http://java.ociweb.com/mark/clojure/article.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "c133cedd17f8ca8755749696e1d9513b", 
+    "uri": "http://gnuvince.wordpress.com/2008/11/18/fetching-web-comics-with-clojure-part-2/", 
+    "title": "[No Title]"
 }

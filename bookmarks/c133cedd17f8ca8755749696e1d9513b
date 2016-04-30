@@ -1,0 +1,22 @@
+{
+    "extended": "", 
+    "hash": "c133cedd17f8ca8755749696e1d9513b", 
+    "description": "Clojure tutorial: fetching web comics (part 2) \u00ab Occasionally sane", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://gnuvince.wordpress.com/2008/11/18/fetching-web-comics-with-clojure-part-2/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-07-14T04:30:26Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "java", 
+        "html", 
+        "parser", 
+        "htmlparser", 
+        "lisp", 
+        "programming", 
+        "tutorial"
+    ]
+}
