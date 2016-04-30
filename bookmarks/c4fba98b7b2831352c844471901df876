@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "c4fba98b7b2831352c844471901df876", 
+    "description": "Better Ruby Presenters - Literate Programming", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.steveklabnik.com/posts/2011-09-09-better-ruby-presenters", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-02-26T10:02:41Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "oop", 
+        "ruby", 
+        "rails", 
+        "refactoring", 
+        "presenter"
+    ]
+}
