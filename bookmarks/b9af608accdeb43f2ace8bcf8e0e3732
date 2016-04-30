@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "b9af608accdeb43f2ace8bcf8e0e3732", 
+    "description": "Backing up gmail using offlineimap \u00ab Fork", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://soren.overgaard.org/2007/12/15/backing-up-gmail-using-offlineimap/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-03-26T02:39:15Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "backup", 
+        "gmail", 
+        "email", 
+        "imap", 
+        "sup"
+    ]
+}

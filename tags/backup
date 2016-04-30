@@ -40,4 +40,10 @@
     "hash": "312d6c0f6b5517f489c7cb74b21ef6b4", 
     "uri": "http://blog.backblaze.com/2009/09/01/petabytes-on-a-budget-how-to-build-cheap-cloud-storage/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "b9af608accdeb43f2ace8bcf8e0e3732", 
+    "uri": "http://soren.overgaard.org/2007/12/15/backing-up-gmail-using-offlineimap/", 
+    "title": "[No Title]"
 }
