@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "1e1d753d751480a78d8ea8871fad1aed", 
+    "description": "Reuse your JavaScript as jQuery Plugins | Engine Yard Ruby on Rails Blog", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.engineyard.com/blog/2011/reuse-your-javascript-as-jquery-plugins/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-03-12T04:29:06Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "javascript", 
+        "jquery", 
+        "plugin", 
+        "development", 
+        "tutorial", 
+        "howto"
+    ]
+}
