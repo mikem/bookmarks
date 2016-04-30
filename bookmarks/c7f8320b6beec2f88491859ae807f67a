@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "c7f8320b6beec2f88491859ae807f67a", 
+    "description": "lixo.org :: Git tip: set your identification and colours", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.lixo.org/archives/2008/06/26/git-tip-set-your-identification-and-colours/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-08-03T11:41:57Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "color", 
+        "setup", 
+        "configuration"
+    ]
+}
