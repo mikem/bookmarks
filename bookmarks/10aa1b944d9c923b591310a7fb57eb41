@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "10aa1b944d9c923b591310a7fb57eb41", 
+    "description": "Dr Dobbs - How Non-Member Functions Improve Encapsulation", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.drdobbs.com/184401197;jsessionid=GZTDE2PB0FJIJQE1GHOSKHWATMY32JVN", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-06-28T06:12:33Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "c++", 
+        "design", 
+        "software", 
+        "programming"
+    ]
+}
