@@ -1,0 +1,18 @@
+{
+    "extended": "Great step-by-step instructions on configuring PulseAudio", 
+    "hash": "809bd57d526bc1a9213e49afbe4278e9", 
+    "description": "Gentoo Forums :: View topic - Pulseaudio", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://forums.gentoo.org/viewtopic-t-789181-highlight-pulseaudio.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-02-24T00:46:29Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "pulseaudio", 
+        "setup", 
+        "linux", 
+        "gentoo"
+    ]
+}
