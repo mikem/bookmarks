@@ -1,0 +1,18 @@
+{
+    "extended": "Tool to create anonymized production data dump to use for PERF and other TEST environments.", 
+    "hash": "7fc27721d51fdbc34495e5cb590c8cf3", 
+    "description": "Data Anonymization", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "wyciwyg://2/http://sunitparekh.github.io/data-anonymization/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-05-02T08:38:07Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "database", 
+        "development", 
+        "agile", 
+        "privacy"
+    ]
+}
