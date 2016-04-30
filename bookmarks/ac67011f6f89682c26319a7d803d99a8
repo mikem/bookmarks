@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "ac67011f6f89682c26319a7d803d99a8", 
+    "description": "Experiments at Airbnb - Airbnb Engineering", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://nerds.airbnb.com/experiments-at-airbnb/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2015-08-21T15:02:58Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "experimentation", 
+        "product-development", 
+        "scientific-method", 
+        "statistics", 
+        "analytics"
+    ]
+}
