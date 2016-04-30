@@ -808,4 +808,10 @@
     "hash": "4bdd73bcdd788c7e9e0c73dd9dd709c4", 
     "uri": "http://bazaar-vcs.org/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "875314a4a762de043d95cc8a2c747239", 
+    "uri": "http://www.linux.org/docs/online_books.html", 
+    "title": "[No Title]"
 }

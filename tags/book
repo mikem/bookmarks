@@ -226,4 +226,10 @@
     "hash": "31d3d68cec28c58578a33b7437a4f402", 
     "uri": "http://www.djangobook.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "875314a4a762de043d95cc8a2c747239", 
+    "uri": "http://www.linux.org/docs/online_books.html", 
+    "title": "[No Title]"
 }

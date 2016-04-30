@@ -1,0 +1,17 @@
+{
+    "extended": "Free Linux/FOSS books including \"The Cathedral and The Bazaar\"", 
+    "hash": "875314a4a762de043d95cc8a2c747239", 
+    "description": "Linux Online - Free Online Books", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.linux.org/docs/online_books.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-01-19T11:11:22Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "book", 
+        "linux", 
+        "programming"
+    ]
+}
