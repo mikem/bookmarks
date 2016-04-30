@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "8f63afc3a67a3a389ec9bd3760720c46", 
+    "description": "APRESS.COM : Practical Clojure : 9781430272311", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.apress.com/book/view/1430272317", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-09-24T01:23:43Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "book", 
+        "java"
+    ]
+}
