@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "b6244ccf67270a7de29f3fb00abcf399", 
+    "description": "\u00d8redev 2010 - JVM Bytecode for Dummies", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.slideshare.net/CharlesNutter/redev-2010-jvm-bytecode-for-dummies", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-11-14T11:56:31Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "jvm", 
+        "java", 
+        "jruby", 
+        "presentation", 
+        "bytecode"
+    ]
+}

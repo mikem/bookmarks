@@ -58,4 +58,10 @@
     "hash": "268b39f8da7dbcf90f101d95d4dfaa36", 
     "uri": "http://martinfowler.com/articles/lmax.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "b6244ccf67270a7de29f3fb00abcf399", 
+    "uri": "http://www.slideshare.net/CharlesNutter/redev-2010-jvm-bytecode-for-dummies", 
+    "title": "[No Title]"
 }
