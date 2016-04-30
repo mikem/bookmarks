@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "e4e75a9e3d18b595febb4377acc1d4d2", 
+    "description": "Forecast Blog", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.forecast.io/its-not-a-web-app-its-an-app-you-install-from-the-web/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-04-12T18:37:05Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "mobile", 
+        "webdesign", 
+        "design", 
+        "javascript"
+    ]
+}
