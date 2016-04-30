@@ -1,0 +1,21 @@
+{
+    "extended": "", 
+    "hash": "c899abd7b8689b51c783f54540f35d68", 
+    "description": "The Floating-Point Guide - What Every Programmer Should Know About Floating-Point Arithmetic", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://floating-point-gui.de/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-04-12T02:13:36Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "programming", 
+        "reference", 
+        "guide", 
+        "faq", 
+        "math", 
+        "precision", 
+        "float"
+    ]
+}
