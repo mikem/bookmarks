@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "3fc50ca5598d9184ecc8969a7da35c53", 
+    "description": "Ken Dyck\u2019s Weblog \u00bb SICP Solutions", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.kendyck.com/solutions-to-sicp/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-03-11T12:22:56Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "book", 
+        "programming", 
+        "lisp", 
+        "sicp", 
+        "solution", 
+        "scheme"
+    ]
+}
