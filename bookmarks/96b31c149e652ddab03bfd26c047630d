@@ -1,0 +1,20 @@
+{
+    "extended": "What does Facebook publish about you and your friends?", 
+    "hash": "96b31c149e652ddab03bfd26c047630d", 
+    "description": "http://zesty.ca/facebook/", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://zesty.ca/facebook/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-04-27T01:13:13Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "facebook", 
+        "privacy", 
+        "api", 
+        "tools", 
+        "security", 
+        "socialnetworking"
+    ]
+}

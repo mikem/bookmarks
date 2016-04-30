@@ -106,4 +106,10 @@
     "hash": "e16a2268092dbf42d414c10dbb1c7444", 
     "uri": "https://secure.delicious.com/settings/bookmarks/export", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "96b31c149e652ddab03bfd26c047630d", 
+    "uri": "http://zesty.ca/facebook/", 
+    "title": "[No Title]"
 }
