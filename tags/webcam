@@ -4,4 +4,10 @@
     "hash": "abc8a63c36c5299cadda6793cda6d899", 
     "uri": "http://65.104.36.247/default.asp?display=cams", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "ceb34ab682c5172fb172ecd6d10cae9a", 
+    "uri": "http://65.104.36.247/default.asp?display=cams&area=calgary&TextOnly=", 
+    "title": "[No Title]"
 }
