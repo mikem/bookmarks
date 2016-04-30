@@ -1,0 +1,19 @@
+{
+    "extended": "Tool converting Markdown and subests of others to many output formats.", 
+    "hash": "8a3448826c43672df417a9c0b3a92dab", 
+    "description": "Pandoc", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://johnmacfarlane.net/pandoc/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-08-10T11:33:40Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "markdown", 
+        "text", 
+        "restructuredtext", 
+        "publishing", 
+        "markup"
+    ]
+}
