@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "cad5aea1f1f14c5ddb9626bb6dcab915", 
+    "description": "FrontPage.en - NyARToolkit", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://nyatla.jp/nyartoolkit/wiki/index.php?FrontPage.en", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-07-16T09:36:54Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ar", 
+        "android", 
+        "artoolkit", 
+        "java", 
+        "c#", 
+        "graphics"
+    ]
+}
