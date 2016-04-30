@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "21e03fa347cc0a6a4156a5e58340fc74", 
+    "description": "Getting To Know Flux, the React.js Architecture \u2665 Scotch", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://scotch.io/tutorials/javascript/getting-to-know-flux-the-react-js-architecture", 
+    "private": false, 
+    "meta": "", 
+    "time": "2014-11-07T15:11:13Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "react", 
+        "flux", 
+        "javascript"
+    ]
+}
