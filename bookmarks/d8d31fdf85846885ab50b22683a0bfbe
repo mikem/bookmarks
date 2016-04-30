@@ -1,0 +1,17 @@
+{
+    "extended": "Play music according to how you feel", 
+    "hash": "d8d31fdf85846885ab50b22683a0bfbe", 
+    "description": "Musicovery : webRadio", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.musicovery.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2006-06-12T04:30:59Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "music", 
+        "stream", 
+        "radio"
+    ]
+}
