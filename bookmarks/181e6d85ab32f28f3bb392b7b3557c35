@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "181e6d85ab32f28f3bb392b7b3557c35", 
+    "description": "Blog | Big Data Reference Model | Relevance", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://thinkrelevance.com/blog/2012/04/04/big-data-reference-model", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-04-05T21:20:37Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "bigdata", 
+        "hadoop", 
+        "agile", 
+        "lean"
+    ]
+}
