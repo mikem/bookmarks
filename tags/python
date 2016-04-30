@@ -292,4 +292,10 @@
     "hash": "980ce09131008f964385d9fc6bf5c319", 
     "uri": "http://www.djangoproject.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "9c305a0ba43b5a2bc2c0bfb67ade79e7", 
+    "uri": "http://pyblosxom.sourceforge.net/", 
+    "title": "[No Title]"
 }

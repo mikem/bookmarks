@@ -52,4 +52,10 @@
     "hash": "5aeca0931cb3db826ae27d6876394bed", 
     "uri": "http://www.mybloglog.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "9c305a0ba43b5a2bc2c0bfb67ade79e7", 
+    "uri": "http://pyblosxom.sourceforge.net/", 
+    "title": "[No Title]"
 }
