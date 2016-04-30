@@ -40,4 +40,10 @@
     "hash": "5b7b03cb3675c0d12af30e64d925b136", 
     "uri": "http://roy.gbiv.com/pubs/dissertation/top.htm", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "b6be6fd502429cf009944aca533ffa7b", 
+    "uri": "http://www.infoq.com/presentations/Scale-at-Facebook", 
+    "title": "[No Title]"
 }

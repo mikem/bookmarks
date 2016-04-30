@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "b6be6fd502429cf009944aca533ffa7b", 
+    "description": "InfoQ: Scale at Facebook", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.infoq.com/presentations/Scale-at-Facebook", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-06-13T00:06:31Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "facebook", 
+        "architecture", 
+        "scalability", 
+        "performance", 
+        "video", 
+        "presentation"
+    ]
+}
