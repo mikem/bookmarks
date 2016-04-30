@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "9a1f6167180551a60f565b130a53e412", 
+    "description": "Monads Are Not Metaphors - Code Commit", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.codecommit.com/blog/ruby/monads-are-not-metaphors", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-12-31T07:14:28Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "monads", 
+        "functional", 
+        "programming", 
+        "scala", 
+        "haskell"
+    ]
+}
