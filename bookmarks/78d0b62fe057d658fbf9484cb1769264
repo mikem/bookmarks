@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "78d0b62fe057d658fbf9484cb1769264", 
+    "description": "How to create a fully-encrypted HFS+ hard drive - Mac OS X Hints", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://hints.macworld.com/article.php?story=20080228202712904", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-03-26T13:16:05Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "osx", 
+        "truecrypt", 
+        "mac", 
+        "security"
+    ]
+}
