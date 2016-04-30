@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "98932992ea788f403caa3a95c6682f0d", 
+    "description": "AutoDia - Automatic Dia / UML generator", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.aarontrevena.co.uk/opensource/autodia/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-08-22T06:18:42Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "uml", 
+        "xml", 
+        "dia", 
+        "visualization"
+    ]
+}
