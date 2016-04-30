@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "2d01ad518a0fba7fabe9be58536ec8af", 
+    "description": "Passing Blocks in Ruby Without", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://mudge.github.com/2011/01/26/passing-blocks-in-ruby-without-block.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-02-09T12:30:55Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ruby", 
+        "performance"
+    ]
+}

@@ -142,4 +142,10 @@
     "hash": "a310acae09c9fe4099fd977d77e7555f", 
     "uri": "http://raflabs.com/blogs/silence-is-foo/2010/08/07/ruby-idioms-what-is-the-splatunary-operator-useful-for/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "2d01ad518a0fba7fabe9be58536ec8af", 
+    "uri": "http://mudge.github.com/2011/01/26/passing-blocks-in-ruby-without-block.html", 
+    "title": "[No Title]"
 }
