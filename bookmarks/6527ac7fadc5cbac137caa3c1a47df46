@@ -1,0 +1,17 @@
+{
+    "extended": "Differences between GNUmake and BSDmake syntax", 
+    "hash": "6527ac7fadc5cbac137caa3c1a47df46", 
+    "description": "DaLe\u2019s private Blog \u00bb Blog Archive \u00bb GNU make vs. BSD make - a practical problem experience", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.wgdd.de/?p=28", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-01-16T05:18:55Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "make", 
+        "gnumake", 
+        "bsdmake"
+    ]
+}
