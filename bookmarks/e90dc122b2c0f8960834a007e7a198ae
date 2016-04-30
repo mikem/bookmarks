@@ -1,0 +1,21 @@
+{
+    "extended": "", 
+    "hash": "e90dc122b2c0f8960834a007e7a198ae", 
+    "description": "200 Page Manual on Inversion of Control (plus or minus 199) \u00ab Rob Conery", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.wekeroad.com/smackdown/200-page-manual-on-inversion-of-control-plus-or-minus-199/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-10-10T08:53:01Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ioc", 
+        "programming", 
+        "patterns", 
+        "mvc", 
+        "c#", 
+        "design", 
+        "dependencyinjection"
+    ]
+}
