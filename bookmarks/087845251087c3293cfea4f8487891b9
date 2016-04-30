@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "087845251087c3293cfea4f8487891b9", 
+    "description": "Using Markov Chains to Generate Test Input \u00ab The Electric Cloud Blog", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.electric-cloud.com/2009/09/15/using-markov-chains-to-generate-test-input/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-09-16T07:33:55Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "programming", 
+        "test", 
+        "markov", 
+        "algorithm", 
+        "software"
+    ]
+}

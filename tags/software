@@ -124,4 +124,10 @@
     "hash": "63db59aed8b046c7ec72ca6506333ca4", 
     "uri": "http://producingoss.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "087845251087c3293cfea4f8487891b9", 
+    "uri": "http://blog.electric-cloud.com/2009/09/15/using-markov-chains-to-generate-test-input/", 
+    "title": "[No Title]"
 }

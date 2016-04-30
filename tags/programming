@@ -472,4 +472,10 @@
     "hash": "969f58469f692f69b6f9ba3bd5273731", 
     "uri": "http://code.google.com/p/noop/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "087845251087c3293cfea4f8487891b9", 
+    "uri": "http://blog.electric-cloud.com/2009/09/15/using-markov-chains-to-generate-test-input/", 
+    "title": "[No Title]"
 }
