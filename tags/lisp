@@ -202,4 +202,10 @@
     "hash": "3a918fed32eb580080c123353d0e8815", 
     "uri": "http://en.wikibooks.org/wiki/Clojure_Programming/By_Example", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "615f1f6121394832fe25f2cd5e194b2d", 
+    "uri": "http://en.wikibooks.org/wiki/Clojure_Programming", 
+    "title": "[No Title]"
 }

@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "615f1f6121394832fe25f2cd5e194b2d", 
+    "description": "Clojure Programming - Wikibooks, collection of open-content textbooks", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://en.wikibooks.org/wiki/Clojure_Programming", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-01-17T09:37:41Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "programming", 
+        "tutorial", 
+        "wiki", 
+        "clojure", 
+        "lisp"
+    ]
+}
