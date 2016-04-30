@@ -124,4 +124,10 @@
     "hash": "0fb333286e496c1d38f1a3f1e331bdcb", 
     "uri": "http://www.ibm.com/developerworks/java/library/j-classpath-unix/?ca=dgr-lnxw06clspth-Unix-MacX", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "8305a242810ff32f170aaf668f3c0856", 
+    "uri": "http://muckandbrass.com/web/display/~cemerick/2009/11/03/Be_mindful_of_Clojure's_binding", 
+    "title": "[No Title]"
 }
