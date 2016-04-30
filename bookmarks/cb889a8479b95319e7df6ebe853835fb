@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "cb889a8479b95319e7df6ebe853835fb", 
+    "description": "Duck Typo: A Metaprogramming Spell Book", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://ducktypo.blogspot.com/2010/08/metaprogramming-spell-book.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-02-09T12:56:38Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ruby", 
+        "metaprogramming"
+    ]
+}
