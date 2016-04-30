@@ -1,0 +1,18 @@
+{
+    "extended": "A listing, brief description and links to the open source licenses out there today.", 
+    "hash": "231187806eb6da8a095bf19153036812", 
+    "description": "OpenSourceLegal.org- License Database", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://opensourcelegal.org/licensedb/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2006-12-10T07:16:04Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "oss", 
+        "software", 
+        "license", 
+        "legal"
+    ]
+}
