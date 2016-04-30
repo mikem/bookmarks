@@ -1,0 +1,22 @@
+{
+    "extended": "", 
+    "hash": "eea89b6da260efd407a23397568eaea9", 
+    "description": "A crash course in how DOM events work - Jupiter JavaScript Consulting", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://jupiterit.com/news/a-crash-course-in-how-dom-events-work", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-11-07T07:52:55Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "javascript", 
+        "events", 
+        "tutorial", 
+        "programming", 
+        "browser", 
+        "reference", 
+        "web", 
+        "jquery"
+    ]
+}

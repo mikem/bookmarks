@@ -34,4 +34,10 @@
     "hash": "4ed653c049948fa153f2b83098279f7e", 
     "uri": "http://caniuse.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "eea89b6da260efd407a23397568eaea9", 
+    "uri": "http://jupiterit.com/news/a-crash-course-in-how-dom-events-work", 
+    "title": "[No Title]"
 }
