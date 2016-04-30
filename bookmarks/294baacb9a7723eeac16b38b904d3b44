@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "294baacb9a7723eeac16b38b904d3b44", 
+    "description": "Intel Software Network Blogs \u00bb Timing locks in C#", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://software.intel.com/en-us/blogs/2008/12/02/timing-locks-in-c/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-12-02T23:37:46Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "c#", 
+        "multithreading", 
+        "analysis", 
+        "concurrency"
+    ]
+}

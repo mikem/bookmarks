@@ -4,4 +4,10 @@
     "hash": "839655ed4123f53f60dd80cb4f737490", 
     "uri": "http://software.intel.com/en-us/articles/designing-the-framework-of-a-parallel-game-engine/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "294baacb9a7723eeac16b38b904d3b44", 
+    "uri": "http://software.intel.com/en-us/blogs/2008/12/02/timing-locks-in-c/", 
+    "title": "[No Title]"
 }

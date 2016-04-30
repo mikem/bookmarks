@@ -40,4 +40,10 @@
     "hash": "15acde40b2b4614bb6fd355db28925b9", 
     "uri": "http://www.dalkescientific.com/writings/diary/archive/2009/12/29/problems_with_tdd.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "294baacb9a7723eeac16b38b904d3b44", 
+    "uri": "http://software.intel.com/en-us/blogs/2008/12/02/timing-locks-in-c/", 
+    "title": "[No Title]"
 }

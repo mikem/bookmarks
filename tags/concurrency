@@ -76,4 +76,10 @@
     "hash": "0dbd46cb8414df59d68196ed175e3f33", 
     "uri": "http://queue.acm.org/detail.cfm?id=1483105", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "294baacb9a7723eeac16b38b904d3b44", 
+    "uri": "http://software.intel.com/en-us/blogs/2008/12/02/timing-locks-in-c/", 
+    "title": "[No Title]"
 }
