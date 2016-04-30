@@ -1,0 +1,15 @@
+{
+    "extended": "", 
+    "hash": "7236b2856015a62008f8ca8bf9d6fbed", 
+    "description": "Using binding to mock out even \u201cdirect linked\u201d functions in Clojure \u00ab searching for signal", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.n01se.net/?p=134", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-04-18T03:24:14Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure"
+    ]
+}
