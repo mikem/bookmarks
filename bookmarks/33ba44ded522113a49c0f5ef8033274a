@@ -1,0 +1,19 @@
+{
+    "extended": "SQL wrapper for Clojure", 
+    "hash": "33ba44ded522113a49c0f5ef8033274a", 
+    "description": "ClojureQL \u2014 Where are we (going) ? \u00ab BEST IN CLASS", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.bestinclass.dk/index.php/2009/12/clojureql-where-are-we-going/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-12-13T04:35:37Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "sql", 
+        "clojureql", 
+        "library", 
+        "database"
+    ]
+}

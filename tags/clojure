@@ -340,4 +340,10 @@
     "hash": "9c313425a185a2400ac7185fb47fa13c", 
     "uri": "http://meshy.org/2009/12/13/widefinder-2-with-clojure.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "33ba44ded522113a49c0f5ef8033274a", 
+    "uri": "http://www.bestinclass.dk/index.php/2009/12/clojureql-where-are-we-going/", 
+    "title": "[No Title]"
 }
