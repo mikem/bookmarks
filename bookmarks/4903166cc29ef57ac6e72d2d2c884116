@@ -1,0 +1,18 @@
+{
+    "extended": "All kinds of interesting VIM tips in the comments", 
+    "hash": "4903166cc29ef57ac6e72d2d2c884116", 
+    "description": "the { buckblogs :here }: Coming home to Vim", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://weblog.jamisbuck.org/2008/10/10/coming-home-to-vim", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-10-14T05:58:49Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "vim", 
+        "tips", 
+        "textmate", 
+        "plugin"
+    ]
+}
