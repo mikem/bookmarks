@@ -1,0 +1,16 @@
+{
+    "extended": "As the URL says, this is a the OpenID book, with OpenID reference an how to build OpenID enabled websites.", 
+    "hash": "bef9f2ba54718e863373f13eb0363690", 
+    "description": "http://www.openidbook.com/", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.openidbook.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-11-20T09:17:48Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "openid", 
+        "book"
+    ]
+}
