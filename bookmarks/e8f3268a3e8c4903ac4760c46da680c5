@@ -1,0 +1,23 @@
+{
+    "extended": "Agilists favor a open team room as it promotes lots of informal and deep communication between people on the team.", 
+    "hash": "e8f3268a3e8c4903ac4760c46da680c5", 
+    "description": "MF Bliki: TeamRoom", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://martinfowler.com/bliki/TeamRoom.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-07-07T04:48:10Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "agile", 
+        "collaboration", 
+        "development", 
+        "scrum", 
+        "blog", 
+        "article", 
+        "tips", 
+        "team", 
+        "office"
+    ]
+}
