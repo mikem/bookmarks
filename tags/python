@@ -106,4 +106,10 @@
     "hash": "1e3553af85d745656cb4af64f27a908f", 
     "uri": "http://projects.haskell.org/language-python/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "646807940866d9a1946386131fde5393", 
+    "uri": "http://code.google.com/p/protobuf/", 
+    "title": "[No Title]"
 }
