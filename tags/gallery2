@@ -4,4 +4,10 @@
     "hash": "77180d471e41387e451e582c71e51641", 
     "uri": "http://codex.gallery2.org/Gallery2:Modules:flashvideo", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "c720c49107bbcc07a7749a9e2f5f6a44", 
+    "uri": "http://codex.gallery2.org/Gallery2:Modules:embedvideo", 
+    "title": "[No Title]"
 }
