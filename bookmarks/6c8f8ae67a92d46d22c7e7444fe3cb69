@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "6c8f8ae67a92d46d22c7e7444fe3cb69", 
+    "description": "BASH Shell: For Loop File Names With Spaces", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.cyberciti.biz/tips/handling-filenames-with-spaces-in-bash.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-08-06T12:35:12Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "bash", 
+        "unix", 
+        "linux", 
+        "scripting", 
+        "shell", 
+        "tips"
+    ]
+}
