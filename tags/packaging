@@ -4,4 +4,10 @@
     "hash": "dd602c63bdc55969fb11c7b8734ad867", 
     "uri": "http://fedoraproject.org/wiki/Packaging/NamingGuidelines#Renaming.2Freplacing_existing_packages", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "e288f8a8fe664258320caab6d3876f21", 
+    "uri": "http://jimmyg.org/2007/11/08/creating-a-python-package-using-eggs-and-subversion/", 
+    "title": "[No Title]"
 }

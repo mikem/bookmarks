@@ -1,0 +1,19 @@
+{
+    "extended": "A howto for creating a release of your Python project for Cheeseshop", 
+    "hash": "e288f8a8fe664258320caab6d3876f21", 
+    "description": "James Gardner \u00bb Creating a Python Package Using Eggs and Subversion", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://jimmyg.org/2007/11/08/creating-a-python-package-using-eggs-and-subversion/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-11-08T23:27:59Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "egg", 
+        "packaging", 
+        "subversion", 
+        "cheeseshop"
+    ]
+}
