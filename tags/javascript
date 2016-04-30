@@ -250,4 +250,10 @@
     "hash": "7e55a713b825a6d3b9cb84fb224902af", 
     "uri": "http://igstan.ro/posts/2011-05-02-understanding-monads-with-javascript.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "b9086deb587902bb860c505d697edb45", 
+    "uri": "http://fuelyourcoding.com/jquery-events-stop-misusing-return-false/", 
+    "title": "[No Title]"
 }
