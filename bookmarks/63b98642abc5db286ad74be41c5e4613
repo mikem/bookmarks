@@ -1,0 +1,21 @@
+{
+    "extended": "A guide on how to share git repositories with the world safely and securely.", 
+    "hash": "63b98642abc5db286ad74be41c5e4613", 
+    "description": "scie.nti.st \u00bb Hosting Git repositories, The Easy (and Secure) Way", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://scie.nti.st/2007/11/14/hosting-git-repositories-the-easy-and-secure-way", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-11-14T11:56:11Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "python", 
+        "share", 
+        "host", 
+        "gitosis", 
+        "howto", 
+        "sysadmin"
+    ]
+}

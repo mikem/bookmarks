@@ -76,4 +76,10 @@
     "hash": "b998aa525f64876531a37fc9503f4fc1", 
     "uri": "http://reductivelabs.com/trac/puppet", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "63b98642abc5db286ad74be41c5e4613", 
+    "uri": "http://scie.nti.st/2007/11/14/hosting-git-repositories-the-easy-and-secure-way", 
+    "title": "[No Title]"
 }

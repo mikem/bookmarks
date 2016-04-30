@@ -142,4 +142,10 @@
     "hash": "44b40f7853569f499499c896cf0fad1f", 
     "uri": "http://scie.nti.st/2007/9/4/capistrano-2-0-with-git-shared-repository", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "63b98642abc5db286ad74be41c5e4613", 
+    "uri": "http://scie.nti.st/2007/11/14/hosting-git-repositories-the-easy-and-secure-way", 
+    "title": "[No Title]"
 }
