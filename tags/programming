@@ -682,4 +682,10 @@
     "hash": "90dd027306d604a79d592eeb850a2136", 
     "uri": "http://www.boyet.com/articles/lockfreestack.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "ae50860acb501b493f07dd20932137a8", 
+    "uri": "http://www.haskell.org/all_about_monads/html/index.html", 
+    "title": "[No Title]"
 }

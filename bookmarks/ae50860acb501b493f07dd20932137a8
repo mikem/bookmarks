@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "ae50860acb501b493f07dd20932137a8", 
+    "description": "All About Monads", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.haskell.org/all_about_monads/html/index.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-10-30T23:02:22Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "programming", 
+        "tutorial", 
+        "haskell", 
+        "monads", 
+        "reference"
+    ]
+}
