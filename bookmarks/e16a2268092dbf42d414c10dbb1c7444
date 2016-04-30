@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "e16a2268092dbf42d414c10dbb1c7444", 
+    "description": "Export Your Bookmarks on Delicious", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://secure.delicious.com/settings/bookmarks/export", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-12-21T12:20:27Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "delicious", 
+        "backup", 
+        "export", 
+        "tools", 
+        "links"
+    ]
+}
