@@ -430,4 +430,10 @@
     "hash": "5fcdf12084a4bb2ebdf8135b15e55914", 
     "uri": "http://java.ociweb.com/mark/clojure/article.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "4e446b9bd474c83a78881d3fc3e7afa1", 
+    "uri": "http://blog.runcoderun.com/post/145675117/tdd-in-a-functional-language-uncle-bobs-bowling", 
+    "title": "[No Title]"
 }

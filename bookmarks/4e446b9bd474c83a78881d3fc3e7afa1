@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "4e446b9bd474c83a78881d3fc3e7afa1", 
+    "description": "The RunCodeRun Blog - TDD in a functional language: Uncle Bob's Bowling", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.runcoderun.com/post/145675117/tdd-in-a-functional-language-uncle-bobs-bowling", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-07-21T04:25:03Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "tdd"
+    ]
+}
