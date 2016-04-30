@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "9abae30859488139b2973d2dc9bbf4cb", 
+    "description": "Quoting Without Confusion | 8th Light", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.8thlight.com/colin-jones/2012/05/22/quoting-without-confusion.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-23T23:40:20Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "quote", 
+        "lisp", 
+        "macros"
+    ]
+}
