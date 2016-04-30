@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "1ee92465174ecf5f661a001a71b63d40", 
+    "description": "Why Git is Better Than X", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://whygitisbetterthanx.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-04-22T06:43:06Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "scm", 
+        "comparison", 
+        "benchmark"
+    ]
+}
