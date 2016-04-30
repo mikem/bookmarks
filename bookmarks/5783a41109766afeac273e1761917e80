@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "5783a41109766afeac273e1761917e80", 
+    "description": "Tsuna's blog: Learning git-svn in 5min", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://tsunanet.blogspot.com/2007/07/learning-git-svn-in-5min.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-03-14T04:44:50Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "svn"
+    ]
+}
