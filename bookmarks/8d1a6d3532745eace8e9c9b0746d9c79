@@ -1,0 +1,18 @@
+{
+    "extended": "Notes on writing user authentication code in Ruby on Rails", 
+    "hash": "8d1a6d3532745eace8e9c9b0746d9c79", 
+    "description": "Basic User Authentication in Rails | Aidan Finn's home page", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.aidanf.net/rails_user_authentication_tutorial", 
+    "private": false, 
+    "meta": "", 
+    "time": "2006-06-06T13:21:43Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ruby", 
+        "rails", 
+        "authentication", 
+        "security"
+    ]
+}
