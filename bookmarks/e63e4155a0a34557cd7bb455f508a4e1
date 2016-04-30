@@ -1,0 +1,18 @@
+{
+    "extended": "Since we measure everything, deciding what to leave out of the rewrite was a straightforward, data-driven decision.", 
+    "hash": "e63e4155a0a34557cd7bb455f508a4e1", 
+    "description": "How we rewrote the Kicksend web app in one month - Kicksend Blog", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.kicksend.com/how-we-rewrote-the-kicksend-web-app-in-one-month/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-18T14:23:04Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "build-measure-learn", 
+        "startups", 
+        "lean", 
+        "agile"
+    ]
+}
