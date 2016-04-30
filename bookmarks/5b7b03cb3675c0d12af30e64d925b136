@@ -1,0 +1,17 @@
+{
+    "extended": "The REST Ph. D. dissertation.", 
+    "hash": "5b7b03cb3675c0d12af30e64d925b136", 
+    "description": "Architectural Styles and the Design of Network-based Software ...", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://roy.gbiv.com/pubs/dissertation/top.htm", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-03-27T11:39:16Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rest", 
+        "architecture", 
+        "web"
+    ]
+}
