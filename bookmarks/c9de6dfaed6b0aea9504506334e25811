@@ -1,0 +1,18 @@
+{
+    "extended": "A tool testing your DNS server's entropy. Gives you an idea whether your ISP is vulnerable to (what is believed to be) Dan Kaminsky's discovery.", 
+    "hash": "c9de6dfaed6b0aea9504506334e25811", 
+    "description": "DNS Entropy Test", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://entropy.dns-oarc.net/test/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-08-04T00:05:06Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "dns", 
+        "security", 
+        "tools", 
+        "vulnerability"
+    ]
+}

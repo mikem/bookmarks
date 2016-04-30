@@ -106,4 +106,10 @@
     "hash": "ba766badfa75f81b0011368a52310edc", 
     "uri": "http://www.unixwiz.net/techtips/iguide-kaminsky-dns-vuln.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "c9de6dfaed6b0aea9504506334e25811", 
+    "uri": "http://entropy.dns-oarc.net/test/", 
+    "title": "[No Title]"
 }
