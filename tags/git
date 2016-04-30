@@ -160,4 +160,10 @@
     "hash": "c4ea996ee69f062fc9b11831d365c3d1", 
     "uri": "http://www.kernel.org/pub/software/scm/git/docs/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "f90e725916e860241e507639de195199", 
+    "uri": "http://cheat.errtheblog.com/s/gitsvn/", 
+    "title": "[No Title]"
 }

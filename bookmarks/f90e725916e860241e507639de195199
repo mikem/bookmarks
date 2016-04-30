@@ -1,0 +1,17 @@
+{
+    "extended": "A git-svn cheatsheet", 
+    "hash": "f90e725916e860241e507639de195199", 
+    "description": "$ cheat gitsvn", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://cheat.errtheblog.com/s/gitsvn/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-10T12:43:54Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "svn", 
+        "reference"
+    ]
+}
