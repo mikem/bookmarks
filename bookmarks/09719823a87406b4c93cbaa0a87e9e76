@@ -1,0 +1,17 @@
+{
+    "extended": "A few projects on RubyForge which deal with OpenID. Would be a neat feature for our app to use OpenID for authentication :)", 
+    "hash": "09719823a87406b4c93cbaa0a87e9e76", 
+    "description": "RubyForge: Search", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://rubyforge.org/search/?type_of_search=soft", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-09-12T14:41:43Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rails", 
+        "ruby", 
+        "openid"
+    ]
+}
