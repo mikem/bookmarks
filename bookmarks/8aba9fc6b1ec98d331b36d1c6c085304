@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "8aba9fc6b1ec98d331b36d1c6c085304", 
+    "description": "Dear Nic, Should we log directly?", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://nic.ferrier.me.uk/blog/2013_02/dear-nic-says-jim", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-02-28T07:36:41Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "sysadmin", 
+        "log", 
+        "unix", 
+        "linux"
+    ]
+}
