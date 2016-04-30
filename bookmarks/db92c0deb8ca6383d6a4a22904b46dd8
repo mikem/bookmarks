@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "db92c0deb8ca6383d6a4a22904b46dd8", 
+    "description": "Uzbl - web interface tools which adhere to the unix philosophy.", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.uzbl.org/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-12-06T04:32:53Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "browser", 
+        "linux", 
+        "software", 
+        "web", 
+        "webkit", 
+        "vim"
+    ]
+}
