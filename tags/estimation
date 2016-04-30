@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "delicious:mike@yeti", 
-    "hash": "6543a6e5591bc7acd36c982bbb66c3fe", 
-    "uri": "https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "delicious:mike@yeti", 
     "hash": "05bb2943e6975ba7eeba99d36f467c1b", 
     "uri": "http://www.quora.com/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3/answer/Michael-Wolfe?srid=kw", 
     "title": "[No Title]"
