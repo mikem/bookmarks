@@ -1,0 +1,22 @@
+{
+    "extended": "", 
+    "hash": "a3900f74feacd73682a044181a850f43", 
+    "description": "Top Ten One-Liners from CommandLineFu Explained - good coders code, great reuse", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.catonmat.net/blog/top-ten-one-liners-from-commandlinefu-explained/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-03-20T07:33:40Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "bash", 
+        "linux", 
+        "cli", 
+        "commands", 
+        "ssh", 
+        "shell", 
+        "tips", 
+        "tools"
+    ]
+}
