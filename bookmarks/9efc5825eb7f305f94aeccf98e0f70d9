@@ -1,0 +1,15 @@
+{
+    "extended": "", 
+    "hash": "9efc5825eb7f305f94aeccf98e0f70d9", 
+    "description": "How to call a private function in Clojure - musings of a Lispnik", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.danieljanus.pl/how-to-call-a-private-function-in-clojure", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-04-25T21:33:39Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure"
+    ]
+}
