@@ -142,4 +142,10 @@
     "hash": "4903e197926ec82dbee8449d9aed2f4e", 
     "uri": "https://launchpad.net/drizzle", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "b96ef0d651cb8e43e389e8f4431ecb0e", 
+    "uri": "http://www.igvita.com/blog/2007/10/10/hands-on-mysql-backup-migration/", 
+    "title": "[No Title]"
 }
