@@ -1,0 +1,18 @@
+{
+    "extended": "Supposedly this tool will discover code duplications in your project so you can refactor them.", 
+    "hash": "4a15eaac95af584248ee6c9168f25f56", 
+    "description": "Clone Digger | Overview |", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://clonedigger.sourceforge.net/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-04-22T22:46:30Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "refactoring", 
+        "analysis", 
+        "java"
+    ]
+}
