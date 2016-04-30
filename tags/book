@@ -178,4 +178,10 @@
     "hash": "8519dc6233d34a314bee2e117015510b", 
     "uri": "http://progit.org/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "9e23b6e4860599eab3cb3c7e4bfc10bd", 
+    "uri": "http://shapingsoftware.com/2009/06/22/patterns-and-practices-of-lean-software-development/", 
+    "title": "[No Title]"
 }

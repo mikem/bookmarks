@@ -136,4 +136,10 @@
     "hash": "b15eec5fa0717963641a79b31de490b3", 
     "uri": "http://htdp.org/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "9e23b6e4860599eab3cb3c7e4bfc10bd", 
+    "uri": "http://shapingsoftware.com/2009/06/22/patterns-and-practices-of-lean-software-development/", 
+    "title": "[No Title]"
 }
