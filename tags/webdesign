@@ -70,4 +70,10 @@
     "hash": "e4e75a9e3d18b595febb4377acc1d4d2", 
     "uri": "http://blog.forecast.io/its-not-a-web-app-its-an-app-you-install-from-the-web/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "424b06936e653ff03752376ddf0b48e9", 
+    "uri": "http://bradfrost.github.com/this-is-responsive/index.html", 
+    "title": "[No Title]"
 }
