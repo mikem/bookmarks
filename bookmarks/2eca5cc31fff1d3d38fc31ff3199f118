@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "2eca5cc31fff1d3d38fc31ff3199f118", 
+    "description": "Vim Regular Expressions 101", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://vimregex.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-02-17T12:56:12Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "vim", 
+        "regex", 
+        "reference", 
+        "guide"
+    ]
+}
