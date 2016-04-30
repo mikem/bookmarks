@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "4b612f5702450258849aa203362202b1", 
+    "description": "ARel: Nifty & Vexingly Undocumented", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://talk.adaptly.com/post/16351725953/arel-nifty-vexingly-undocumented", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-03-10T11:17:23Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "sql", 
+        "rails", 
+        "arel", 
+        "activerecord"
+    ]
+}
