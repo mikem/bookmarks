@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "268b39f8da7dbcf90f101d95d4dfaa36", 
+    "description": "The LMAX Architecture", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://martinfowler.com/articles/lmax.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-07-25T12:24:56Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "architecture", 
+        "java", 
+        "concurrency", 
+        "performance", 
+        "lmax", 
+        "software"
+    ]
+}
