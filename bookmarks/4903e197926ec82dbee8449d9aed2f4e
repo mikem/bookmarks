@@ -1,0 +1,20 @@
+{
+    "extended": "Based on the MySQL codebase.", 
+    "hash": "4903e197926ec82dbee8449d9aed2f4e", 
+    "description": "A Lightweight SQL Database for Cloud and Web in Launchpad", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://launchpad.net/drizzle", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-08-06T23:23:12Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "database", 
+        "sql", 
+        "web", 
+        "tools", 
+        "software", 
+        "scalability"
+    ]
+}
