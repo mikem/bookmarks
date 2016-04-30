@@ -1,0 +1,19 @@
+{
+    "extended": "A Clojure lint tool", 
+    "hash": "1c6585031134e6227ed2ccb475d5c3f0", 
+    "description": "jonase/eastwood", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/jonase/eastwood", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-20T09:33:15Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "code", 
+        "tools", 
+        "github", 
+        "lint"
+    ]
+}
