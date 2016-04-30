@@ -1,0 +1,18 @@
+{
+    "extended": "glue the bash prompt always go to the first column", 
+    "hash": "37ce6e2fbadb9409da02807f8c8fc6ca", 
+    "description": "Your Bash Prompt Needs This \u2013 jonisalonen.com", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://jonisalonen.com/2012/your-bash-prompt-needs-this/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-03-02T13:08:56Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "bash", 
+        "linux", 
+        "tips", 
+        "unix"
+    ]
+}
