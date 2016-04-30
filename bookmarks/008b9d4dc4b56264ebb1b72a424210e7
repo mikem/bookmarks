@@ -1,0 +1,21 @@
+{
+    "extended": "", 
+    "hash": "008b9d4dc4b56264ebb1b72a424210e7", 
+    "description": "RSpec best practices \" Carbon Five Community", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.carbonfive.com/2010/10/testing/rspec-best-practices", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-10-24T11:42:23Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rspec", 
+        "tdd", 
+        "bdd", 
+        "ruby", 
+        "rails", 
+        "bestpractices", 
+        "craftsmanship"
+    ]
+}
