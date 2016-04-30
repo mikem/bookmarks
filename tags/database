@@ -148,4 +148,10 @@
     "hash": "b96ef0d651cb8e43e389e8f4431ecb0e", 
     "uri": "http://www.igvita.com/blog/2007/10/10/hands-on-mysql-backup-migration/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "361d40688e7da17eddd25c81df7b28e3", 
+    "uri": "http://www.nparikh.org/unix/mysql.php", 
+    "title": "[No Title]"
 }
