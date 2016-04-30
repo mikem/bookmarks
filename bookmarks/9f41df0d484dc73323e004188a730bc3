@@ -1,0 +1,18 @@
+{
+    "extended": "A good way to keep track of expenses et cetera", 
+    "hash": "9f41df0d484dc73323e004188a730bc3", 
+    "description": "Ledger: Command-line accounting", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.newartisans.com/software/ledger.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-02-10T00:46:25Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "accounting", 
+        "finance", 
+        "software", 
+        "ledger"
+    ]
+}
