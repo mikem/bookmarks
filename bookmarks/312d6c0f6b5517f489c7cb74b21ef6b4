@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "312d6c0f6b5517f489c7cb74b21ef6b4", 
+    "description": "Petabytes on a budget: How to build cheap cloud storage | Backblaze Blog", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.backblaze.com/2009/09/01/petabytes-on-a-budget-how-to-build-cheap-cloud-storage/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-09-11T02:54:20Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "storage", 
+        "backup", 
+        "hardware", 
+        "cloud", 
+        "linux"
+    ]
+}
