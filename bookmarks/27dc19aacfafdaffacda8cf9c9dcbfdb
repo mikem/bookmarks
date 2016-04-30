@@ -1,0 +1,16 @@
+{
+    "extended": "SSH tricks", 
+    "hash": "27dc19aacfafdaffacda8cf9c9dcbfdb", 
+    "description": "jakilinux.org - english version \u00bb SSH tricks", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://en.jakilinux.org/apps/ssh-tricks/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2006-07-05T14:58:41Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ssh", 
+        "linux"
+    ]
+}
