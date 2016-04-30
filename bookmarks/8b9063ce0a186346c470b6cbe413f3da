@@ -1,0 +1,21 @@
+{
+    "extended": "", 
+    "hash": "8b9063ce0a186346c470b6cbe413f3da", 
+    "description": "Manifesto for Software Craftsmanship", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://manifesto.softwarecraftsmanship.org/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-11-11T01:15:39Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "software", 
+        "craftsmanship", 
+        "manifesto", 
+        "development", 
+        "programming", 
+        "community", 
+        "agile"
+    ]
+}
