@@ -172,4 +172,10 @@
     "hash": "d551b755f343c137858cf31e57b126a2", 
     "uri": "http://www.eecs.harvard.edu/~cduan/technical/git/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "3a918fed32eb580080c123353d0e8815", 
+    "uri": "http://en.wikibooks.org/wiki/Clojure_Programming/By_Example", 
+    "title": "[No Title]"
 }

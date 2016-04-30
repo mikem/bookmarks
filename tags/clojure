@@ -460,4 +460,10 @@
     "hash": "d09d46cf28f82e758d4be3206064cca8", 
     "uri": "http://kotka.de/projects/clojure/vimclojure.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "3a918fed32eb580080c123353d0e8815", 
+    "uri": "http://en.wikibooks.org/wiki/Clojure_Programming/By_Example", 
+    "title": "[No Title]"
 }

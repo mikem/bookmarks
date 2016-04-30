@@ -652,4 +652,10 @@
     "hash": "0dbd46cb8414df59d68196ed175e3f33", 
     "uri": "http://queue.acm.org/detail.cfm?id=1483105", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "3a918fed32eb580080c123353d0e8815", 
+    "uri": "http://en.wikibooks.org/wiki/Clojure_Programming/By_Example", 
+    "title": "[No Title]"
 }
