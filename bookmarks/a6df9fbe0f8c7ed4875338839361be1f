@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "a6df9fbe0f8c7ed4875338839361be1f", 
+    "description": "10 Linux DIG Command Examples for DNS Lookup", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.thegeekstuff.com/2012/02/dig-command-examples/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2015-07-14T21:15:52Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "dig", 
+        "dns", 
+        "nslookup", 
+        "sysadmin"
+    ]
+}
