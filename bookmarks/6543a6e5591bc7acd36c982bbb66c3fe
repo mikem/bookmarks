@@ -1,0 +1,17 @@
+{
+    "extended": "By Uncle Bob Martin.", 
+    "hash": "6543a6e5591bc7acd36c982bbb66c3fe", 
+    "description": "The Clean Architecture", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2016-04-21T22:30:10Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "software", 
+        "design", 
+        "architecture"
+    ]
+}
