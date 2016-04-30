@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "30f2a0363400e99575920105f72386be", 
+    "description": "PGP Public Key for Alan Eliasen and GPG tutorial", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://futureboy.us/pgp.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-07-08T13:50:21Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "encryption", 
+        "privacy", 
+        "pgp", 
+        "gpg", 
+        "tutorial"
+    ]
+}
