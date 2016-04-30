@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "bcb876a89a711c14a2f8b61aa443c93c", 
+    "description": "Improving Backbone App Performance", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.pamelafox.org/2013/06/improving-backbone-app-performance.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-06-10T14:08:42Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "javascript", 
+        "optimization", 
+        "performance", 
+        "chrome"
+    ]
+}
