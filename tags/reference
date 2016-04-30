@@ -238,4 +238,10 @@
     "hash": "efe8e308aecf6b2a4b785a1c45eb6787", 
     "uri": "http://troels.arvin.dk/db/rdbms/#select-limit", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "91f4b30ede0f58eea82dfc6f2806a528", 
+    "uri": "http://catb.org/~esr/writings/taoup/html/", 
+    "title": "[No Title]"
 }

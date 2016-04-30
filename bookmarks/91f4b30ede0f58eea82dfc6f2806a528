@@ -1,0 +1,20 @@
+{
+    "extended": "Eric Raymond's book.", 
+    "hash": "91f4b30ede0f58eea82dfc6f2806a528", 
+    "description": "The Art of Unix Programming", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://catb.org/~esr/writings/taoup/html/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-02-12T23:45:03Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "linux", 
+        "books", 
+        "programming", 
+        "reference", 
+        "opensource", 
+        "unix"
+    ]
+}

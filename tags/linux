@@ -256,4 +256,10 @@
     "hash": "1af4ceed0b255de2b4ae70c7d8e48c02", 
     "uri": "http://intellinuxwireless.org/?n=Info", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "91f4b30ede0f58eea82dfc6f2806a528", 
+    "uri": "http://catb.org/~esr/writings/taoup/html/", 
+    "title": "[No Title]"
 }
