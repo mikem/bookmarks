@@ -1,0 +1,19 @@
+{
+    "extended": "", 
+    "hash": "c41fd2f42a261622dfcee09e4c7587a1", 
+    "description": "Mailvelope", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.mailvelope.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-07-07T09:33:38Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "email", 
+        "encryption", 
+        "pgp", 
+        "security", 
+        "privacy"
+    ]
+}
