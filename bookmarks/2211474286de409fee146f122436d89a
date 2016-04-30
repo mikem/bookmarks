@@ -1,0 +1,24 @@
+{
+    "extended": "", 
+    "hash": "2211474286de409fee146f122436d89a", 
+    "description": "NoSQL at Twitter (NoSQL EU 2010)", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.slideshare.net/kevinweil/nosql-at-twitter-nosql-eu-2010", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-04-24T10:36:05Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "twitter", 
+        "nosql", 
+        "database", 
+        "analysis", 
+        "scalability", 
+        "architecture", 
+        "hadoop", 
+        "pig", 
+        "cassandra", 
+        "data"
+    ]
+}
