@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "995709f1b69bddaa40072ee51d2e6235", 
+    "description": "Rubular: a Ruby regular expression editor", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.rubular.com/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-02-18T09:45:15Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ruby", 
+        "regex"
+    ]
+}
