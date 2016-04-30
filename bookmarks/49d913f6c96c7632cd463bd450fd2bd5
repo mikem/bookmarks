@@ -1,0 +1,17 @@
+{
+    "extended": "Explanation of the Linux boot process", 
+    "hash": "49d913f6c96c7632cd463bd450fd2bd5", 
+    "description": "Inside the Linux boot process", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www-128.ibm.com/developerworks/linux/library/l-linuxboot/?ca=dgr-lnxw07LinuxBoot", 
+    "private": false, 
+    "meta": "", 
+    "time": "2006-06-06T05:10:32Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "linux", 
+        "boot", 
+        "reference"
+    ]
+}
