@@ -160,4 +160,10 @@
     "hash": "4a15eaac95af584248ee6c9168f25f56", 
     "uri": "http://clonedigger.sourceforge.net/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "0961f824308871c20ee18f8b96b11bb5", 
+    "uri": "http://sphinx.pocoo.org/index.html", 
+    "title": "[No Title]"
 }

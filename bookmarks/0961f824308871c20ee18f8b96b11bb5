@@ -1,0 +1,18 @@
+{
+    "extended": "Documentation system behind Python's official documentation.", 
+    "hash": "0961f824308871c20ee18f8b96b11bb5", 
+    "description": "Overview \u2014 Sphinx v0.1 documentation", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://sphinx.pocoo.org/index.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-04-22T22:45:44Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "python", 
+        "documentation", 
+        "generator", 
+        "restructuredtext"
+    ]
+}
