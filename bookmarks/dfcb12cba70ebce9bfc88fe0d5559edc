@@ -1,0 +1,16 @@
+{
+    "extended": "How to manipulate Tomboy programatically", 
+    "hash": "dfcb12cba70ebce9bfc88fe0d5559edc", 
+    "description": "Using the Tomboy D-Bus interface", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://arstechnica.com/journals/linux.ars/2007/09/26/using-the-tomboy-d-bus-interface", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-01-20T01:43:20Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "tomboy", 
+        "dbus"
+    ]
+}
