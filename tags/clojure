@@ -310,4 +310,10 @@
     "hash": "dd3f3d98ada179ea926c41edcd353ac3", 
     "uri": "http://muckandbrass.com/web/display/~cemerick/2010/03/25/Why+using+Maven+for+Clojure+builds+is+a+no-brainer", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "3e8ec87123b2461202410398b2d62168", 
+    "uri": "http://www.paullegato.com/blog/setting-clojure-log-level/", 
+    "title": "[No Title]"
 }

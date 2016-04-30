@@ -1,0 +1,19 @@
+{
+    "extended": "Here\u2019s a function to set the logging level on my default clojure.contrib.logging setup.", 
+    "hash": "3e8ec87123b2461202410398b2d62168", 
+    "description": "Setting Clojure\u2019s Log Level | Paul Legato", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.paullegato.com/blog/setting-clojure-log-level/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-03-17T12:58:06Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "log", 
+        "java", 
+        "jvm", 
+        "lisp"
+    ]
+}
