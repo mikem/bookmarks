@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "8230131842b6bab86e66c8bc6cb7e235", 
+    "description": "Finding Out Who Changed What with Datomic \u2013 Jayway", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.jayway.com/2012/06/27/finding-out-who-changed-what-with-datomic/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-06-29T13:30:24Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "datomic", 
+        "clojure", 
+        "transactions", 
+        "database"
+    ]
+}

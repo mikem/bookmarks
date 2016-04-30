@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "delicious:mike@yeti", 
-    "hash": "a0f7d2ae7c63255a0c6d0ad387240cbd", 
-    "uri": "http://boss-level.com/?p=185", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "delicious:mike@yeti", 
     "hash": "8230131842b6bab86e66c8bc6cb7e235", 
     "uri": "http://www.jayway.com/2012/06/27/finding-out-who-changed-what-with-datomic/", 
     "title": "[No Title]"
