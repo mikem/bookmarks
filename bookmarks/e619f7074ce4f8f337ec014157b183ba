@@ -1,0 +1,19 @@
+{
+    "extended": "SPDY, [...] an early-stage research project that is part of our effort to make the web faster.", 
+    "hash": "e619f7074ce4f8f337ec014157b183ba", 
+    "description": "Chromium Blog: A 2x Faster Web", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.chromium.org/2009/11/2x-faster-web.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-11-23T02:49:18Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "google", 
+        "http", 
+        "protocol", 
+        "web", 
+        "spdy"
+    ]
+}
