@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "e9f419873cf4a0c8c684da3dbbaf56b8", 
+    "description": "Tweaking IRB", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.nicksieger.com/articles/2006/04/23/tweaking-irb", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-11-28T23:21:36Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "ruby", 
+        "irb"
+    ]
+}
