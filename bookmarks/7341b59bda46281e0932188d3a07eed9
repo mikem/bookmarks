@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "7341b59bda46281e0932188d3a07eed9", 
+    "description": "Haters gonna HATEOAS \u2014 Timeless", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://timelessrepo.com/haters-gonna-hateoas", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-26T06:23:57Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "api", 
+        "rest", 
+        "hateoas", 
+        "versioning"
+    ]
+}
