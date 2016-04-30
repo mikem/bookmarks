@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "415ec42aa28d30a6bd22e1cd314a813c", 
+    "description": "Why aren't you using git-flow? - Jeff Kreeftmeijer", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-05-19T14:29:11Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "branching"
+    ]
+}
