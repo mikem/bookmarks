@@ -130,4 +130,10 @@
     "hash": "8c80801d4a8ab0977a63f0202bddb1f7", 
     "uri": "http://robsanheim.com/2008/02/22/learn-git-10-different-ways/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "8650665b7e813c9cba54cf1db59dc2a6", 
+    "uri": "http://toolmantim.com/article/2007/12/5/setting_up_a_new_rails_app_with_git", 
+    "title": "[No Title]"
 }

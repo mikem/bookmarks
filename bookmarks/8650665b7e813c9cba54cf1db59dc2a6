@@ -1,0 +1,17 @@
+{
+    "extended": "Quick howto keeping a Rails project in Git", 
+    "hash": "8650665b7e813c9cba54cf1db59dc2a6", 
+    "description": "Setting up a new Rails app with Git", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://toolmantim.com/article/2007/12/5/setting_up_a_new_rails_app_with_git", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-01-28T01:01:39Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "git", 
+        "rails", 
+        "ruby"
+    ]
+}
