@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "6e937cc14a6ebf7c3877901527f1d6f7", 
+    "description": "Best of VIM Tips, gVIM's Key Features zzapper", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://rayninfo.co.uk/vimtips.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-03-01T02:48:19Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "vim", 
+        "cheatsheet", 
+        "reference", 
+        "tips", 
+        "editor", 
+        "commands"
+    ]
+}
