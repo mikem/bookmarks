@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "delicious:mike@yeti", 
-    "hash": "afbdfffffd0f9b6d58540bd60fec6465", 
-    "uri": "https://github.com/semperos/clj-webdriver", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "delicious:mike@yeti", 
     "hash": "c05a3ea6352d0bbdca540c76e40e5ac4", 
     "uri": "http://www.aentos.com/blog/easy-setup-your-cucumber-scenarios-using-headless-gem-run-selenium-your-ci-server", 
     "title": "[No Title]"
