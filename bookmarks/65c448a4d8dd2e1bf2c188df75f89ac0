@@ -1,0 +1,18 @@
+{
+    "extended": "A brief look at zope.testbrowser", 
+    "hash": "65c448a4d8dd2e1bf2c188df75f89ac0", 
+    "description": "Electric Duncan: zope.testbrowser: Automating the Web", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://oubiwann.blogspot.com/2008/02/zopetestbrowser-automating-web.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-02-20T23:53:17Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "zope", 
+        "python", 
+        "webdesign", 
+        "test"
+    ]
+}
