@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "72944c7828a8df95a22b5a0070176dcb", 
+    "description": "Pass: The Standard Unix Password Manager", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.zx2c4.com/projects/password-store/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2014-02-22T15:51:16Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "password", 
+        "security", 
+        "unix", 
+        "bash"
+    ]
+}
