@@ -154,4 +154,10 @@
     "hash": "8c5d0a2b4034a521817b351fa908b002", 
     "uri": "https://github.com/marick/Midje", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "76b087eeb8dabf9263379b7289f0b032", 
+    "uri": "https://github.com/calebphillips/cljs-todo", 
+    "title": "[No Title]"
 }

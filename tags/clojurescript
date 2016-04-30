@@ -22,4 +22,10 @@
     "hash": "436155b4cb692470da7cda45f2d6cc5b", 
     "uri": "https://github.com/ohpauleez/shoreleave", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "76b087eeb8dabf9263379b7289f0b032", 
+    "uri": "https://github.com/calebphillips/cljs-todo", 
+    "title": "[No Title]"
 }
