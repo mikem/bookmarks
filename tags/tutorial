@@ -214,4 +214,10 @@
     "hash": "b7a30551b0775d25bd84f583cbc6d1f8", 
     "uri": "http://learnyouahaskell.com/chapters", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "285af321b334ec265f80998a3ea139e4", 
+    "uri": "http://www.newty.de/fpt/index.html", 
+    "title": "[No Title]"
 }
