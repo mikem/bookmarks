@@ -1,0 +1,17 @@
+{
+    "extended": "Guide (book?) on how to write Linux shell scripts. Looks pretty comprehensive.", 
+    "hash": "92a92cdfba9d2707f612fc3ed2d2c092", 
+    "description": "LinuxCommand.org: Writing shell scripts.", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://linuxcommand.org/writing_shell_scripts.php", 
+    "private": false, 
+    "meta": "", 
+    "time": "2006-07-02T00:27:42Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "linux", 
+        "shell", 
+        "scripting"
+    ]
+}
