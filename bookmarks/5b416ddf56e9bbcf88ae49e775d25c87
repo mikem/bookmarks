@@ -1,0 +1,21 @@
+{
+    "extended": "", 
+    "hash": "5b416ddf56e9bbcf88ae49e775d25c87", 
+    "description": "neo4j open source nosql graph database \u00bb", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://neo4j.org/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-10-06T12:40:32Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "neo", 
+        "java", 
+        "programming", 
+        "database", 
+        "nosql", 
+        "graph", 
+        "storage"
+    ]
+}
