@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "1e5553eae7458cc2dade14690a2a4943", 
+    "description": "A Neighborhood of Infinity: Haskell Monoids and their Uses", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-03-16T06:17:27Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "programming", 
+        "haskell", 
+        "monoid"
+    ]
+}
