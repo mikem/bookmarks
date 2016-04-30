@@ -1,0 +1,16 @@
+{
+    "extended": "A quick primer on using fuser", 
+    "hash": "2c322619c1c4285e37f4216d34faeb98", 
+    "description": "Linux.com :: Solving resource contention problems with fuser", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.linux.com/feature/121049", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-12-06T11:05:05Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "linux", 
+        "fuser"
+    ]
+}
