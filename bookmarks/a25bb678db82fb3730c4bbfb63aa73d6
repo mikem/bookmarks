@@ -1,0 +1,19 @@
+{
+    "extended": "\"The Mutt of Feedreaders\"", 
+    "hash": "a25bb678db82fb3730c4bbfb63aa73d6", 
+    "description": "AK's website - newsbeuter", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://synflood.at/newsbeuter.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2008-06-28T08:39:28Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rss", 
+        "feedreader", 
+        "linux", 
+        "mutt", 
+        "cli"
+    ]
+}
