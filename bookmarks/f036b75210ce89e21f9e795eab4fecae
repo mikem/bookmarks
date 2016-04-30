@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "f036b75210ce89e21f9e795eab4fecae", 
+    "description": "How Not To Sort By Average Rating", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.evanmiller.org/how-not-to-sort-by-average-rating.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-05-07T05:33:23Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "programming", 
+        "algorithm", 
+        "ruby", 
+        "sort"
+    ]
+}
