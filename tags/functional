@@ -70,4 +70,10 @@
     "hash": "a5bdd841c06e11732fd41c97391b11b4", 
     "uri": "http://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "5fcdf12084a4bb2ebdf8135b15e55914", 
+    "uri": "http://java.ociweb.com/mark/clojure/article.html", 
+    "title": "[No Title]"
 }

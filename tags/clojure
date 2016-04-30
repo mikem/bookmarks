@@ -424,4 +424,10 @@
     "hash": "8f63afc3a67a3a389ec9bd3760720c46", 
     "uri": "http://www.apress.com/book/view/1430272317", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "5fcdf12084a4bb2ebdf8135b15e55914", 
+    "uri": "http://java.ociweb.com/mark/clojure/article.html", 
+    "title": "[No Title]"
 }

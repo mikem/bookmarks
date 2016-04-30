@@ -130,4 +130,10 @@
     "hash": "8b47e775d22fdb475941d34b2d583340", 
     "uri": "http://learnyousomeerlang.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "5fcdf12084a4bb2ebdf8135b15e55914", 
+    "uri": "http://java.ociweb.com/mark/clojure/article.html", 
+    "title": "[No Title]"
 }

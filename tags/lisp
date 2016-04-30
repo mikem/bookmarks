@@ -160,4 +160,10 @@
     "hash": "e7c8235b54adb66c34cf9dadd6e53709", 
     "uri": "http://www.vim.org/scripts/script.php?script_id=2219", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "5fcdf12084a4bb2ebdf8135b15e55914", 
+    "uri": "http://java.ociweb.com/mark/clojure/article.html", 
+    "title": "[No Title]"
 }
