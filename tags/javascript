@@ -304,4 +304,10 @@
     "hash": "0a3c965dd683c56469e93c14a321ba4a", 
     "uri": "https://javascriptweblog.wordpress.com/2010/12/07/namespacing-in-javascript/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "16001793b2a69961e07658aa85ff5b89", 
+    "uri": "http://samuraiprinciple.com/2010/12/03/global-namespace-pollution-detection-with-jasmine/", 
+    "title": "[No Title]"
 }
