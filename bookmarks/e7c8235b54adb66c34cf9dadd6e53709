@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "e7c8235b54adb66c34cf9dadd6e53709", 
+    "description": "Limp - Lisp IDE : vim online", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.vim.org/scripts/script.php?script_id=2219", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-09-09T02:10:41Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "lisp", 
+        "vim"
+    ]
+}
