@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "3385b83f5a01422ca266e349e59c3933", 
+    "description": "Bootstrap, from Twitter", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://twitter.github.com/bootstrap/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-01-04T13:00:02Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "prototyping", 
+        "css", 
+        "javascript", 
+        "webdesign"
+    ]
+}
