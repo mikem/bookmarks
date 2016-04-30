@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "delicious:mike@yeti", 
-    "hash": "51c2b069dda138bdc319630ce76971de", 
-    "uri": "http://c9x.me/comp-bib/", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "delicious:mike@yeti", 
     "hash": "ce2de067e9bda46f76a32b620a899e14", 
     "uri": "http://lucumr.pocoo.org/2013/11/17/my-favorite-database/", 
     "title": "[No Title]"

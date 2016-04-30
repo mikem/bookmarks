@@ -1,0 +1,21 @@
+{
+    "extended": "", 
+    "hash": "ce2de067e9bda46f76a32b620a899e14", 
+    "description": "My Favorite Database is the Network | Armin Ronacher's Thoughts and Writings", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://lucumr.pocoo.org/2013/11/17/my-favorite-database/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2015-08-22T23:28:54Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "programming", 
+        "scalability", 
+        "security", 
+        "network", 
+        "persistence", 
+        "database", 
+        "distributed"
+    ]
+}
