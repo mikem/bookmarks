@@ -1,0 +1,16 @@
+{
+    "extended": "The Dead Simple, No Chit Chat, Zero-Analogy Haskell Monad Tutorial", 
+    "hash": "b734834352759ce5a8e945fedfdbe0e4", 
+    "description": "ZAMT", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://unknownparallel.com/monads.php", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-10-29T06:31:24Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "haskell", 
+        "monads"
+    ]
+}
