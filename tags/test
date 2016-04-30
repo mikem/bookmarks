@@ -4,4 +4,10 @@
     "hash": "6bbc83d66a437bfa178ff4ea0984bf01", 
     "uri": "http://robots.thoughtbot.com/write-reliable-asynchronous-integration-tests-with-capybara", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "afbdfffffd0f9b6d58540bd60fec6465", 
+    "uri": "https://github.com/semperos/clj-webdriver", 
+    "title": "[No Title]"
 }

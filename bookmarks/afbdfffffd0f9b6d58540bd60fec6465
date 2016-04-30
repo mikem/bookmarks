@@ -1,0 +1,23 @@
+{
+    "extended": "", 
+    "hash": "afbdfffffd0f9b6d58540bd60fec6465", 
+    "description": "semperos/clj-webdriver", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://github.com/semperos/clj-webdriver", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-08-10T13:21:27Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "code", 
+        "github", 
+        "library", 
+        "selenium", 
+        "webdriver", 
+        "test", 
+        "tdd", 
+        "bdd"
+    ]
+}
