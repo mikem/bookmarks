@@ -112,4 +112,10 @@
     "hash": "7e595ce023ee6b458cb35a6658018899", 
     "uri": "http://yehudakatz.com/2010/01/10/activemodel-make-any-ruby-object-feel-like-activerecord/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "14b44ea9379527b839e82d71c1898b8e", 
+    "uri": "https://wincent.com/wiki/Rails_view_testing_cheatsheet", 
+    "title": "[No Title]"
 }

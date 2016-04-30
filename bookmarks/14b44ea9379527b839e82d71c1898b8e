@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "14b44ea9379527b839e82d71c1898b8e", 
+    "description": "wincent.com: Rails view testing cheatsheet", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "https://wincent.com/wiki/Rails_view_testing_cheatsheet", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-02-22T00:18:12Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "rspec", 
+        "rails", 
+        "cheatsheet"
+    ]
+}
