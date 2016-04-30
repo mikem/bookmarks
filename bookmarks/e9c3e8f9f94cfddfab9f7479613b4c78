@@ -1,0 +1,20 @@
+{
+    "extended": "", 
+    "hash": "e9c3e8f9f94cfddfab9f7479613b4c78", 
+    "description": "Mailpile: Let\u2019s take email back!", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.mailpile.is/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2013-08-10T02:05:48Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "email", 
+        "mail", 
+        "privacy", 
+        "opensource", 
+        "gpg", 
+        "pgp"
+    ]
+}
