@@ -1,0 +1,17 @@
+{
+    "extended": "Article on getting the iPod working with Linux", 
+    "hash": "6dbfd1965f40d9ad56774122cbd5f1f8", 
+    "description": "Using an iPod in Linux | Linux Journal", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://www.linuxjournal.com/article/8160", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-01-12T14:07:20Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "linux", 
+        "ipod", 
+        "gtkpod"
+    ]
+}
