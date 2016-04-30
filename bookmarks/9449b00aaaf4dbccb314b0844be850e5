@@ -1,0 +1,20 @@
+{
+    "extended": "Project for open nVidia drivers", 
+    "hash": "9449b00aaaf4dbccb314b0844be850e5", 
+    "description": "nouveau Wiki - FrontPage", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://nouveau.freedesktop.org/wiki/", 
+    "private": false, 
+    "meta": "", 
+    "time": "2007-01-22T10:36:54Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "linux", 
+        "oss", 
+        "nvidia", 
+        "video", 
+        "graphics", 
+        "driver"
+    ]
+}
