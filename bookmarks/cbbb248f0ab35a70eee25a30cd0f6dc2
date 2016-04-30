@@ -1,0 +1,23 @@
+{
+    "extended": "", 
+    "hash": "cbbb248f0ab35a70eee25a30cd0f6dc2", 
+    "description": "Measuring Measures - Measuring Measures - Mining the Web with Clojure", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://measuringmeasures.com/blog/2010/11/8/mining-the-web-with-clojure.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2010-11-14T12:38:31Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "clojure", 
+        "web", 
+        "data", 
+        "search", 
+        "html", 
+        "lisp", 
+        "scraping", 
+        "datamining", 
+        "parsing"
+    ]
+}

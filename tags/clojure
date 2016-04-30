@@ -256,4 +256,10 @@
     "hash": "537a13b3ca76770b41e6c20b108876ad", 
     "uri": "http://blog.8thlight.com/articles/2010/12/6/clojure-libs-and-namespaces-require-use-import-and-ns", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "cbbb248f0ab35a70eee25a30cd0f6dc2", 
+    "uri": "http://measuringmeasures.com/blog/2010/11/8/mining-the-web-with-clojure.html", 
+    "title": "[No Title]"
 }

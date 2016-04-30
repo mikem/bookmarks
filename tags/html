@@ -28,4 +28,10 @@
     "hash": "7d3e0a116d18a79ac840db3b7d9820cd", 
     "uri": "http://w3fools.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "cbbb248f0ab35a70eee25a30cd0f6dc2", 
+    "uri": "http://measuringmeasures.com/blog/2010/11/8/mining-the-web-with-clojure.html", 
+    "title": "[No Title]"
 }

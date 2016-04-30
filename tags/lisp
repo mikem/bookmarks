@@ -22,4 +22,10 @@
     "hash": "6b6437f717d0e8494cb0100bbc5f6bc3", 
     "uri": "http://xach.livejournal.com/278047.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "cbbb248f0ab35a70eee25a30cd0f6dc2", 
+    "uri": "http://measuringmeasures.com/blog/2010/11/8/mining-the-web-with-clojure.html", 
+    "title": "[No Title]"
 }
