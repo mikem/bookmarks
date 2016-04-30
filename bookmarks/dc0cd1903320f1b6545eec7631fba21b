@@ -1,0 +1,18 @@
+{
+    "extended": "", 
+    "hash": "dc0cd1903320f1b6545eec7631fba21b", 
+    "description": "existing rel values \u00b7 Microformats Wiki", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://microformats.org/wiki/existing-rel-values", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-05-31T13:48:35Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "hypermedia", 
+        "api", 
+        "rel", 
+        "reference"
+    ]
+}
