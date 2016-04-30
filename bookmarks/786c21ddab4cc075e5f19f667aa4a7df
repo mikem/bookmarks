@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "786c21ddab4cc075e5f19f667aa4a7df", 
+    "description": "linuxwave: Mounting LVM Disk using Ubuntu livecd", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://linuxwave.blogspot.com/2007/11/mounting-lvm-disk-using-ubuntu-livecd.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2011-12-10T11:09:25Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "linux", 
+        "lvm"
+    ]
+}

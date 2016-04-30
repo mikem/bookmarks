@@ -40,4 +40,10 @@
     "hash": "bb9e33e0ae22d1406df366ac438c8ab7", 
     "uri": "http://lists.busybox.net/pipermail/busybox/2010-December/074114.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "delicious:mike@yeti", 
+    "hash": "786c21ddab4cc075e5f19f667aa4a7df", 
+    "uri": "http://linuxwave.blogspot.com/2007/11/mounting-lvm-disk-using-ubuntu-livecd.html", 
+    "title": "[No Title]"
 }
