@@ -1,0 +1,16 @@
+{
+    "extended": "", 
+    "hash": "bf546bc4302ea3e5b4225c3f2c46f75f", 
+    "description": "Fun with Morse Code", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://apfelmus.nfshost.com/fun-with-morse-code.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2009-09-02T02:47:37Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "haskell", 
+        "programming"
+    ]
+}
