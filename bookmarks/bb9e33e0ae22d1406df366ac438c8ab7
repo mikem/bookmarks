@@ -1,0 +1,17 @@
+{
+    "extended": "", 
+    "hash": "bb9e33e0ae22d1406df366ac438c8ab7", 
+    "description": "Understanding the bin, sbin, usr/bin , usr/sbin split", 
+    "rights": null, 
+    "creator": "delicious:mike@yeti", 
+    "uri": "http://lists.busybox.net/pipermail/busybox/2010-December/074114.html", 
+    "private": false, 
+    "meta": "", 
+    "time": "2012-01-28T04:08:46Z", 
+    "title": "[No Title]", 
+    "tags": [
+        "unix", 
+        "history", 
+        "linux"
+    ]
+}
