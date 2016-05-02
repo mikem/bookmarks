@@ -52,4 +52,10 @@
     "hash": "0a01c3abc7564b49afa5acc820c13d8e", 
     "uri": "https://github.com/acrmp/chefspec", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "e8885adaec3943b7475b27c3884ac2c2", 
+    "uri": "https://rclayton.silvrback.com/failing-at-microservices", 
+    "title": "Richard Clayton - Failing at Microservices."
 }

@@ -76,4 +76,10 @@
     "hash": "1368ed449d62087eee0e943da27fbd69", 
     "uri": "http://bitworking.org/news/201/RESTify-DayTrader", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "e8885adaec3943b7475b27c3884ac2c2", 
+    "uri": "https://rclayton.silvrback.com/failing-at-microservices", 
+    "title": "Richard Clayton - Failing at Microservices."
 }

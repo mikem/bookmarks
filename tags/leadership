@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "mikem", 
-    "hash": "5a7da9e832e234173745556bb98edee1", 
-    "uri": "http://www.kennybastani.com/2016/04/event-sourcing-microservices-spring-cloud.html", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "mikem", 
     "hash": "e8885adaec3943b7475b27c3884ac2c2", 
     "uri": "https://rclayton.silvrback.com/failing-at-microservices", 
     "title": "Richard Clayton - Failing at Microservices."
