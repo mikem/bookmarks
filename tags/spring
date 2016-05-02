@@ -10,4 +10,10 @@
     "hash": "796af27fb7d85973441758c5eeb2a8bd", 
     "uri": "https://objectpartners.com/2010/08/06/how-do-annotations-work/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "5a7da9e832e234173745556bb98edee1", 
+    "uri": "http://www.kennybastani.com/2016/04/event-sourcing-microservices-spring-cloud.html", 
+    "title": "[No Title]"
 }

@@ -268,4 +268,10 @@
     "hash": "3982fd2ac49bebe584c5079b5db9e6b5", 
     "uri": "https://ideas.riverglide.com/page-objects-refactored-12ec3541990", 
     "title": "Access denied | medium.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "5a7da9e832e234173745556bb98edee1", 
+    "uri": "http://www.kennybastani.com/2016/04/event-sourcing-microservices-spring-cloud.html", 
+    "title": "[No Title]"
 }
