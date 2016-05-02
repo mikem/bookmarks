@@ -160,4 +160,10 @@
     "hash": "a2dbee42001e70631ea576515a0ae73e", 
     "uri": "http://weblogs.asp.net/scottdockendorf/archive/2004/10/06/238811.aspx", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "3982fd2ac49bebe584c5079b5db9e6b5", 
+    "uri": "https://ideas.riverglide.com/page-objects-refactored-12ec3541990", 
+    "title": "Access denied | medium.com used CloudFlare to restrict access"
 }
