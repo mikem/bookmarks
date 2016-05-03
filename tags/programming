@@ -838,4 +838,10 @@
     "hash": "1ae2f80a0cf7e1fa63647a8cbf8e1a42", 
     "uri": "http://www.abouturl.com/index.php", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "97731cba31d3e642a86d4794d114c3b4", 
+    "uri": "https://pragprog.com/book/bhwb/exercises-for-programmers", 
+    "title": "[No Title]"
 }
