@@ -130,4 +130,10 @@
     "hash": "3982fd2ac49bebe584c5079b5db9e6b5", 
     "uri": "https://ideas.riverglide.com/page-objects-refactored-12ec3541990", 
     "title": "Access denied | medium.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "b3db280ecb9838848aabd0c6f7daac8c", 
+    "uri": "https://revoltingcode.wordpress.com/2013/10/27/play-framework-2-controller-testing-with-json-body-parser/", 
+    "title": "Play Framework 2 controller testing with JSON body parser | Revolting Code"
 }

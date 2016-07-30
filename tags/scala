@@ -28,4 +28,10 @@
     "hash": "430cfacc00b804866af89a1f61f364fa", 
     "uri": "http://blog.abhinav.ca/blog/2014/01/13/akka-and-backpressure/", 
     "title": "Akka and Back-pressure - sqldump"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "b3db280ecb9838848aabd0c6f7daac8c", 
+    "uri": "https://revoltingcode.wordpress.com/2013/10/27/play-framework-2-controller-testing-with-json-body-parser/", 
+    "title": "Play Framework 2 controller testing with JSON body parser | Revolting Code"
 }
