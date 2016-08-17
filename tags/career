@@ -118,4 +118,10 @@
     "hash": "a8856d86271e9d587ac67b93ab62b85d", 
     "uri": "http://www.stevepavlina.com/blog/2006/07/10-reasons-you-should-never-get-a-job/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "c3375b162b60e070539cf8add4f44af7", 
+    "uri": "https://medium.com/@ztellman/senior-engineers-reduce-risk-5ab2adc13c97", 
+    "title": "Access denied | medium.com used CloudFlare to restrict access"
 }
