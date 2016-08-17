@@ -40,4 +40,10 @@
     "hash": "100898fd40cf0b5f9ca0e310cf908c5b", 
     "uri": "http://di-in-scala.github.io/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "d75141114ec1556e716bc202bd680460", 
+    "uri": "http://blog.jaceklaskowski.pl/2015/04/12/using-autoplugin-in-sbt-for-common-settings-across-projects-in-multi-project-build.html", 
+    "title": "Using AutoPlugin in Sbt for Common Settings Across Projects in Multi-project Build - Mastering FP and OO with Scala"
 }
