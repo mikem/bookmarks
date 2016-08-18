@@ -1,11 +1,5 @@
 {
     "ver": "gitmark.0.2", 
-    "creator": "delicious:mike@yeti", 
-    "hash": "ff2b55a81b036d196d74bcf86491dbac", 
-    "uri": "http://stedolan.github.io/jq/", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
     "creator": "mikem", 
     "hash": "2a28f54793911a6873cac42c11d90200", 
     "uri": "https://robots.thoughtbot.com/decoding-json-structures-with-elm", 
