@@ -136,4 +136,10 @@
     "hash": "b3db280ecb9838848aabd0c6f7daac8c", 
     "uri": "https://revoltingcode.wordpress.com/2013/10/27/play-framework-2-controller-testing-with-json-body-parser/", 
     "title": "Play Framework 2 controller testing with JSON body parser | Revolting Code"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "6479286844763b165ecad2054eb44440", 
+    "uri": "http://blog.thecodewhisperer.com/permalink/in-brief-contract-tests", 
+    "title": "In brief: Contract Tests - The Code Whisperer"
 }

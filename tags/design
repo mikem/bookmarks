@@ -298,4 +298,10 @@
     "hash": "41584330d09828af7246dddd1bcca5eb", 
     "uri": "http://www.smallmemory.com/almanac/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "6479286844763b165ecad2054eb44440", 
+    "uri": "http://blog.thecodewhisperer.com/permalink/in-brief-contract-tests", 
+    "title": "In brief: Contract Tests - The Code Whisperer"
 }
