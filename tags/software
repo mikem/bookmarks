@@ -202,4 +202,10 @@
     "hash": "231187806eb6da8a095bf19153036812", 
     "uri": "http://opensourcelegal.org/licensedb/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "4310fe172fcd8cf9dfecd8e991d3d675", 
+    "uri": "https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html", 
+    "title": "/dev/lawyer The MIT License, Line by Line"
 }
