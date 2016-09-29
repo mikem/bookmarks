@@ -34,4 +34,10 @@
     "hash": "6527939988677297c87b4a49fab526e1", 
     "uri": "http://traverso-daw.org/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "d894965995d25e1124e73a8a0d5789a2", 
+    "uri": "https://beta.cryptpad.fr/", 
+    "title": "Cryptpad: Zero Knowledge, Collaborative Real Time Editing"
 }

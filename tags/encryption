@@ -28,4 +28,10 @@
     "hash": "024808d0e9fadb2ae76620f1d32e42f8", 
     "uri": "http://www.clipperz.com/users/marco/blog/2006/06/16/gmail_encryption", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "d894965995d25e1124e73a8a0d5789a2", 
+    "uri": "https://beta.cryptpad.fr/", 
+    "title": "Cryptpad: Zero Knowledge, Collaborative Real Time Editing"
 }

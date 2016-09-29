@@ -154,4 +154,10 @@
     "hash": "8d1a6d3532745eace8e9c9b0746d9c79", 
     "uri": "http://www.aidanf.net/rails_user_authentication_tutorial", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "d894965995d25e1124e73a8a0d5789a2", 
+    "uri": "https://beta.cryptpad.fr/", 
+    "title": "Cryptpad: Zero Knowledge, Collaborative Real Time Editing"
 }
