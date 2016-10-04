@@ -214,4 +214,10 @@
     "hash": "98dd07b0fd0c1fea3e74a363a11a435b", 
     "uri": "http://www.oreilly.com/openbook/osfreesoft/book/", 
     "title": ""
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "4f8b6f94a163157b12435dab3aaa1bad", 
+    "uri": "https://github.com/sindresorhus/quick-look-plugins", 
+    "title": "GitHub - sindresorhus/quick-look-plugins: List of useful Quick Look plugins for developers"
 }

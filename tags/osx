@@ -166,4 +166,10 @@
     "hash": "5222fe8e94b75aa08525b61791aa5767", 
     "uri": "http://projects.tynsoe.org/en/geektool/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "4f8b6f94a163157b12435dab3aaa1bad", 
+    "uri": "https://github.com/sindresorhus/quick-look-plugins", 
+    "title": "GitHub - sindresorhus/quick-look-plugins: List of useful Quick Look plugins for developers"
 }
