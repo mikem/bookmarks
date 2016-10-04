@@ -844,4 +844,10 @@
     "hash": "97731cba31d3e642a86d4794d114c3b4", 
     "uri": "https://pragprog.com/book/bhwb/exercises-for-programmers", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "5a2478b61309e4fe72e10c8d5e654b85", 
+    "uri": "https://github.com/adamtornhill/code-maat", 
+    "title": "GitHub - adamtornhill/code-maat: A command line tool to mine and analyze data from version-control systems"
 }
