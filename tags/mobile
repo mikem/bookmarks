@@ -88,4 +88,10 @@
     "hash": "36a74a77abd501e7fad7a295e617f533", 
     "uri": "http://www.keitai-dev.net/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "960f2a48b527bd5093123b88820d8489", 
+    "uri": "https://arielelkin.github.io/articles/why-im-not-a-react-native-developer", 
+    "title": "Why I&#39;m not a React Native Developer"
 }
