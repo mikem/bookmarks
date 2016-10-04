@@ -10,4 +10,10 @@
     "hash": "e675e2feffd269f7ead8b3b7280b330d", 
     "uri": "http://www.britgo.org/tech/gmp.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "34a6a2ddfb205b782f0e1a5b714c5ad1", 
+    "uri": "https://github.com/uber-go/zap", 
+    "title": "GitHub - uber-go/zap: Fast, structured, leveled logging in Go"
 }
