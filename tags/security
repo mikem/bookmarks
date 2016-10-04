@@ -160,4 +160,10 @@
     "hash": "d894965995d25e1124e73a8a0d5789a2", 
     "uri": "https://beta.cryptpad.fr/", 
     "title": "Cryptpad: Zero Knowledge, Collaborative Real Time Editing"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "b441051beec5e875c81c1ed053c2ce7f", 
+    "uri": "https://www.wireguard.io/", 
+    "title": "WireGuard: fast, modern, secure VPN tunnel"
 }
