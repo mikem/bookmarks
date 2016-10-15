@@ -346,4 +346,10 @@
     "hash": "960f2a48b527bd5093123b88820d8489", 
     "uri": "https://arielelkin.github.io/articles/why-im-not-a-react-native-developer", 
     "title": "Why I&#39;m not a React Native Developer"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "29fac1d242f1b70eb6df6d3bd71f520a", 
+    "uri": "http://reactpatterns.com/", 
+    "title": "React Patterns"
 }

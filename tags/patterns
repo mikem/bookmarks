@@ -106,4 +106,10 @@
     "hash": "41584330d09828af7246dddd1bcca5eb", 
     "uri": "http://www.smallmemory.com/almanac/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "29fac1d242f1b70eb6df6d3bd71f520a", 
+    "uri": "http://reactpatterns.com/", 
+    "title": "React Patterns"
 }
