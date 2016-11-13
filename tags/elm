@@ -4,4 +4,10 @@
     "hash": "2a28f54793911a6873cac42c11d90200", 
     "uri": "https://robots.thoughtbot.com/decoding-json-structures-with-elm", 
     "title": "Decoding JSON Structures with Elm"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "7bdf71853c5b7b57f902f7a70421acdc", 
+    "uri": "http://mutanatum.com/posts/2016-09-18-Return.html", 
+    "title": "The Return Monad | MutanatuM"
 }

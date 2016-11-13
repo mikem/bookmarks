@@ -46,4 +46,10 @@
     "hash": "ae50860acb501b493f07dd20932137a8", 
     "uri": "http://www.haskell.org/all_about_monads/html/index.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "7bdf71853c5b7b57f902f7a70421acdc", 
+    "uri": "http://mutanatum.com/posts/2016-09-18-Return.html", 
+    "title": "The Return Monad | MutanatuM"
 }
