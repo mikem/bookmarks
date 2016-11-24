@@ -58,4 +58,10 @@
     "hash": "e8885adaec3943b7475b27c3884ac2c2", 
     "uri": "https://rclayton.silvrback.com/failing-at-microservices", 
     "title": "Richard Clayton - Failing at Microservices."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "c03dd4a08c02e6cb0fc064721fadec84", 
+    "uri": "https://gist.github.com/acolyer/95ef23802803cb8b4eb5", 
+    "title": "Internet Scale Services Checklist \u00b7 GitHub"
 }

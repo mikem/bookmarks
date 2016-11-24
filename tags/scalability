@@ -70,4 +70,10 @@
     "hash": "430cfacc00b804866af89a1f61f364fa", 
     "uri": "http://blog.abhinav.ca/blog/2014/01/13/akka-and-backpressure/", 
     "title": "Akka and Back-pressure - sqldump"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "c03dd4a08c02e6cb0fc064721fadec84", 
+    "uri": "https://gist.github.com/acolyer/95ef23802803cb8b4eb5", 
+    "title": "Internet Scale Services Checklist \u00b7 GitHub"
 }

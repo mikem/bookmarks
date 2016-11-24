@@ -100,4 +100,10 @@
     "hash": "5a2478b61309e4fe72e10c8d5e654b85", 
     "uri": "https://github.com/adamtornhill/code-maat", 
     "title": "GitHub - adamtornhill/code-maat: A command line tool to mine and analyze data from version-control systems"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "c03dd4a08c02e6cb0fc064721fadec84", 
+    "uri": "https://gist.github.com/acolyer/95ef23802803cb8b4eb5", 
+    "title": "Internet Scale Services Checklist \u00b7 GitHub"
 }
