@@ -142,4 +142,10 @@
     "hash": "90dd027306d604a79d592eeb850a2136", 
     "uri": "http://www.boyet.com/articles/lockfreestack.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "d45af0b90ae980134c42ee4e0b2f740d", 
+    "uri": "http://www.techempower.com/benchmarks/", 
+    "title": "TechEmpower Framework Benchmarks"
 }

@@ -34,4 +34,10 @@
     "hash": "3ba43fab28d9080fa99e4959cb6034ed", 
     "uri": "http://stage.vambenepe.com/archives/863", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "d45af0b90ae980134c42ee4e0b2f740d", 
+    "uri": "http://www.techempower.com/benchmarks/", 
+    "title": "TechEmpower Framework Benchmarks"
 }
