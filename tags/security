@@ -166,4 +166,10 @@
     "hash": "b441051beec5e875c81c1ed053c2ce7f", 
     "uri": "https://www.wireguard.io/", 
     "title": "WireGuard: fast, modern, secure VPN tunnel"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "b54964a79a3fb8f833beeb4a140c8a9d", 
+    "uri": "https://github.com/minimaxir/big-list-of-naughty-strings", 
+    "title": "GitHub - minimaxir/big-list-of-naughty-strings: The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data."
 }

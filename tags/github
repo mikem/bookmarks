@@ -196,4 +196,10 @@
     "hash": "34a6a2ddfb205b782f0e1a5b714c5ad1", 
     "uri": "https://github.com/uber-go/zap", 
     "title": "GitHub - uber-go/zap: Fast, structured, leveled logging in Go"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "b54964a79a3fb8f833beeb4a140c8a9d", 
+    "uri": "https://github.com/minimaxir/big-list-of-naughty-strings", 
+    "title": "GitHub - minimaxir/big-list-of-naughty-strings: The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data."
 }
