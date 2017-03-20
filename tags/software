@@ -226,4 +226,10 @@
     "hash": "1774f8324fbfff35c06ab17f1235bbf6", 
     "uri": "https://hackernoon.com/a-software-engineers-essential-time-estimation-guide-d7328238c510", 
     "title": "Access denied | medium.com used Cloudflare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "f1ec117dd66f8d040d076c98ee386d85", 
+    "uri": "http://redmonk.com/fryan/2016/12/12/on-the-myth-of-the-10x-engineer-and-the-reality-of-the-distinguished-engineer/", 
+    "title": "403 Forbidden"
 }

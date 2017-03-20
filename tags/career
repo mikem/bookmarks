@@ -124,4 +124,10 @@
     "hash": "c3375b162b60e070539cf8add4f44af7", 
     "uri": "https://medium.com/@ztellman/senior-engineers-reduce-risk-5ab2adc13c97", 
     "title": "Access denied | medium.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "f1ec117dd66f8d040d076c98ee386d85", 
+    "uri": "http://redmonk.com/fryan/2016/12/12/on-the-myth-of-the-10x-engineer-and-the-reality-of-the-distinguished-engineer/", 
+    "title": "403 Forbidden"
 }

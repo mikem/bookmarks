@@ -106,4 +106,10 @@
     "hash": "371e78288c3ef8e4cfaa5a640b1145fe", 
     "uri": "https://m.signalvnoise.com/how-to-have-an-honest-one-on-one-with-an-employee-24bbddeb0f47", 
     "title": "Access denied | medium.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "f1ec117dd66f8d040d076c98ee386d85", 
+    "uri": "http://redmonk.com/fryan/2016/12/12/on-the-myth-of-the-10x-engineer-and-the-reality-of-the-distinguished-engineer/", 
+    "title": "403 Forbidden"
 }

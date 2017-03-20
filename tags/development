@@ -208,4 +208,10 @@
     "hash": "6ba83033b67ea57c2390ef46be87459b", 
     "uri": "http://racksburg.com/choosing-an-http-status-code/", 
     "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "f1ec117dd66f8d040d076c98ee386d85", 
+    "uri": "http://redmonk.com/fryan/2016/12/12/on-the-myth-of-the-10x-engineer-and-the-reality-of-the-distinguished-engineer/", 
+    "title": "403 Forbidden"
 }
