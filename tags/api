@@ -118,4 +118,10 @@
     "hash": "6ba83033b67ea57c2390ef46be87459b", 
     "uri": "http://racksburg.com/choosing-an-http-status-code/", 
     "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "b2a802e7ecd1d44f3fb9581038d644d1", 
+    "uri": "http://allegro.tech/2015/01/Content-headers-or-how-to-version-api.html", 
+    "title": "[No Title]"
 }

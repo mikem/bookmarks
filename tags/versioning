@@ -16,4 +16,10 @@
     "hash": "4bdd73bcdd788c7e9e0c73dd9dd709c4", 
     "uri": "http://bazaar-vcs.org/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "b2a802e7ecd1d44f3fb9581038d644d1", 
+    "uri": "http://allegro.tech/2015/01/Content-headers-or-how-to-version-api.html", 
+    "title": "[No Title]"
 }
