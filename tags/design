@@ -304,4 +304,10 @@
     "hash": "6479286844763b165ecad2054eb44440", 
     "uri": "http://blog.thecodewhisperer.com/permalink/in-brief-contract-tests", 
     "title": "In brief: Contract Tests - The Code Whisperer"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "8b084037e79226a4b746fb55a1a81036", 
+    "uri": "https://martinfowler.com/bliki/ContextualValidation.html", 
+    "title": "ContextualValidation"
 }

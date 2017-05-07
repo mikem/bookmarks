@@ -112,4 +112,10 @@
     "hash": "29fac1d242f1b70eb6df6d3bd71f520a", 
     "uri": "http://reactpatterns.com/", 
     "title": "React Patterns"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "8b084037e79226a4b746fb55a1a81036", 
+    "uri": "https://martinfowler.com/bliki/ContextualValidation.html", 
+    "title": "ContextualValidation"
 }

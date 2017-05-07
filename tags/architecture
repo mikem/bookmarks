@@ -106,4 +106,10 @@
     "hash": "c03dd4a08c02e6cb0fc064721fadec84", 
     "uri": "https://gist.github.com/acolyer/95ef23802803cb8b4eb5", 
     "title": "Internet Scale Services Checklist \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "8b084037e79226a4b746fb55a1a81036", 
+    "uri": "https://martinfowler.com/bliki/ContextualValidation.html", 
+    "title": "ContextualValidation"
 }
