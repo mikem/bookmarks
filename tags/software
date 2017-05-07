@@ -238,4 +238,10 @@
     "hash": "8b084037e79226a4b746fb55a1a81036", 
     "uri": "https://martinfowler.com/bliki/ContextualValidation.html", 
     "title": "ContextualValidation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "fb7450cf949aae16ce95deec011679b7", 
+    "uri": "http://blog.cleancoder.com/uncle-bob/2017/05/05/TestDefinitions.html", 
+    "title": "Clean Coder Blog"
 }

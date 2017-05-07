@@ -142,4 +142,10 @@
     "hash": "6479286844763b165ecad2054eb44440", 
     "uri": "http://blog.thecodewhisperer.com/permalink/in-brief-contract-tests", 
     "title": "In brief: Contract Tests - The Code Whisperer"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "fb7450cf949aae16ce95deec011679b7", 
+    "uri": "http://blog.cleancoder.com/uncle-bob/2017/05/05/TestDefinitions.html", 
+    "title": "Clean Coder Blog"
 }
