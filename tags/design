@@ -310,4 +310,10 @@
     "hash": "8b084037e79226a4b746fb55a1a81036", 
     "uri": "https://martinfowler.com/bliki/ContextualValidation.html", 
     "title": "ContextualValidation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "ee70ddcb6aef20446c4a0ef9711fb18d", 
+    "uri": "https://jazzy.id.au/2016/07/22/semantic-discoverability-security.html", 
+    "title": "all that jazz - Semantic discoverability security"
 }

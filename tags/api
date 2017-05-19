@@ -124,4 +124,10 @@
     "hash": "b2a802e7ecd1d44f3fb9581038d644d1", 
     "uri": "http://allegro.tech/2015/01/Content-headers-or-how-to-version-api.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "ee70ddcb6aef20446c4a0ef9711fb18d", 
+    "uri": "https://jazzy.id.au/2016/07/22/semantic-discoverability-security.html", 
+    "title": "all that jazz - Semantic discoverability security"
 }
