@@ -28,4 +28,10 @@
     "hash": "90ca70b5a55144d7dd4e6e4ca8115d3e", 
     "uri": "https://medium.com/shaping-work/who-should-own-your-engineering-team-s-skill-debt-3c3f07bbefe9", 
     "title": "Access denied | medium.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "b8057a6872e7e42b88085a08796ede82", 
+    "uri": "https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext", 
+    "title": "Why Google Stores Billions of Lines of Code in a Single Repository | July 2016 | Communications of the ACM"
 }

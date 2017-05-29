@@ -136,4 +136,10 @@
     "hash": "4e2fbfa3328b72ad12f06df7ec136a74", 
     "uri": "https://techsolidarity.org/resources/security_key_gmail.htm", 
     "title": "How To Add A Security Key To Your Gmail (Tech Solidarity)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "b8057a6872e7e42b88085a08796ede82", 
+    "uri": "https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext", 
+    "title": "Why Google Stores Billions of Lines of Code in a Single Repository | July 2016 | Communications of the ACM"
 }

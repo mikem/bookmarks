@@ -244,4 +244,10 @@
     "hash": "fb7450cf949aae16ce95deec011679b7", 
     "uri": "http://blog.cleancoder.com/uncle-bob/2017/05/05/TestDefinitions.html", 
     "title": "Clean Coder Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "b8057a6872e7e42b88085a08796ede82", 
+    "uri": "https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext", 
+    "title": "Why Google Stores Billions of Lines of Code in a Single Repository | July 2016 | Communications of the ACM"
 }
