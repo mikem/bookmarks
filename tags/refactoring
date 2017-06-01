@@ -58,4 +58,10 @@
     "hash": "4a15eaac95af584248ee6c9168f25f56", 
     "uri": "http://clonedigger.sourceforge.net/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "b0750b183f69ba0a47417e0a360013a5", 
+    "uri": "https://jacquesmattheij.com/improving-a-legacy-codebase", 
+    "title": "How to Improve a Legacy Codebase &middot; Jacques Mattheij"
 }

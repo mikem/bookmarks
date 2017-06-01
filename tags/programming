@@ -856,4 +856,10 @@
     "hash": "b54964a79a3fb8f833beeb4a140c8a9d", 
     "uri": "https://github.com/minimaxir/big-list-of-naughty-strings", 
     "title": "GitHub - minimaxir/big-list-of-naughty-strings: The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "b0750b183f69ba0a47417e0a360013a5", 
+    "uri": "https://jacquesmattheij.com/improving-a-legacy-codebase", 
+    "title": "How to Improve a Legacy Codebase &middot; Jacques Mattheij"
 }
