@@ -22,4 +22,10 @@
     "hash": "9c305a0ba43b5a2bc2c0bfb67ade79e7", 
     "uri": "http://pyblosxom.sourceforge.net/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "d49281548b65efa49d2747167ca758a7", 
+    "uri": "https://nat.sakimura.org/2012/01/26/scopes-and-claims-in-openid-connect/", 
+    "title": "Scopes and Claims in OpenID Connect | .Nat Zone"
 }
