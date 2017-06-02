@@ -202,4 +202,10 @@
     "hash": "b54964a79a3fb8f833beeb4a140c8a9d", 
     "uri": "https://github.com/minimaxir/big-list-of-naughty-strings", 
     "title": "GitHub - minimaxir/big-list-of-naughty-strings: The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "31b0d198a5dfd7dc23c0e513537dd2d5", 
+    "uri": "https://github.com/koekeishiya/chunkwm", 
+    "title": "GitHub - koekeishiya/chunkwm: Tiling window manager for MacOS based on plugin architecture"
 }

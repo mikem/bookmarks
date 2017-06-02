@@ -16,4 +16,10 @@
     "hash": "111043ee3446483fbfe0349f25283eb9", 
     "uri": "http://mandolux.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "31b0d198a5dfd7dc23c0e513537dd2d5", 
+    "uri": "https://github.com/koekeishiya/chunkwm", 
+    "title": "GitHub - koekeishiya/chunkwm: Tiling window manager for MacOS based on plugin architecture"
 }

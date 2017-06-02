@@ -130,4 +130,10 @@
     "hash": "4f8b6f94a163157b12435dab3aaa1bad", 
     "uri": "https://github.com/sindresorhus/quick-look-plugins", 
     "title": "GitHub - sindresorhus/quick-look-plugins: List of useful Quick Look plugins for developers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "31b0d198a5dfd7dc23c0e513537dd2d5", 
+    "uri": "https://github.com/koekeishiya/chunkwm", 
+    "title": "GitHub - koekeishiya/chunkwm: Tiling window manager for MacOS based on plugin architecture"
 }

@@ -190,4 +190,10 @@
     "hash": "68a96f84f6d9a38d686cbf4ad32b5102", 
     "uri": "https://devops.com/feature-branching-vs-feature-flags-whats-right-tool-job/", 
     "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "31b0d198a5dfd7dc23c0e513537dd2d5", 
+    "uri": "https://github.com/koekeishiya/chunkwm", 
+    "title": "GitHub - koekeishiya/chunkwm: Tiling window manager for MacOS based on plugin architecture"
 }
