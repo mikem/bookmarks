@@ -52,4 +52,10 @@
     "hash": "011e34ad5c059996409dc1ee3caa6b17", 
     "uri": "http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions", 
     "title": "Blog | Documenting Architecture Decisions | Relevance"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "4be9196c8c5a8f49f32194b4927d6f77", 
+    "uri": "http://h.readthedocs.io/en/latest/arch/", 
+    "title": "Architecture decision records &mdash; h 0.0.2 documentation"
 }
