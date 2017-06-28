@@ -862,4 +862,10 @@
     "hash": "b0750b183f69ba0a47417e0a360013a5", 
     "uri": "https://jacquesmattheij.com/improving-a-legacy-codebase", 
     "title": "How to Improve a Legacy Codebase &middot; Jacques Mattheij"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "011e34ad5c059996409dc1ee3caa6b17", 
+    "uri": "http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions", 
+    "title": "Blog | Documenting Architecture Decisions | Relevance"
 }

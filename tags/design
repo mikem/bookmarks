@@ -316,4 +316,10 @@
     "hash": "ee70ddcb6aef20446c4a0ef9711fb18d", 
     "uri": "https://jazzy.id.au/2016/07/22/semantic-discoverability-security.html", 
     "title": "all that jazz - Semantic discoverability security"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "011e34ad5c059996409dc1ee3caa6b17", 
+    "uri": "http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions", 
+    "title": "Blog | Documenting Architecture Decisions | Relevance"
 }

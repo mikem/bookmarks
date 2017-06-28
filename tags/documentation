@@ -46,4 +46,10 @@
     "hash": "0961f824308871c20ee18f8b96b11bb5", 
     "uri": "http://sphinx.pocoo.org/index.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "011e34ad5c059996409dc1ee3caa6b17", 
+    "uri": "http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions", 
+    "title": "Blog | Documenting Architecture Decisions | Relevance"
 }
