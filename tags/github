@@ -208,4 +208,10 @@
     "hash": "31b0d198a5dfd7dc23c0e513537dd2d5", 
     "uri": "https://github.com/koekeishiya/chunkwm", 
     "title": "GitHub - koekeishiya/chunkwm: Tiling window manager for MacOS based on plugin architecture"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "bef366e6209398835391090d81a92396", 
+    "uri": "http://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/", 
+    "title": "Effective pull requests and other good practices for teams using github - by David Winterbottom"
 }

@@ -202,4 +202,10 @@
     "hash": "7b777ea6d7eaf587890e2fb9046e5d67", 
     "uri": "http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "bef366e6209398835391090d81a92396", 
+    "uri": "http://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/", 
+    "title": "Effective pull requests and other good practices for teams using github - by David Winterbottom"
 }
