@@ -196,4 +196,10 @@
     "hash": "31b0d198a5dfd7dc23c0e513537dd2d5", 
     "uri": "https://github.com/koekeishiya/chunkwm", 
     "title": "GitHub - koekeishiya/chunkwm: Tiling window manager for MacOS based on plugin architecture"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "7b777ea6d7eaf587890e2fb9046e5d67", 
+    "uri": "http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html", 
+    "title": "[No Title]"
 }
