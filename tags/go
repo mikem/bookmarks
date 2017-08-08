@@ -16,4 +16,10 @@
     "hash": "34a6a2ddfb205b782f0e1a5b714c5ad1", 
     "uri": "https://github.com/uber-go/zap", 
     "title": "GitHub - uber-go/zap: Fast, structured, leveled logging in Go"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "e0f9fc308e1adf355ccfca7c0a4fc81d", 
+    "uri": "https://about.sourcegraph.com/go/grpc-in-production-alan-shreve", 
+    "title": "gRPC in Production"
 }
