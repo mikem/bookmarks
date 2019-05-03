@@ -52,4 +52,10 @@
     "hash": "b74f221c956ad43e46c722b9c2b4aafc", 
     "uri": "http://blog.splitbody.com/2007/6/29/we-are-looking-for-interview-guidlines", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "mikem", 
+    "hash": "2d193836cc3fe434ee18df9ab212deeb", 
+    "uri": "https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/", 
+    "title": "Questions I&#39;m asking in interviews - Julia Evans"
 }
